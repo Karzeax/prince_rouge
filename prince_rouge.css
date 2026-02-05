@@ -1,0 +1,13 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(15, 40px);
+    grid-template-rows: repeat(15, 40px);        
+    background-image: url(https://www.kigard.fr/images/vue/sol/16.gif);
+}
+
+.item {
+    border: 1px white solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;        
+}
