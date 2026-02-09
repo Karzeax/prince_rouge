@@ -1,13 +1,65 @@
+body {
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tdj {
+    background-color: #60482d;
+    color: white;
+    font-weight: 800;
+    width: 720px;
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
+td {
+    padding-right: 10px;
+    vertical-align: middle;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.tr-impair {
+    background-color: #f2dfb1;
+}
+
+.tr-pair {
+    background-color: #debf85;
+}
+
+.historic, table {
+    width: 720px;
+}
+
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(15, 40px);
-    grid-template-rows: repeat(15, 40px);        
-    background-image: url(https://www.kigard.fr/images/vue/sol/16.gif);
+    grid-template-columns: repeat(15, 36px);
+    grid-template-rows: repeat(15, 36px);
+    width: 720px;
+    justify-content: center;
+    padding: 15px 0 15px 0;
+    background-color: #f0d994;
 }
 
 .item {
-    border: 1px white solid;
+    border: none; 
     display: flex;
     align-items: center;
-    justify-content: center;        
+    justify-content: center;
+    background-image: url(https://www.kigard.fr/images/vue/sol/16.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.impair, .pair, .neutral {
+    background-image: none;
+}
+
+.grid-container img {
+    width: 27px;
+    height: 27px;
 }
