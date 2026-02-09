@@ -2,24 +2,119 @@ body {
     font-size: 16px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    margin: 0;
+    padding: 10px 0;
+    font-family: sans-serif;
 }
+
+/* Header */
 .tdj {
     background-color: #60482d;
     color: white;
     font-weight: 800;
-    width: 720px;
+    width: 540px;
     text-align: center;
-    padding: 10px 0 10px 0;
+    padding: 10px 0;
 }
 
-td:first-of-type {
-    width: 50px;
+/* Navigation */
+.navigation {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 540px;
+    padding: 8px 0;
+    justify-content: center;
+}
+
+.navigation button {
+    background-color: #60482d;
+    color: white;
+    border: none;
+    padding: 6px 14px;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 3px;
+}
+
+.navigation button:hover:not(:disabled) {
+    background-color: #7a5c3a;
+}
+
+.navigation button:disabled {
+    opacity: 0.4;
+    cursor: default;
+}
+
+.navigation input[type="range"] {
+    flex: 1;
+    accent-color: #60482d;
+}
+
+#turn-display {
+    font-size: 14px;
+    min-width: 70px;
+    text-align: center;
+    color: #60482d;
+    font-weight: 700;
+}
+
+/* Game grid */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(15, 36px);
+    grid-template-rows: repeat(15, 36px);
+    width: 540px;
+    justify-content: center;
+    padding: 15px 0;
+    background-color: #f0d994;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://www.kigard.fr/images/vue/sol/16.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: white 1px solid;
+    font-size: 11px;
+    font-weight: 700;
+    color: #60482d;
+}
+
+.pair {
+    background-image: none;
+    background-color: #f2dfb1;
+}
+
+.impair {
+    background-image: none;
+    background-color: #debf85;
+}
+
+.neutral {
+    background-image: none;
+    background-color: #60482d;
+}
+
+.grid-container img {
+    width: 27px;
+    height: 27px;
+}
+
+/* History */
+.historic, table {
+    width: 540px;
 }
 
 table {
     border-collapse: collapse;
+}
+
+td:first-of-type {
+    width: 50px;
 }
 
 .tr-impair {
@@ -30,36 +125,19 @@ table {
     background-color: #debf85;
 }
 
-.historic, table {
-    width: 720px;
+td {
+    padding: 3px 5px;
+    vertical-align: middle;
 }
 
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(15, 36px);
-    grid-template-rows: repeat(15, 36px);
-    width: 720px;
-    justify-content: center;
-    padding: 15px 0 15px 0;
-    background-color: #f0d994;
+td img {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
 }
 
-.item {
-    border: none; 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-image: url(https://www.kigard.fr/images/vue/sol/16.gif);
-    background-repeat: no-repeat;
-    background-size: cover;
-    border: white 1px solid;
-}
-
-.impair, .pair, .neutral {
-    background-image: none;
-}
-
-.grid-container img {
-    width: 27px;
-    height: 27px;
+/* Icon class for SVG action icons */
+.icon {
+    width: 16px !important;
+    height: 16px !important;
 }
