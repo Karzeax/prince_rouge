@@ -471,47 +471,47 @@ const TURNS = [
       },
       {
         time: "08h53",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge quitte une hache dans le basalte',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge quitte une hache dans le basalte',
         result: "",
       },
       {
         time: "08h53",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade quitte une hache dans le basalte',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade quitte une hache dans le basalte',
         result: "",
       },
       {
         time: "08h53",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade quitte une hache dans le basalte',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade quitte une hache dans le basalte',
         result: "",
       },
       {
         time: "08h53",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon quitte une hache dans le basalte',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon quitte une hache dans le basalte',
         result: "",
       },
       {
         time: "08h53",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon quitte une hache dans le basalte',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon quitte une hache dans le basalte',
         result: "",
       },
       {
         time: "08h53",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent quitte une hache dans le basalte',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent quitte une hache dans le basalte',
         result: "",
       },
       {
         time: "08h53",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent quitte une hache dans le basalte',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent quitte une hache dans le basalte',
         result: "",
       },
       {
         time: "08h53",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée quitte une hache dans le basalte',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée quitte une hache dans le basalte',
         result: "",
       },
       {
         time: "08h53",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée quitte une hache dans le basalte',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée quitte une hache dans le basalte',
         result: "",
       },
     ],
@@ -789,7 +789,7 @@ const TURNS = [
       },
       {
         time: "10h20",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
         result: "",
       },
       {
@@ -1042,7 +1042,7 @@ const TURNS = [
       },
       {
         time: "10h41",
-        text: '<img alt="Monstre 37" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
+        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
         result: "",
       },
       {
@@ -1052,7 +1052,7 @@ const TURNS = [
       },
       {
         time: "10h45",
-        text: '<img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
+        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
         result: "",
       },
       {
@@ -1305,7 +1305,7 @@ const TURNS = [
     history: [
       {
         time: "10h50",
-        text: '<img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme réalise un bond',
+        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme réalise un bond',
         result: "",
       },
     ],
@@ -1791,17 +1791,17 @@ const TURNS = [
     history: [
       {
         time: "11h58",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
         result: "",
       },
       {
         time: "11h58",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
         result: "",
       },
       {
         time: "11h58",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
         result: "",
       },
     ],
@@ -2039,12 +2039,12 @@ const TURNS = [
     history: [
       {
         time: "12h02",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se déplace',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se déplace',
         result: "",
       },
       {
         time: "12h02",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se défend',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se défend',
         result: "",
       },
       {
@@ -2288,22 +2288,22 @@ const TURNS = [
     history: [
       {
         time: "12h53",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon active son tour',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon active son tour',
         result: "",
       },
       {
         time: "12h53",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon réalise un bond',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon réalise un bond',
         result: "",
       },
       {
         time: "12h53",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon réalise un bond',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon réalise un bond',
         result: "",
       },
       {
         time: "12h53",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Boule de feu sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Boule de feu sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -23 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
@@ -2315,13 +2315,13 @@ const TURNS = [
       },
       {
         time: "12h59",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -41 PV',
       },
       {
         time: "12h59",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -43 PV',
       },
@@ -2570,53 +2570,53 @@ const TURNS = [
     history: [
       {
         time: "14h11",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon active son tour',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon active son tour',
         result: "",
       },
       {
         time: "14h11",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon réalise un bond',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon réalise un bond',
         result: "",
       },
       {
         time: "14h11",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! +5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "14h11",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal',
         result:
           '+7 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "14h11",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC Karz]',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC Karz]',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! +5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "14h11",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
           '+7 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "14h11",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
         result:
           '+7 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "14h11",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius',
         result:
           '+7 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "14h11",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
+        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
         result:
           '+7 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
@@ -2860,27 +2860,27 @@ const TURNS = [
     history: [
       {
         time: "14h42",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
         result: "",
       },
       {
         time: "14h42",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge réalise un bond',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge réalise un bond',
         result: "",
       },
       {
         time: "14h42",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge réalise un bond',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge réalise un bond',
         result: "",
       },
       {
         time: "14h42",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se déplace',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se déplace',
         result: "",
       },
       {
         time: "14h42",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
         result: "",
       },
       {
@@ -2890,19 +2890,19 @@ const TURNS = [
       },
       {
         time: "14h53",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -43 PV +2 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
       },
       {
         time: "14h54",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result:
           '-32 PV +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
       },
       {
         time: "15h02",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result: "-28 PV",
       },
       {
@@ -3384,12 +3384,12 @@ const TURNS = [
     history: [
       {
         time: "16h43",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr attaque <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result: "-30 PV",
       },
       {
         time: "16h44",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result: '-31 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
       {
@@ -3637,12 +3637,12 @@ const TURNS = [
       },
       {
         time: "17h27",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result: "-37 PV",
       },
       {
         time: "17h29",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result: "-30 PV",
       },
     ],
@@ -3880,13 +3880,13 @@ const TURNS = [
     history: [
       {
         time: "17h51",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> -42 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
       {
         time: "17h54",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque hypnotiquement <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque hypnotiquement <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
       },
@@ -4160,7 +4160,7 @@ const TURNS = [
       },
       {
         time: "19h57",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '-23 PV +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" class="icon" title="Saignement" alt="Saignement">',
       },
@@ -4404,7 +4404,7 @@ const TURNS = [
       },
       {
         time: "21h02",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
         result: "",
       },
       {
@@ -4429,7 +4429,7 @@ const TURNS = [
       },
       {
         time: "21h48",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian n\'arrive pas à examiner <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "",
       },
       {
@@ -4692,7 +4692,7 @@ const TURNS = [
       },
       {
         time: "22h01",
-        text: '<img alt="Monstre 37" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
+        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
         result: "",
       },
       {
@@ -4707,7 +4707,7 @@ const TURNS = [
       },
       {
         time: "22h04",
-        text: '<img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
+        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
         result: "",
       },
       {
@@ -4971,7 +4971,7 @@ const TURNS = [
       },
       {
         time: "22h25",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '+2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
@@ -5210,7 +5210,7 @@ const TURNS = [
     history: [
       {
         time: "22h26",
-        text: '<img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme se déplace',
+        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme se déplace',
         result: "",
       },
     ],
@@ -5696,13 +5696,13 @@ const TURNS = [
       },
       {
         time: "22h37",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Coup de bouclier sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '+2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
       {
         time: "22h38",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -34 PV',
       },
@@ -5941,18 +5941,18 @@ const TURNS = [
     history: [
       {
         time: "22h47",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
         result: "",
       },
       {
         time: "22h47",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
         result:
           '<img src="blocage.svg" class="icon" title="Blocage" alt="Blocage"> Blocage ! -11 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "22h47",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
         result:
           '-23 PV +3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
@@ -5995,19 +5995,19 @@ const TURNS = [
       },
       {
         time: "23h17",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '-9 PV +1 <img src="https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04" title="Cécité" alt="Cécité">',
       },
       {
         time: "23h17",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -16 PV +2 <img src="https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04" title="Cécité" alt="Cécité">',
       },
       {
         time: "23h17",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx utilise Attaque précise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx utilise Attaque précise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -16 PV +2 <img src="https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04" title="Cécité" alt="Cécité">',
       },
@@ -6025,29 +6025,29 @@ const TURNS = [
       },
       {
         time: "23h20",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque hypnotiquement <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque hypnotiquement <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -30 PV',
       },
       {
         time: "23h24",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka n\'arrive pas à examiner <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "",
       },
       {
         time: "23h26",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise Attaque précise sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise Attaque précise sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -22 PV',
       },
       {
         time: "23h26",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result: "-17 PV",
       },
       {
         time: "23h27",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius n\'arrive pas à examiner <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "",
       },
       {
@@ -6057,13 +6057,13 @@ const TURNS = [
       },
       {
         time: "23h33",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise Attaque puissante sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise Attaque puissante sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -43 PV',
       },
       {
         time: "23h37",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -31 PV +2 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
       },
@@ -6307,22 +6307,22 @@ const TURNS = [
     history: [
       {
         time: "00h26",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
         result: "",
       },
       {
         time: "00h26",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent utilise Recherche intuitive',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent utilise Recherche intuitive',
         result: "",
       },
       {
         time: "00h26",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
         result: "",
       },
       {
         time: "00h26",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
         result: "",
       },
     ],
@@ -6560,42 +6560,42 @@ const TURNS = [
     history: [
       {
         time: "00h43",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
         result: "",
       },
       {
         time: "00h43",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade réalise un bond',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade réalise un bond',
         result: "",
       },
       {
         time: "00h43",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
         result: "",
       },
       {
         time: "01h47",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
         result: "",
       },
       {
         time: "01h47",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque puissante sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque puissante sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
       },
       {
         time: "01h47",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
       },
       {
         time: "01h47",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge attaque <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge attaque <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
       },
       {
         time: "01h47",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge attend',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge attend',
         result: "",
       },
     ],
@@ -6833,17 +6833,17 @@ const TURNS = [
     history: [
       {
         time: "07h14",
-        text: '<img alt="Monstre 37" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet réalise un bond',
+        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet réalise un bond',
         result: "",
       },
       {
         time: "07h14",
-        text: '<img alt="Monstre 37" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet se déplace',
+        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet se déplace',
         result: "",
       },
       {
         time: "07h14",
-        text: '<img alt="Monstre 37" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet se défend',
+        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet se défend',
         result: "",
       },
     ],
@@ -7086,12 +7086,12 @@ const TURNS = [
       },
       {
         time: "08h45",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
       },
       {
         time: "08h45",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -13 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
@@ -7102,12 +7102,12 @@ const TURNS = [
       },
       {
         time: "09h01",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
         result: "",
       },
       {
         time: "09h02",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-20 PV",
       },
       {
@@ -7127,7 +7127,7 @@ const TURNS = [
       },
       {
         time: "09h57",
-        text: '<img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
+        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
         result: "",
       },
       {
@@ -7142,23 +7142,23 @@ const TURNS = [
       },
       {
         time: "10h06",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '+2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
       {
         time: "10h06",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "",
       },
       {
         time: "10h06",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "",
       },
       {
         time: "10h07",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu n\'arrive pas à examiner <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "",
       },
       {
@@ -7426,39 +7426,39 @@ const TURNS = [
     history: [
       {
         time: "11h30",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
         result: "",
       },
       {
         time: "11h30",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
         result: "",
       },
       {
         time: "11h30",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
         result: "",
       },
       {
         time: "11h35",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -36 PV',
       },
       {
         time: "11h35",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result: "-29 PV",
       },
       {
         time: "11h35",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Coup de bouclier sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '+2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
       {
         time: "11h35",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -24 PV',
       },
@@ -7697,28 +7697,28 @@ const TURNS = [
     history: [
       {
         time: "11h36",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
         result: "",
       },
       {
         time: "11h36",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade réalise un bond',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade réalise un bond',
         result: "",
       },
       {
         time: "11h39",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -31 PV',
       },
       {
         time: "11h40",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-23 PV",
       },
       {
         time: "11h41",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz examine l\'état de <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz examine l\'état de <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result: "",
       },
       {
@@ -7961,17 +7961,17 @@ const TURNS = [
     history: [
       {
         time: "12h02",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
         result: "",
       },
       {
         time: "12h02",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
         result: "",
       },
       {
         time: "12h02",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
         result: "",
       },
     ],
@@ -8209,24 +8209,24 @@ const TURNS = [
     history: [
       {
         time: "12h05",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise Attaque précise sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise Attaque précise sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result: "-16 PV",
       },
       {
         time: "12h28",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -27 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
       {
         time: "12h35",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '-27 PV +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
       },
       {
         time: "12h53",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane n\'arrive pas à examiner <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "",
       },
       {
@@ -8237,28 +8237,28 @@ const TURNS = [
       },
       {
         time: "14h14",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -16 PV +2 <img src="https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04" title="Cécité" alt="Cécité">',
       },
       {
         time: "16h34",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
         result: "",
       },
       {
         time: "16h34",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
       },
       {
         time: "16h34",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque puissante sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque puissante sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
       },
       {
         time: "16h34",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge attend',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge attend',
         result: "",
       },
       {
@@ -8268,7 +8268,7 @@ const TURNS = [
       },
       {
         time: "17h39",
-        text: '<img alt="Monstre 37" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
+        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
         result: "",
       },
     ],
@@ -8754,13 +8754,13 @@ const TURNS = [
     history: [
       {
         time: "20h17",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -6 PV',
       },
       {
         time: "20h28",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Exaltation sur <img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
+        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Exaltation sur <img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
         result:
           '+4 <img src="https://www.kigard.fr/images/modificateur/30.gif?v=2.15.04" title="Exalté" alt="Exalté">',
       },
@@ -8772,7 +8772,7 @@ const TURNS = [
       },
       {
         time: "21h01",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result: "-28 PV",
       },
       {
@@ -8782,7 +8782,7 @@ const TURNS = [
       },
       {
         time: "21h03",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
         result: "",
       },
       {
@@ -8792,13 +8792,13 @@ const TURNS = [
       },
       {
         time: "21h05",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -16 PV',
       },
       {
         time: "21h05",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result: "-21 PV",
       },
       {
@@ -9076,12 +9076,12 @@ const TURNS = [
     history: [
       {
         time: "21h28",
-        text: '<img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme se déplace',
+        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme se déplace',
         result: "",
       },
       {
         time: "21h28",
-        text: '<img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Vol de magie sur <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Vol de magie sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
       },
@@ -9341,7 +9341,7 @@ const TURNS = [
       },
       {
         time: "21h34",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -35 PV',
       },
@@ -9368,7 +9368,7 @@ const TURNS = [
       },
       {
         time: "21h52",
-        text: '<img alt="Monstre 37" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
+        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
         result: "",
       },
     ],
@@ -9611,23 +9611,23 @@ const TURNS = [
       },
       {
         time: "21h55",
-        text: '<img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
+        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
         result: "",
       },
       {
         time: "21h56",
-        text: '<img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Vol de magie sur <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Vol de magie sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
       },
       {
         time: "21h56",
-        text: '<img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme réalise un bond',
+        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme réalise un bond',
         result: "",
       },
       {
         time: "21h56",
-        text: '<img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Siphonner sur <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Siphonner sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -7 PV',
       },
@@ -9876,13 +9876,13 @@ const TURNS = [
       },
       {
         time: "22h04",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -27 PV',
       },
       {
         time: "22h04",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Exécuter sur <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Exécuter sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -30 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
@@ -10136,19 +10136,19 @@ const TURNS = [
       },
       {
         time: "22h11",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -21 PV',
       },
       {
         time: "22h11",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -41 PV',
       },
       {
         time: "22h16",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -34 PV',
       },
@@ -10402,30 +10402,30 @@ const TURNS = [
       },
       {
         time: "22h19",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -34 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
       {
         time: "22h19",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -1 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
       {
         time: "22h20",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -11 PV',
       },
       {
         time: "22h20",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-1",
       },
       {
         time: "22h21",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -11 PV +3 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
@@ -10705,7 +10705,7 @@ const TURNS = [
       },
       {
         time: "22h29",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -12 PV',
       },
@@ -10959,34 +10959,34 @@ const TURNS = [
       },
       {
         time: "22h34",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -17 PV',
       },
       {
         time: "22h34",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result: "-29 PV",
       },
       {
         time: "22h35",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result: "-30 PV",
       },
       {
         time: "22h35",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -30 PV',
       },
       {
         time: "22h35",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Piqûre sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-19 PV",
       },
       {
         time: "22h36",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result: '-30 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
       {
@@ -10996,19 +10996,19 @@ const TURNS = [
       },
       {
         time: "22h42",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Attaque sacrée sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Attaque sacrée sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -8 PV',
       },
       {
         time: "22h46",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Coup de bouclier sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -12 PV +3 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
       {
         time: "22h49",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr n\'arrive pas à examiner <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "",
       },
       {
@@ -11018,7 +11018,7 @@ const TURNS = [
       },
       {
         time: "00h24",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -26 PV +2 <img src="https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04" title="Cécité" alt="Cécité">',
       },
@@ -11257,39 +11257,39 @@ const TURNS = [
     history: [
       {
         time: "01h45",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
         result: "",
       },
       {
         time: "01h45",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
         result: "",
       },
       {
         time: "01h45",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
         result:
           '-18 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
       {
         time: "01h45",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
         result:
           '-20 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
       {
         time: "05h37",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
         result: "",
       },
       {
         time: "05h37",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
       },
       {
         time: "05h37",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
         result: "",
       },
     ],
@@ -11526,21 +11526,21 @@ const TURNS = [
     ],
     history: [
       { time: "09h01", text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Karz.gif"> [CIC] Karz active son tour', result: "+12 PV" },
-      { time: "09h01", text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour', result: "" },
+      { time: "09h01", text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour', result: "" },
       { time: "09h02", text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal active son tour', result: "" },
-      { time: "09h02", text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se déplace', result: "" },
+      { time: "09h02", text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se déplace', result: "" },
       {
         time: "09h02",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
       },
-      { time: "09h02", text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge', result: "-5 PV" },
-      { time: "09h02", text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attend', result: "" },
+      { time: "09h02", text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge', result: "-5 PV" },
+      { time: "09h02", text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attend', result: "" },
       { time: "09h55", text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Sephy.gif"> [CIC] Sephy active son tour', result: "" },
       {
         time: "10h03",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
       },
@@ -11805,7 +11805,7 @@ const TURNS = [
       },
       {
         time: "10h40",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -22 PV',
       },
@@ -12064,25 +12064,25 @@ const TURNS = [
       },
       {
         time: "10h51",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -31 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
       {
         time: "10h51",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -2 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
       {
         time: "10h57",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -41 PV',
       },
       {
         time: "10h58",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sacrée sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sacrée sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -10 PV',
       },
@@ -12321,22 +12321,22 @@ const TURNS = [
     history: [
       {
         time: "11h48",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
         result: "",
       },
       {
         time: "11h48",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
         result: "",
       },
       {
         time: "11h48",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
         result: "",
       },
       {
         time: "11h48",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
         result: "",
       },
       {
@@ -12595,30 +12595,30 @@ const TURNS = [
     history: [
       {
         time: "14h08",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
         result: "",
       },
       {
         time: "14h08",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
         result:
           '-24 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
       {
         time: "14h08",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -38 PV +3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
       {
         time: "14h08",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Monstre 72" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -33 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
       {
         time: "14h08",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se défend',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se défend',
         result: "",
       },
       {
@@ -12628,7 +12628,7 @@ const TURNS = [
       },
       {
         time: "14h50",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal n\'arrive pas à examiner <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "",
       },
       {
@@ -12648,18 +12648,18 @@ const TURNS = [
       },
       {
         time: "16h18",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-6 PV",
       },
       {
         time: "16h18",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -19 PV',
       },
       {
         time: "16h18",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -23 PV',
       },
@@ -12670,7 +12670,7 @@ const TURNS = [
       },
       {
         time: "16h21",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Coup de bouclier sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '-4 PV +2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
@@ -12681,7 +12681,7 @@ const TURNS = [
       },
       {
         time: "16h41",
-        text: '<img alt="Monstre 37" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
+        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
         result: "",
       },
     ],
@@ -12929,12 +12929,12 @@ const TURNS = [
       },
       {
         time: "18h36",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-6 PV",
       },
       {
         time: "18h48",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Boule de feu sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Boule de feu sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !+1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
@@ -12961,46 +12961,46 @@ const TURNS = [
       },
       {
         time: "19h02",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -18 PV',
       },
       {
         time: "19h02",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -24 PV',
       },
       {
         time: "19h03",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -26 PV',
       },
       {
         time: "19h33",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
         result: "-1 PV",
       },
       {
         time: "19h33",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque puissante sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque puissante sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -32 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
       },
       {
         time: "19h33",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
       },
       {
         time: "19h33",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
         result: "",
       },
       {
         time: "19h33",
-        text: '<img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
+        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
         result: "",
       },
     ],
@@ -13248,17 +13248,17 @@ const TURNS = [
       },
       {
         time: "21h01",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
         result: "",
       },
       {
         time: "21h01",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-18 PV",
       },
       {
         time: "21h01",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-6 PV",
       },
       {
@@ -13273,18 +13273,18 @@ const TURNS = [
       },
       {
         time: "21h32",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-3 PV",
       },
       {
         time: "21h33",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -5 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
       {
         time: "21h33",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian n\'arrive pas à exposer les faiblesses de <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian n\'arrive pas à exposer les faiblesses de <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "",
       },
       {
@@ -13314,7 +13314,7 @@ const TURNS = [
       },
       {
         time: "22h05",
-        text: '<img alt="Monstre 37" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
+        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
         result: "",
       },
       {
@@ -13334,13 +13334,13 @@ const TURNS = [
       },
       {
         time: "22h22",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -14 PV +1 <img src="https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04" title="Gel" alt="Gel">',
       },
       {
         time: "22h22",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '-17 PV +2 <img src="https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04" title="Gel" alt="Gel">',
       },
@@ -13371,7 +13371,7 @@ const TURNS = [
       },
       {
         time: "22h55",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -8 PV +1 <img src="https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04" title="Gel" alt="Gel">',
       },
@@ -13387,17 +13387,17 @@ const TURNS = [
       },
       {
         time: "23h01",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-5 PV",
       },
       {
         time: "23h01",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-5 PV",
       },
       {
         time: "23h01",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-10 PV",
       },
       {
@@ -13408,19 +13408,19 @@ const TURNS = [
       },
       {
         time: "23h01",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -24 PV',
       },
       {
         time: "23h02",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -19 PV',
       },
       {
         time: "23h02",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx utilise Attaque précise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx utilise Attaque précise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -22 PV',
       },
@@ -13431,7 +13431,7 @@ const TURNS = [
       },
       {
         time: "23h07",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-10 PV",
       },
       {
@@ -13441,12 +13441,12 @@ const TURNS = [
       },
       {
         time: "23h13",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-23 PV",
       },
       {
         time: "23h14",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -35 PV',
       },
@@ -13463,13 +13463,13 @@ const TURNS = [
       },
       {
         time: "23h25",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -14 PV',
       },
       {
         time: "23h26",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-5 PV",
       },
       {
@@ -13722,23 +13722,23 @@ const TURNS = [
       },
       {
         time: "23h30",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-12 PV",
       },
       {
         time: "23h31",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Attaque puissante sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Attaque puissante sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -33 PV',
       },
       {
         time: "23h31",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-6 PV",
       },
       {
         time: "23h48",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-8 PV",
       },
     ],
@@ -13976,27 +13976,27 @@ const TURNS = [
     history: [
       {
         time: "00h07",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
         result: "",
       },
       {
         time: "00h07",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent utilise Recherche intuitive',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent utilise Recherche intuitive',
         result: "",
       },
       {
         time: "00h07",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
         result: "",
       },
       {
         time: "00h07",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
         result: "",
       },
       {
         time: "00h07",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent attend',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent attend',
         result: "",
       },
     ],
@@ -14234,7 +14234,7 @@ const TURNS = [
     history: [
       {
         time: "00h35",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -33 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
@@ -14741,29 +14741,29 @@ const TURNS = [
     history: [
       {
         time: "01h26",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
         result: "",
       },
       {
         time: "01h26",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
         result: "",
       },
       {
         time: "01h26",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "01h26",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "01h26",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -26 PV +3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
@@ -15002,17 +15002,17 @@ const TURNS = [
     history: [
       {
         time: "02h47",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
         result: "",
       },
       {
         time: "02h47",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade réalise un bond',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade réalise un bond',
         result: "",
       },
       {
         time: "02h47",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
         result: "",
       },
     ],
@@ -15265,7 +15265,7 @@ const TURNS = [
       },
       {
         time: "09h00",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
         result: "",
       },
       {
@@ -15287,12 +15287,12 @@ const TURNS = [
       },
       {
         time: "09h11",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
       },
       {
         time: "09h11",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se défend',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se défend',
         result: "",
       },
       {
@@ -15555,22 +15555,22 @@ const TURNS = [
     history: [
       {
         time: "10h09",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
         result: "",
       },
       {
         time: "10h09",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
         result: "",
       },
       {
         time: "10h09",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
         result: "",
       },
       {
         time: "10h09",
-        text: '<img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se défend',
+        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se défend',
         result: "",
       },
     ],
@@ -16051,7 +16051,7 @@ const TURNS = [
       },
       {
         time: "10h09",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Attaque sournoise sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Attaque sournoise sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="blocage.svg" src="blocage.svg" style="width: 16px;" height="16px"> Blocage ! -5 PV',
       },
@@ -16072,13 +16072,13 @@ const TURNS = [
       },
       {
         time: "10h33",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="blocage.svg" src="blocage.svg" style="width: 16px;" height="16px"> Blocage !',
       },
       {
         time: "10h33",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Attaque puissante sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Attaque puissante sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="blocage.svg" src="blocage.svg" style="width: 16px;" height="16px"> Blocage ! -7 PV',
       },
@@ -16089,17 +16089,17 @@ const TURNS = [
       },
       {
         time: "10h48",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result: "-18 PV",
       },
       {
         time: "10h48",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result: "-21 PV",
       },
       {
         time: "10h48",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '-20 PV +2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
@@ -16586,7 +16586,7 @@ const TURNS = [
       },
       {
         time: "11h08",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -53 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
@@ -16608,19 +16608,19 @@ const TURNS = [
       },
       {
         time: "11h24",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "11h24",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "11h24",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
@@ -16631,7 +16631,7 @@ const TURNS = [
       },
       {
         time: "12h22",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sacrée sur <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sacrée sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '-28 PV +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
       },
@@ -16643,7 +16643,7 @@ const TURNS = [
       },
       {
         time: "14h23",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -41 PV',
       },
@@ -16882,19 +16882,19 @@ const TURNS = [
     history: [
       {
         time: "14h26",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Exécuter sur <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Exécuter sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -38 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
       {
         time: "14h27",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal attaque hypnotiquement <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal attaque hypnotiquement <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -21 PV +2 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
       },
       {
         time: "14h28",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result: "-12 PV",
       },
     ],
@@ -17132,58 +17132,58 @@ const TURNS = [
     history: [
       {
         time: "15h16",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
         result: "",
       },
       {
         time: "15h16",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "15h16",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "15h16",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
         result:
           '+5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "15h16",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result:
           '+5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "15h16",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "15h16",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
         result:
           '+5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "15h16",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
         result: "",
       },
       {
         time: "15h16",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se défend',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se défend',
         result: "",
       },
       {
         time: "15h16",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade attend',
+        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade attend',
         result: "",
       },
       {
@@ -17193,7 +17193,7 @@ const TURNS = [
       },
       {
         time: "15h24",
-        text: '<img alt="Monstre 37" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
+        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
         result: "",
       },
       {
@@ -17690,18 +17690,18 @@ const TURNS = [
       },
       {
         time: "20h41",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
       },
       {
         time: "20h41",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
           '-19 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
       {
         time: "20h41",
-        text: '<img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
@@ -17712,7 +17712,7 @@ const TURNS = [
       },
       {
         time: "21h01",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
         result: "",
       },
       {
@@ -17722,18 +17722,18 @@ const TURNS = [
       },
       {
         time: "21h02",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
       },
       {
         time: "21h02",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -18 PV',
       },
       {
         time: "21h02",
-        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result: "-29 PV",
       },
       {
@@ -17743,7 +17743,7 @@ const TURNS = [
       },
       {
         time: "21h39",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy examine l\'état de <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy examine l\'état de <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result: "",
       },
     ],
@@ -17986,7 +17986,7 @@ const TURNS = [
       },
       {
         time: "21h48",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result: "-27 PV",
       },
     ],
@@ -18251,19 +18251,19 @@ const TURNS = [
       },
       {
         time: "21h58",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Coup de bouclier sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Coup de bouclier sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !+1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assommé" alt="Assommé">',
       },
       {
         time: "21h58",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Assommer sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Assommer sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '-5 PV +3 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assommé" alt="Assommé">',
       },
       {
         time: "21h58",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Attaque sournoise sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Attaque sournoise sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -38 PV',
       },
@@ -18285,7 +18285,7 @@ const TURNS = [
       },
       {
         time: "22h05",
-        text: '<img alt="Monstre 37" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
+        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
         result: "",
       },
       {
@@ -18321,13 +18321,13 @@ const TURNS = [
       },
       {
         time: "22h37",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '-16 PV +1 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
       {
         time: "22h37",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque (main gauche) <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -8 PV',
       },
@@ -18814,13 +18814,13 @@ const TURNS = [
       },
       {
         time: "23h04",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -17 PV',
       },
       {
         time: "23h04",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -17 PV',
       },
@@ -19074,12 +19074,12 @@ const TURNS = [
       },
       {
         time: "23h10",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result: "-11 PV",
       },
       {
         time: "23h10",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Attaque puissante sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Attaque puissante sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -41 PV',
       },
@@ -19318,7 +19318,7 @@ const TURNS = [
     history: [
       {
         time: "23h11",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -25 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
@@ -19801,13 +19801,13 @@ const TURNS = [
       },
       {
         time: "23h12",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -48 PV',
       },
       {
         time: "23h12",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -43 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
