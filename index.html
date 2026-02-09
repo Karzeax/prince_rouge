@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Prince Rouge - Kigard</title>
+    <link href="prince_rouge.css" rel="stylesheet">
+</head>
+<body>
+    <header class="tdj">
+        <div id="date"></div>
+        <div id="time"></div>
+        <div id="turn-label"></div>
+    </header>
+
+    <nav class="navigation">
+        <button id="prev-btn" title="Tour precedent" aria-label="Tour precedent">&#9664;</button>
+        <input type="range" id="turn-slider" min="0" value="0">
+        <button id="next-btn" title="Tour suivant" aria-label="Tour suivant">&#9654;</button>
+        <span id="turn-display"></span>
+    </nav>
+
+    <div id="grid" class="grid-container"></div>
+
+    <div class="historic">
+        <table>
+            <tbody id="history-table"></tbody>
+        </table>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
