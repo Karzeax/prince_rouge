@@ -11525,13 +11525,13 @@ const TURNS = [
       ],
     ],
     history: [
-      { time: "09h01", text: "[CIC] Karz active son tour", result: "+12 PV" },
-      { time: "09h01", text: "Tréant active son tour", result: "" },
-      { time: "09h02", text: "Eressëa Sirthaal active son tour", result: "" },
-      { time: "09h02", text: "Tréant se déplace", result: "" },
+      { time: "09h01", text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Karz.gif"> [CIC] Karz active son tour', result: "+12 PV" },
+      { time: "09h01", text: 'img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour', result: "" },
+      { time: "09h02", text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal active son tour', result: "" },
+      { time: "09h02", text: 'img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se déplace', result: "" },
       {
         time: "09h02",
-        text: "Tréant utilise Attaque puissante sur Prince Rouge",
+        text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
       },
