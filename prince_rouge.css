@@ -14,9 +14,8 @@ body {
     padding: 10px 0 10px 0;
 }
 
-td {
-    padding-right: 10px;
-    vertical-align: middle;
+td:first-of-type {
+    width: 50px;
 }
 
 table {
@@ -53,6 +52,7 @@ table {
     background-image: url(https://www.kigard.fr/images/vue/sol/16.gif);
     background-repeat: no-repeat;
     background-size: cover;
+    border: white 1px solid;
 }
 
 .impair, .pair, .neutral {
