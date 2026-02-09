@@ -13,9 +13,11 @@ body {
     background-color: #60482d;
     color: white;
     font-weight: 800;
-    width: 540px;
+    width: 100%;
+    max-width: 540px;
     text-align: center;
     padding: 10px 0;
+    box-sizing: border-box;
 }
 
 /* Navigation */
@@ -23,9 +25,11 @@ body {
     display: flex;
     align-items: center;
     gap: 10px;
-    width: 540px;
-    padding: 8px 0;
+    width: 100%;
+    max-width: 540px;
+    padding: 8px 10px;
     justify-content: center;
+    box-sizing: border-box;
 }
 
 .navigation button {
@@ -36,6 +40,7 @@ body {
     cursor: pointer;
     font-size: 14px;
     border-radius: 3px;
+    flex-shrink: 0;
 }
 
 .navigation button:hover:not(:disabled) {
@@ -50,6 +55,7 @@ body {
 .navigation input[type="range"] {
     flex: 1;
     accent-color: #60482d;
+    min-width: 100px;
 }
 
 #turn-display {
@@ -58,6 +64,7 @@ body {
     text-align: center;
     color: #60482d;
     font-weight: 700;
+    flex-shrink: 0;
 }
 
 /* Game grid */
@@ -65,10 +72,13 @@ body {
     display: grid;
     grid-template-columns: repeat(15, 36px);
     grid-template-rows: repeat(15, 36px);
-    width: 540px;
+    width: 100%;
+    max-width: 540px;
     justify-content: center;
     padding: 15px 0;
     background-color: #f0d994;
+    box-sizing: border-box;
+    overflow-x: auto;
 }
 
 .item {
@@ -105,11 +115,15 @@ body {
 }
 
 /* History */
-.historic, table {
-    width: 540px;
+.historic {
+    width: 100%;
+    max-width: 540px;
+    overflow-x: auto;
+    box-sizing: border-box;
 }
 
 table {
+    width: 100%;
     border-collapse: collapse;
 }
 
@@ -140,4 +154,118 @@ td img {
 .icon {
     width: 16px !important;
     height: 16px !important;
+}
+
+/* ============================================
+   MEDIA QUERIES - RESPONSIVE
+   ============================================ */
+
+/* Tablettes et petits écrans (max 768px) */
+@media screen and (max-width: 768px) {
+    body {
+        padding: 5px 0;
+    }
+
+    .tdj {
+        font-size: 14px;
+        padding: 8px 5px;
+    }
+
+    .navigation {
+        gap: 6px;
+        padding: 6px 5px;
+    }
+
+    .navigation button {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+
+    #turn-display {
+        font-size: 12px;
+        min-width: 60px;
+    }
+}
+
+/* Mobiles (max 540px) */
+@media screen and (max-width: 540px) {
+    .grid-container {
+        /* Réduire légèrement la taille des cellules pour petits écrans */
+        grid-template-columns: repeat(15, minmax(28px, 1fr));
+        grid-template-rows: repeat(15, 28px);
+        padding: 10px 5px;
+    }
+
+    .item {
+        font-size: 9px;
+    }
+
+    .grid-container img {
+        width: 22px;
+        height: 22px;
+    }
+
+    .historic {
+        font-size: 14px;
+    }
+
+    td {
+        padding: 2px 3px;
+        font-size: 14px;
+    }
+
+    td:first-of-type {
+        width: 45px;
+        font-size: 12px;
+    }
+
+    td img {
+        width: 18px;
+        height: 18px;
+    }
+}
+
+/* Très petits mobiles (max 400px) */
+@media screen and (max-width: 400px) {
+    .tdj {
+        font-size: 12px;
+    }
+
+    .grid-container {
+        grid-template-columns: repeat(15, minmax(24px, 1fr));
+        grid-template-rows: repeat(15, 24px);
+    }
+
+    .item {
+        font-size: 8px;
+    }
+
+    .grid-container img {
+        width: 18px;
+        height: 18px;
+    }
+
+    .navigation button {
+        padding: 4px 8px;
+    }
+
+    #turn-display {
+        font-size: 11px;
+        min-width: 50px;
+    }
+
+    td {
+        font-size: 13px;
+    }
+
+    td:first-of-type {
+        width: 40px;
+    }
+}
+
+/* Grands écrans */
+@media screen and (min-width: 769px) {
+    body {
+        padding: 20px 0;
+    }
 }
