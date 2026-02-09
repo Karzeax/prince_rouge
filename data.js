@@ -779,7 +779,7 @@ const TURNS = [
       },
       {
         time: "10h13",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
         result: "",
       },
       {
@@ -2049,7 +2049,7 @@ const TURNS = [
       },
       {
         time: "12h50",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Instinct sur <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Instinct sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+7 <img src="https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04" title="Habile" alt="Habile">',
       },
@@ -2309,25 +2309,25 @@ const TURNS = [
       },
       {
         time: "12h56",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Dévotion sur <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Dévotion sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+8 <img src="https://www.kigard.fr/images/modificateur/8.gif?v=2.15.04" title="Vigueur" alt="Vigueur">',
       },
       {
         time: "12h59",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -41 PV',
       },
       {
         time: "12h59",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -43 PV',
       },
       {
         time: "13h20",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result: "",
       },
       {
@@ -2580,7 +2580,7 @@ const TURNS = [
       },
       {
         time: "14h11",
-        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Monstre 80" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! +5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
@@ -3886,7 +3886,7 @@ const TURNS = [
       },
       {
         time: "17h54",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque hypnotiquement <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque hypnotiquement <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
       },
@@ -4155,7 +4155,7 @@ const TURNS = [
       },
       {
         time: "19h13",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result: "",
       },
       {
@@ -4723,7 +4723,7 @@ const TURNS = [
       },
       {
         time: "22h07",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour.',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour.',
         result: "+8 PV",
       },
       {
@@ -5958,7 +5958,7 @@ const TURNS = [
       },
       {
         time: "22h50",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active une capacité',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active une capacité',
         result: "",
       },
       {
@@ -6025,13 +6025,13 @@ const TURNS = [
       },
       {
         time: "23h20",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque hypnotiquement <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque hypnotiquement <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -30 PV',
       },
       {
         time: "23h24",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka n\'arrive pas à examiner <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka n\'arrive pas à examiner <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "",
       },
       {
@@ -7173,7 +7173,7 @@ const TURNS = [
       },
       {
         time: "10h45",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
         result: "+8 PV",
       },
       {
@@ -7441,13 +7441,13 @@ const TURNS = [
       },
       {
         time: "11h35",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -36 PV',
       },
       {
         time: "11h35",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result: "-29 PV",
       },
       {
@@ -8511,7 +8511,7 @@ const TURNS = [
       },
       {
         time: "19h46",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result: "",
       },
       {
@@ -8766,13 +8766,13 @@ const TURNS = [
       },
       {
         time: "20h28",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Réflexes sur <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Réflexes sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result:
           '+5 <img src="https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04" title="Vivace" alt="Vivace">',
       },
       {
         time: "21h01",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result: "-28 PV",
       },
       {
@@ -8803,7 +8803,7 @@ const TURNS = [
       },
       {
         time: "21h09",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka ramasse des débris',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka ramasse des débris',
         result: "",
       },
       {
@@ -8838,7 +8838,7 @@ const TURNS = [
       },
       {
         time: "21h27",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result: "",
       },
     ],
@@ -9888,7 +9888,7 @@ const TURNS = [
       },
       {
         time: "22h08",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
         result: "+8 PV",
       },
       {
@@ -10154,7 +10154,7 @@ const TURNS = [
       },
       {
         time: "22h17",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result: "",
       },
     ],
@@ -10392,23 +10392,23 @@ const TURNS = [
     history: [
       {
         time: "22h18",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka échange ses armes',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka échange ses armes',
         result: "",
       },
       {
         time: "22h18",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka se déplace',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka se déplace',
         result: "",
       },
       {
         time: "22h19",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -34 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
       {
         time: "22h19",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -1 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
@@ -10669,7 +10669,7 @@ const TURNS = [
       },
       {
         time: "22h27",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Réflexes sur <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Réflexes sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+8 <img src="https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04" title="Vivace" alt="Vivace">',
       },
@@ -10700,7 +10700,7 @@ const TURNS = [
       },
       {
         time: "22h28",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result: "",
       },
       {
@@ -12054,7 +12054,7 @@ const TURNS = [
       },
       {
         time: "10h45",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
         result: "+8 PV",
       },
       {
@@ -12064,13 +12064,13 @@ const TURNS = [
       },
       {
         time: "10h51",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -31 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
       {
         time: "10h51",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -2 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
@@ -13268,7 +13268,7 @@ const TURNS = [
       },
       {
         time: "21h31",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian utilise Soutien dévoué sur <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian utilise Soutien dévoué sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result: "",
       },
       {
@@ -13278,7 +13278,7 @@ const TURNS = [
       },
       {
         time: "21h33",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -5 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
@@ -13319,7 +13319,7 @@ const TURNS = [
       },
       {
         time: "22h07",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
         result: "+8 PV",
       },
       {
@@ -13366,7 +13366,7 @@ const TURNS = [
       },
       {
         time: "22h54",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian utilise Soutien dévoué sur <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian utilise Soutien dévoué sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result: "",
       },
       {
@@ -14234,7 +14234,7 @@ const TURNS = [
     history: [
       {
         time: "00h35",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -33 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
@@ -14473,7 +14473,7 @@ const TURNS = [
     history: [
       {
         time: "00h35",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka ramasse une dépouille',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka ramasse une dépouille',
         result: "",
       },
       {
@@ -14488,22 +14488,22 @@ const TURNS = [
       },
       {
         time: "00h44",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius',
         result: "",
       },
       {
         time: "00h44",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu',
         result: "",
       },
       {
         time: "00h45",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal',
         result: "",
       },
       {
         time: "00h46",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
         result: "",
       },
     ],
@@ -15297,7 +15297,7 @@ const TURNS = [
       },
       {
         time: "09h45",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz fait un achat à <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz fait un achat à <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result: "",
       },
       {
@@ -16343,7 +16343,7 @@ const TURNS = [
       },
       {
         time: "11h00",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
         result: "",
       },
     ],
@@ -16581,12 +16581,12 @@ const TURNS = [
     history: [
       {
         time: "11h08",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Bond athlétique',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Bond athlétique',
         result: "",
       },
       {
         time: "11h08",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 81" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -53 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Assomé" alt="Assomé">',
       },
@@ -17155,7 +17155,7 @@ const TURNS = [
       },
       {
         time: "15h16",
-        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
+        text: '<img alt="Monstre 79" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result:
           '+5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
@@ -17436,7 +17436,7 @@ const TURNS = [
     history: [
       {
         time: "18h58",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka ramasse une dépouille',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka ramasse une dépouille',
         result: "",
       },
       {
@@ -18316,18 +18316,18 @@ const TURNS = [
       },
       {
         time: "22h37",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
         result: "-4 PV",
       },
       {
         time: "22h37",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '-16 PV +1 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
       },
       {
         time: "22h37",
-        text: '<img alt="HalfelinM" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque (main gauche) <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
+        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque (main gauche) <img alt="Monstre 82" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -8 PV',
       },
