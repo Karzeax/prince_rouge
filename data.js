@@ -11535,36 +11535,36 @@ const TURNS = [
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
       },
-      { time: "09h02", text: "Tréant attaque Prince Rouge", result: "-5 PV" },
-      { time: "09h02", text: "Tréant attend", result: "" },
-      { time: "09h55", text: "[CIC] Sephy active son tour", result: "" },
+      { time: "09h02", text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge', result: "-5 PV" },
+      { time: "09h02", text: '<img alt="Monstre 29" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attend', result: "" },
+      { time: "09h55", text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Sephy.gif"> [CIC] Sephy active son tour', result: "" },
       {
         time: "10h03",
-        text: "[CIC] Noxx attaque Prince Rouge",
+        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Monstre 83" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
           '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
       },
-      { time: "10h04", text: "[CIC] Noxx échange ses armes", result: "" },
-      { time: "10h06", text: "[CIC] Gatsu active son tour", result: "" },
+      { time: "10h04", text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx échange ses armes', result: "" },
+      { time: "10h06", text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Gatsu.gif"> [CIC] Gatsu active son tour', result: "" },
       {
         time: "10h18",
-        text: "[CIC] Ixiorius active son tour",
+        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Ixiorius.gif"> [CIC] Ixiorius active son tour',
         result: "-4 PV",
       },
       {
         time: "10h34",
-        text: "[CIC] Ixiorius lance le sort Réflexes sur [CIC] Gatsu",
+        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Ixiorius.gif"> [CIC] Ixiorius lance le sort Réflexes sur <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Gatsu.gif"> [CIC] Gatsu',
         result:
           '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+7 <img src="https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04" title="Vivace" alt=""Vivace>',
       },
-      { time: "10h34", text: "[CIC] Kane active son tour", result: "-12 PV" },
-      { time: "10h35", text: "[CIC] Karz échange ses armes", result: "" },
+      { time: "10h34", text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Kane.gif"> [CIC] Kane active son tour', result: "-12 PV" },
+      { time: "10h35", text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Karz.gif"> [CIC] Karz échange ses armes', result: "" },
       {
         time: "10h35",
-        text: "[CIC] Karz lance le sort Guérison sur [CIC] Kane",
+        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Karz.gif"> [CIC] Karz lance le sort Guérison sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Kane.gif"> [CIC] Kane',
         result: "+30 PV",
       },
-      { time: "10h35", text: "[CIC] Noxx active son tour", result: "" },
+      { time: "10h35", text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx active son tour', result: "" },
     ],
   },
   {
