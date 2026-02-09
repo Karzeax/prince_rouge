@@ -230,7 +230,7 @@ const TURNS = [
       ],
     ],
     history: [
-      { time: "", text: "Le cirque du Chaos vous présente...", result: "" },
+      { time: "", text: "Le Cirque du Chaos vous présente...", result: "" },
     ],
   },
   {
