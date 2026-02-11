@@ -3887,7 +3887,7 @@ const TURNS = [
         time: "17h51",
         text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> -42 PV <img alt="skull.svg" src="skull.svg" class="icon">',
+          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -42 PV <img alt="skull.svg" src="skull.svg" class="icon">',
       },
       {
         time: "17h54",
