@@ -3385,6 +3385,11 @@ const TURNS = [
       {
         time: "16h43",
         text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
+        result: '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -37 PV',
+      },
+      {
+        time: "16h43",
+        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result: "-30 PV",
       },
       {
