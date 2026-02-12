@@ -2305,7 +2305,7 @@ const TURNS = [
         time: "12h53",
         text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Boule de feu sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -23 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -23 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "12h56",
@@ -2582,7 +2582,7 @@ const TURNS = [
         time: "14h11",
         text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! +5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! +5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "14h11",
@@ -2594,7 +2594,7 @@ const TURNS = [
         time: "14h11",
         text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC Karz]',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! +5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! +5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "14h11",
@@ -3893,7 +3893,7 @@ const TURNS = [
         time: "17h54",
         text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque hypnotiquement <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !',
       },
     ],
   },
@@ -5953,7 +5953,7 @@ const TURNS = [
         time: "22h47",
         text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
         result:
-          '<img src="blocage.svg" class="icon" title="Blocage" alt="Blocage"> Blocage ! -11 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img src="block.svg" class="icon" title="Blocage" alt="Blocage"> Blocage ! -11 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "22h47",
@@ -7098,7 +7098,7 @@ const TURNS = [
         time: "08h45",
         text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -13 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -13 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "09h01",
@@ -8799,7 +8799,7 @@ const TURNS = [
         time: "21h05",
         text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -16 PV',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -16 PV',
       },
       {
         time: "21h05",
@@ -9088,7 +9088,7 @@ const TURNS = [
         time: "21h28",
         text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Vol de magie sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !',
       },
       {
         time: "21h30",
@@ -9623,7 +9623,7 @@ const TURNS = [
         time: "21h56",
         text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Vol de magie sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !',
       },
       {
         time: "21h56",
@@ -9634,7 +9634,7 @@ const TURNS = [
         time: "21h56",
         text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Siphonner sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -7 PV',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -7 PV',
       },
     ],
   },
@@ -10143,7 +10143,7 @@ const TURNS = [
         time: "22h11",
         text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -21 PV',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -21 PV',
       },
       {
         time: "22h11",
@@ -10966,7 +10966,7 @@ const TURNS = [
         time: "22h34",
         text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -17 PV',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -17 PV',
       },
       {
         time: "22h34",
@@ -11538,7 +11538,7 @@ const TURNS = [
         time: "09h02",
         text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !',
       },
       { time: "09h02", text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge', result: "-5 PV" },
       { time: "09h02", text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attend', result: "" },
@@ -11547,7 +11547,7 @@ const TURNS = [
         time: "10h03",
         text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !',
       },
       { time: "10h04", text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx échange ses armes', result: "" },
       { time: "10h06", text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Gatsu.gif"> [CIC] Gatsu active son tour', result: "" },
@@ -12941,7 +12941,7 @@ const TURNS = [
         time: "18h48",
         text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Boule de feu sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !+1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !+1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "18h59",
@@ -12991,7 +12991,7 @@ const TURNS = [
         time: "19h33",
         text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque puissante sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -32 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -32 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
       },
       {
         time: "19h33",
@@ -13341,7 +13341,7 @@ const TURNS = [
         time: "22h22",
         text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -14 PV +1 <img src="https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04" title="Gel" alt="Gel">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -14 PV +1 <img src="https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04" title="Gel" alt="Gel">',
       },
       {
         time: "22h22",
@@ -13378,7 +13378,7 @@ const TURNS = [
         time: "22h55",
         text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -8 PV +1 <img src="https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04" title="Gel" alt="Gel">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -8 PV +1 <img src="https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04" title="Gel" alt="Gel">',
       },
       {
         time: "22h55",
@@ -14758,13 +14758,13 @@ const TURNS = [
         time: "01h26",
         text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "01h26",
         text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "01h26",
@@ -16058,7 +16058,7 @@ const TURNS = [
         time: "10h09",
         text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Attaque sournoise sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" style="width: 16px;" height="16px"> Blocage ! -5 PV',
+          '<img alt="block.svg" src="block.svg" style="width: 16px;" height="16px"> Blocage ! -5 PV',
       },
       {
         time: "10h09",
@@ -16079,13 +16079,13 @@ const TURNS = [
         time: "10h33",
         text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" style="width: 16px;" height="16px"> Blocage !',
+          '<img alt="block.svg" src="block.svg" style="width: 16px;" height="16px"> Blocage !',
       },
       {
         time: "10h33",
         text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Attaque puissante sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" style="width: 16px;" height="16px"> Blocage ! -7 PV',
+          '<img alt="block.svg" src="block.svg" style="width: 16px;" height="16px"> Blocage ! -7 PV',
       },
       {
         time: "10h48",
@@ -16615,19 +16615,19 @@ const TURNS = [
         time: "11h24",
         text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "11h24",
         text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "11h24",
         text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "12h20",
@@ -17144,13 +17144,13 @@ const TURNS = [
         time: "15h16",
         text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "15h16",
         text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "15h16",
@@ -17168,7 +17168,7 @@ const TURNS = [
         time: "15h16",
         text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "15h16",
@@ -17708,7 +17708,7 @@ const TURNS = [
         time: "20h41",
         text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
       },
       {
         time: "21h01",
@@ -17734,7 +17734,7 @@ const TURNS = [
         time: "21h02",
         text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -18 PV',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -18 PV',
       },
       {
         time: "21h02",
@@ -18258,7 +18258,7 @@ const TURNS = [
         time: "21h58",
         text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Coup de bouclier sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage !+1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assommé" alt="Assommé">',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !+1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assommé" alt="Assommé">',
       },
       {
         time: "21h58",
@@ -18821,13 +18821,13 @@ const TURNS = [
         time: "23h04",
         text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -17 PV',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -17 PV',
       },
       {
         time: "23h04",
         text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
-          '<img alt="blocage.svg" src="blocage.svg" class="icon"> Blocage ! -17 PV',
+          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -17 PV',
       },
       {
         time: "23h08",
