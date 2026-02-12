@@ -19,9 +19,24 @@
     function getAltText(src) {
         if (!src) return "";
         var filename = src.split("/").pop().replace(".gif", "").replace(/%20/g, " ");
-        if (src.indexOf("/lieu/") !== -1) return "Lieu " + filename;
-        if (src.indexOf("/monstre/") !== -1) return "Monstre " + filename;
-        if (src.indexOf("/pj/") !== -1) return filename;
+        
+        // Mapping des personnages et monstres spécifiques
+        var nameMap = {
+            "HalfelinM": "Loxka",
+            "83": "Prince Rouge",
+            "79": "Lampade",
+            "81": "Flammeliée",
+            "80": "Tréant",
+            "82": "Fiélon",
+            "37": "Fantôme",
+            "29": "Mulet",
+            "124": "Montagne basaltique",
+            "133": "Hache dans le basalte"
+        };
+        
+        if (src.indexOf("/lieu/") !== -1) return nameMap[filename] || "Lieu " + filename;
+        if (src.indexOf("/monstre/") !== -1) return nameMap[filename] || "Monstre " + filename;
+        if (src.indexOf("/pj/") !== -1) return nameMap[filename] || filename;
         if (src.indexOf("/sol/") !== -1) return "Sol " + filename;
         return filename;
     }
