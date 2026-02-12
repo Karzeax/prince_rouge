@@ -3395,7 +3395,7 @@ const TURNS = [
       {
         time: "16h44",
         text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result: '-31 PV <img alt="skull.svg" src="skull.svg" class="icon">',
+        result: '-31 PV <img alt="death.svg" src="death.svg" class="icon">',
       },
       {
         time: "17h03",
@@ -3887,7 +3887,7 @@ const TURNS = [
         time: "17h51",
         text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
         result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -42 PV <img alt="skull.svg" src="skull.svg" class="icon">',
+          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -42 PV <img alt="death.svg" src="death.svg" class="icon">',
       },
       {
         time: "17h54",
@@ -8221,7 +8221,7 @@ const TURNS = [
         time: "12h28",
         text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -27 PV <img alt="skull.svg" src="skull.svg" class="icon">',
+          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -27 PV <img alt="death.svg" src="death.svg" class="icon">',
       },
       {
         time: "12h35",
@@ -9889,7 +9889,7 @@ const TURNS = [
         time: "22h04",
         text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Exécuter sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -30 PV <img alt="skull.svg" src="skull.svg" class="icon">',
+          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -30 PV <img alt="death.svg" src="death.svg" class="icon">',
       },
       {
         time: "22h08",
@@ -10992,7 +10992,7 @@ const TURNS = [
       {
         time: "22h36",
         text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result: '-30 PV <img alt="skull.svg" src="skull.svg" class="icon">',
+        result: '-30 PV <img alt="death.svg" src="death.svg" class="icon">',
       },
       {
         time: "22h39",
@@ -12619,7 +12619,7 @@ const TURNS = [
         time: "14h08",
         text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
         result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -33 PV <img alt="skull.svg" src="skull.svg" class="icon">',
+          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -33 PV <img alt="death.svg" src="death.svg" class="icon">',
       },
       {
         time: "14h08",
@@ -14241,7 +14241,7 @@ const TURNS = [
         time: "00h35",
         text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -33 PV <img alt="skull.svg" src="skull.svg" class="icon">',
+          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -33 PV <img alt="death.svg" src="death.svg" class="icon">',
       },
     ],
   },
@@ -16889,7 +16889,7 @@ const TURNS = [
         time: "14h26",
         text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Exécuter sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
         result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -38 PV <img alt="skull.svg" src="skull.svg" class="icon">',
+          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -38 PV <img alt="death.svg" src="death.svg" class="icon">',
       },
       {
         time: "14h27",
@@ -19325,7 +19325,7 @@ const TURNS = [
         time: "23h11",
         text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
         result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -25 PV <img alt="skull.svg" src="skull.svg" class="icon">',
+          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -25 PV <img alt="death.svg" src="death.svg" class="icon">',
       },
     ],
   },
@@ -19814,7 +19814,7 @@ const TURNS = [
         time: "23h12",
         text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
         result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -43 PV <img alt="skull.svg" src="skull.svg" class="icon">',
+          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -43 PV <img alt="death.svg" src="death.svg" class="icon">',
       },
     ],
   },
