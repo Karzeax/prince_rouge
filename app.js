@@ -24,12 +24,17 @@
         var nameMap = {
             "HalfelinM": "Loxka",
             "83": "Prince Rouge",
+            "82": "Flammeliée",
+            "81": "Sonneur ardent",
+            "80": "Fiélon",
             "79": "Lampade",
-            "81": "Flammeliée",
-            "80": "Tréant",
-            "82": "Fiélon",
-            "37": "Fantôme",
-            "29": "Mulet",
+            "72": "Fantôme",
+            "37": "Mulet",
+            "29": "Tréant",
+            "11": "Campement",
+            "13": "Dépouille",
+            "41": "Débris",
+            "97": "Barricade",
             "124": "Montagne basaltique",
             "133": "Hache dans le basalte"
         };
