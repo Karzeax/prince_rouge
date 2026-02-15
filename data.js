@@ -7981,7 +7981,12 @@ const TURNS = [
       },
       {
         time: "12h02",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
+        result: "",
+      },
+      {
+        time: "12h02",
+        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
         result: "",
       },
       {
