@@ -7116,6 +7116,16 @@ const TURNS = [
         result: "",
       },
       {
+        time: "09h01",
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se défend',
+        result: "",
+      },
+      {
+        time: "09h01",
+        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se défend',
+        result: "",
+      },
+      {
         time: "09h02",
         text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
         result: "-20 PV",
