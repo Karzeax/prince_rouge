@@ -10441,7 +10441,7 @@ const TURNS = [
       {
         time: "22h20",
         text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-1",
+        result: "-1 PV",
       },
       {
         time: "22h21",
