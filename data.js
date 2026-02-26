@@ -8832,6 +8832,12 @@ const TURNS = [
         result: "",
       },
       {
+        time: "21h24",
+        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
+        result:
+          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -30 PV',
+      },
+      {
         time: "21h27",
         text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
         result: "",
