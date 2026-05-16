@@ -5,8 +5,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Prince Rouge - Kigard</title>
     <link href="prince_rouge.css" rel="stylesheet">
+    <style>
+        .nav-combats {
+            background: #60482d;
+            padding: 8px 16px;
+            text-align: center;
+            font-family: serif;
+            border-bottom: 2px solid #3d2f1c;
+            width: 100%;
+            max-width: 540px;
+            box-sizing: border-box;
+            margin: 0 auto;
+        }
+        .nav-combats a {
+            color: #f2dfb1;
+            text-decoration: none;
+            padding: 6px 14px;
+            margin: 0 4px;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        .nav-combats a:hover {
+            background: #8a6a44;
+        }
+        .nav-combats a.active {
+            background: #debf85;
+            color: #3d2f1c;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
+    <nav class="nav-combats">
+        <a href="https://karzeax.github.io/prince_rouge/" class="active">Prince Rouge</a>
+        <a href="https://karzeax.github.io/princesse_sombre/">Princesse Sombre</a>
+        <!-- <a href="https://karzeax.github.io/avatar_de_sang/">Avatar de Sang</a> -->
+    </nav>
+
     <header class="tdj">
         <div id="date"></div>
         <div id="time"></div>
