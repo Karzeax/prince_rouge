@@ -1,9 +1,9 @@
 const TURNS = [
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -18,7 +18,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -34,7 +34,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -50,7 +50,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -66,7 +66,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -82,7 +82,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -98,7 +98,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -114,7 +114,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -130,7 +130,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -146,7 +146,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -162,7 +162,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -178,7 +178,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -194,7 +194,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -210,7 +210,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -226,18 +226,22 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
-      { time: "", text: "Le Cirque du Chaos vous présente...", result: "" },
-    ],
+    "history": [
+      {
+        "time": "",
+        "text": "Le Cirque du Chaos vous présente...",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -252,7 +256,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -268,7 +272,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -284,7 +288,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -300,7 +304,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -316,7 +320,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -332,7 +336,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -348,7 +352,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -364,7 +368,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -380,7 +384,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -396,7 +400,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -412,7 +416,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -428,7 +432,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -444,7 +448,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -460,67 +464,67 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "08h53",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif"> [CIC] Noxx fait une offrande',
-        result: "",
+        "time": "08h53",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif\"> [CIC] Noxx fait une offrande",
+        "result": ""
       },
       {
-        time: "08h53",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge quitte une hache dans le basalte',
-        result: "",
+        "time": "08h53",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge quitte une hache dans le basalte",
+        "result": ""
       },
       {
-        time: "08h53",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade quitte une hache dans le basalte',
-        result: "",
+        "time": "08h53",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade quitte une hache dans le basalte",
+        "result": ""
       },
       {
-        time: "08h53",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade quitte une hache dans le basalte',
-        result: "",
+        "time": "08h53",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade quitte une hache dans le basalte",
+        "result": ""
       },
       {
-        time: "08h53",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon quitte une hache dans le basalte',
-        result: "",
+        "time": "08h53",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon quitte une hache dans le basalte",
+        "result": ""
       },
       {
-        time: "08h53",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon quitte une hache dans le basalte',
-        result: "",
+        "time": "08h53",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon quitte une hache dans le basalte",
+        "result": ""
       },
       {
-        time: "08h53",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent quitte une hache dans le basalte',
-        result: "",
+        "time": "08h53",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent quitte une hache dans le basalte",
+        "result": ""
       },
       {
-        time: "08h53",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent quitte une hache dans le basalte',
-        result: "",
+        "time": "08h53",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent quitte une hache dans le basalte",
+        "result": ""
       },
       {
-        time: "08h53",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée quitte une hache dans le basalte',
-        result: "",
+        "time": "08h53",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée quitte une hache dans le basalte",
+        "result": ""
       },
       {
-        time: "08h53",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée quitte une hache dans le basalte',
-        result: "",
-      },
-    ],
+        "time": "08h53",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée quitte une hache dans le basalte",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -535,7 +539,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -551,7 +555,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -567,7 +571,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -583,7 +587,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -599,7 +603,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -615,7 +619,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -631,7 +635,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -647,7 +651,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -663,7 +667,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -679,7 +683,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -695,7 +699,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -711,7 +715,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -727,7 +731,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -743,67 +747,67 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "08h54",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif"> [CIC] Noxx galope sur sa monture <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif"> Cheval',
-        result: "",
+        "time": "08h54",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif\"> [CIC] Noxx galope sur sa monture <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif\"> Cheval",
+        "result": ""
       },
       {
-        time: "08h54",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif"> [CIC] Noxx galope sur sa monture <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif"> Cheval',
-        result: "",
+        "time": "08h54",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif\"> [CIC] Noxx galope sur sa monture <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif\"> Cheval",
+        "result": ""
       },
       {
-        time: "09h04",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal active son tour',
-        result: "",
+        "time": "09h04",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal active son tour",
+        "result": ""
       },
       {
-        time: "09h27",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr active son tour',
-        result: "",
+        "time": "09h27",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr active son tour",
+        "result": ""
       },
       {
-        time: "09h58",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy active son tour',
-        result: "",
+        "time": "09h58",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy active son tour",
+        "result": ""
       },
       {
-        time: "10h03",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane soutient <img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy',
-        result: "",
+        "time": "10h03",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane soutient <img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy",
+        "result": ""
       },
       {
-        time: "10h13",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
-        result: "",
+        "time": "10h13",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka active son tour",
+        "result": ""
       },
       {
-        time: "10h20",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz active son tour',
-        result: "",
+        "time": "10h20",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz active son tour",
+        "result": ""
       },
       {
-        time: "10h20",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
-        result: "",
+        "time": "10h20",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant active son tour",
+        "result": ""
       },
       {
-        time: "10h30",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz se défend',
-        result: "",
-      },
-    ],
+        "time": "10h30",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz se défend",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -818,7 +822,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -834,7 +838,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -850,7 +854,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -866,7 +870,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -882,7 +886,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -898,7 +902,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -914,7 +918,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -930,7 +934,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -938,6 +942,7 @@ const TURNS = [
         null,
         "https://www.kigard.fr/images/vue/monstre/29.gif",
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif",
         null,
         null,
         null,
@@ -945,8 +950,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -962,7 +966,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -978,7 +982,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -988,13 +992,13 @@ const TURNS = [
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif",
+        null,
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1010,7 +1014,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1026,57 +1030,42 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "10h30",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif"> [CIC] Noxx active son tour',
-        result: "",
+        "time": "10h30",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif\"> [CIC] Noxx active son tour",
+        "result": ""
       },
       {
-        time: "10h41",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian active son tour',
-        result: "",
+        "time": "10h41",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian active son tour",
+        "result": ""
       },
       {
-        time: "10h41",
-        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
-        result: "",
+        "time": "10h41",
+        "text": "<img alt=\"Mulet\" src=\"https://www.kigard.fr/images/vue/monstre/37.gif\"> Mulet active son tour",
+        "result": ""
       },
       {
-        time: "10h45",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius active son tour',
-        result: "",
+        "time": "10h45",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius active son tour",
+        "result": ""
       },
       {
-        time: "10h45",
-        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
-        result: "",
-      },
-      {
-        time: "10h47",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif"> [CIC] Noxx trotte sur sa monture <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif"> Cheval',
-        result: "",
-      },
-      {
-        time: "10h47",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif"> [CIC] Noxx galope sur sa monture <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif"> Cheval',
-        result: "",
-      },
-      {
-        time: "10h48",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius utilise Incanter',
-        result: "",
-      },
-    ],
+        "time": "10h45",
+        "text": "<img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme active son tour",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -1091,7 +1080,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -1107,7 +1096,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1123,7 +1112,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1139,7 +1128,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -1155,7 +1144,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1171,44 +1160,44 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
         null,
         "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
         "https://www.kigard.fr/images/vue/monstre/72.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
         "https://www.kigard.fr/images/vue/monstre/29.gif",
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
         null,
@@ -1219,7 +1208,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -1235,7 +1224,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -1251,7 +1240,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1267,7 +1256,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1283,7 +1272,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1299,22 +1288,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "10h50",
-        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme réalise un bond',
-        result: "",
+        "time": "10h47",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif\"> [CIC] Noxx trotte sur sa monture <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif\"> Cheval",
+        "result": ""
       },
-    ],
+      {
+        "time": "10h47",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif\"> [CIC] Noxx galope sur sa monture <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif\"> Cheval",
+        "result": ""
+      },
+      {
+        "time": "10h48",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius utilise Incanter",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -1329,7 +1328,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -1345,7 +1344,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1361,7 +1360,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1377,7 +1376,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -1393,7 +1392,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1409,7 +1408,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1425,7 +1424,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1441,13 +1440,14 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
         null,
         "https://www.kigard.fr/images/vue/monstre/72.gif",
         "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
         null,
         null,
         null,
@@ -1456,14 +1456,13 @@ const TURNS = [
         null,
         null,
         null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
         null,
         null,
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        null,
         "https://www.kigard.fr/images/vue/lieu/11.gif",
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
         null,
@@ -1473,7 +1472,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -1489,7 +1488,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1505,7 +1504,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1521,7 +1520,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1537,32 +1536,22 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "10h58",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu active son tour',
-        result: "",
-      },
-      {
-        time: "10h59",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu se déplace',
-        result: "",
-      },
-      {
-        time: "11h11",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane active son tour',
-        result: "",
-      },
-    ],
+        "time": "10h50",
+        "text": "<img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme réalise un bond",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -1577,7 +1566,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -1593,7 +1582,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1609,7 +1598,255 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
+        null
+      ],
+      [
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/80.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/80.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/72.gif",
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/lieu/11.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "10h58",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu active son tour",
+        "result": ""
+      },
+      {
+        "time": "10h59",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu se déplace",
+        "result": ""
+      },
+      {
+        "time": "11h11",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane active son tour",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
       ],
       [
         null,
@@ -1625,7 +1862,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -1641,7 +1878,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1657,7 +1894,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1673,7 +1910,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1689,7 +1926,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1705,7 +1942,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -1721,7 +1958,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -1737,7 +1974,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1753,7 +1990,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1769,7 +2006,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1785,32 +2022,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "11h58",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
-        result: "",
+        "time": "11h58",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée active son tour",
+        "result": ""
       },
       {
-        time: "11h58",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
-        result: "",
+        "time": "11h58",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée réalise un bond",
+        "result": ""
       },
       {
-        time: "11h58",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
-        result: "",
-      },
-    ],
+        "time": "11h58",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée se déplace",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -1825,7 +2062,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -1841,7 +2078,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1857,7 +2094,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1873,7 +2110,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -1889,7 +2126,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1905,7 +2142,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1921,7 +2158,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1937,7 +2174,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -1953,7 +2190,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -1969,7 +2206,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -1985,7 +2222,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2001,7 +2238,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2017,7 +2254,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2033,33 +2270,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "12h02",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se déplace',
-        result: "",
+        "time": "12h02",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant se déplace",
+        "result": ""
       },
       {
-        time: "12h02",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se défend',
-        result: "",
+        "time": "12h02",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant se défend",
+        "result": ""
       },
       {
-        time: "12h50",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Instinct sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+7 <img src="https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04" title="Habile" alt="Habile">',
-      },
-    ],
+        "time": "12h50",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy lance le sort Instinct sur <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+7 <img src=\"https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04\" title=\"Habile\" alt=\"Habile\">"
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -2074,7 +2310,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -2090,7 +2326,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2106,7 +2342,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2122,7 +2358,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -2138,7 +2374,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2154,7 +2390,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/80.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2170,7 +2406,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2186,7 +2422,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2202,7 +2438,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -2218,7 +2454,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -2234,7 +2470,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2250,7 +2486,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2266,7 +2502,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2282,66 +2518,62 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "12h53",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon active son tour',
-        result: "",
+        "time": "12h53",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon active son tour",
+        "result": ""
       },
       {
-        time: "12h53",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon réalise un bond',
-        result: "",
+        "time": "12h53",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon réalise un bond",
+        "result": ""
       },
       {
-        time: "12h53",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon réalise un bond',
-        result: "",
+        "time": "12h53",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon réalise un bond",
+        "result": ""
       },
       {
-        time: "12h53",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Boule de feu sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -23 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "12h53",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon lance le sort Boule de feu sur <img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -23 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "12h56",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Dévotion sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+8 <img src="https://www.kigard.fr/images/modificateur/8.gif?v=2.15.04" title="Vigueur" alt="Vigueur">',
+        "time": "12h56",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Dévotion sur <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+8 <img src=\"https://www.kigard.fr/images/modificateur/8.gif?v=2.15.04\" title=\"Vigueur\" alt=\"Vigueur\">"
       },
       {
-        time: "12h59",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -41 PV',
+        "time": "12h59",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka attaque <img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -41 PV"
       },
       {
-        time: "12h59",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -43 PV',
+        "time": "12h59",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka attaque <img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -43 PV"
       },
       {
-        time: "13h20",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result: "",
+        "time": "13h20",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy utilise Soutien dévoué sur <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": ""
       },
       {
-        time: "13h22",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy soutient <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
-        result: "",
-      },
-    ],
+        "time": "13h22",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy soutient <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -2356,7 +2588,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -2372,7 +2604,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2388,7 +2620,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2404,7 +2636,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -2420,7 +2652,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2436,7 +2668,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2452,7 +2684,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2468,7 +2700,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2484,7 +2716,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -2500,7 +2732,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -2516,7 +2748,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2532,7 +2764,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2548,7 +2780,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2564,74 +2796,67 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "14h11",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon active son tour',
-        result: "",
+        "time": "14h11",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon active son tour",
+        "result": ""
       },
       {
-        time: "14h11",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon réalise un bond',
-        result: "",
+        "time": "14h11",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon réalise un bond",
+        "result": ""
       },
       {
-        time: "14h11",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! +5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "14h11",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon lance le sort Incendie sur <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! +5 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "14h11",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal',
-        result:
-          '+7 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "14h11",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon lance le sort Incendie sur <img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal",
+        "result": "+7 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "14h11",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC Karz]',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! +5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "14h11",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon lance le sort Incendie sur <img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC Karz]",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! +5 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "14h11",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '+7 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "14h11",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon lance le sort Incendie sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "+7 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "14h11",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
-        result:
-          '+7 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "14h11",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon lance le sort Incendie sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane",
+        "result": "+7 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "14h11",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius',
-        result:
-          '+7 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "14h11",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon lance le sort Incendie sur <img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius",
+        "result": "+7 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "14h11",
-        text: '<img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon lance le sort Incendie sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
-        result:
-          '+7 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "14h11",
+        "text": "<img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon lance le sort Incendie sur <img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian",
+        "result": "+7 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "14h37",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy soigne <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
-        result: "+22 PV",
-      },
-    ],
+        "time": "14h37",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy soigne <img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian",
+        "result": "+22 PV"
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -2646,7 +2871,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -2662,7 +2887,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2678,7 +2903,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2694,7 +2919,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -2710,7 +2935,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2726,7 +2951,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2742,7 +2967,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2758,7 +2983,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2774,7 +2999,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -2790,7 +3015,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -2806,7 +3031,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2822,7 +3047,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2838,7 +3063,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2854,70 +3079,67 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "14h42",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
-        result: "",
+        "time": "14h42",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge active son tour",
+        "result": ""
       },
       {
-        time: "14h42",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se déplace',
-        result: "",
+        "time": "14h42",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge se déplace",
+        "result": ""
       },
       {
-        time: "14h42",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge réalise un bond',
-        result: "",
+        "time": "14h42",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge réalise un bond",
+        "result": ""
       },
       {
-        time: "14h42",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge réalise un bond',
-        result: "",
+        "time": "14h42",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge réalise un bond",
+        "result": ""
       },
       {
-        time: "14h42",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
-        result: "",
+        "time": "14h42",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge se défend",
+        "result": ""
       },
       {
-        time: "14h47",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz soutient <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: "",
+        "time": "14h47",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz soutient <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": ""
       },
       {
-        time: "14h53",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -43 PV +2 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
+        "time": "14h53",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal attaque <img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -43 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04\" title=\"Saignement\" alt=\"Saignement\">"
       },
       {
-        time: "14h54",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result:
-          '-32 PV +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
+        "time": "14h54",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal attaque <img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon",
+        "result": "-32 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04\" title=\"Saignement\" alt=\"Saignement\">"
       },
       {
-        time: "15h02",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result: "-28 PV",
+        "time": "15h02",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian attaque <img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon",
+        "result": "-28 PV"
       },
       {
-        time: "15h17",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Réflexes sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+7<img src="https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04" title="Habile" alt="Habile">',
-      },
-    ],
+        "time": "15h17",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Réflexes sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+7<img src=\"https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04\" title=\"Habile\" alt=\"Habile\">"
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -2932,7 +3154,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -2948,7 +3170,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2964,7 +3186,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -2980,7 +3202,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -2996,7 +3218,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3012,7 +3234,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3028,7 +3250,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3044,7 +3266,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3060,7 +3282,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -3076,7 +3298,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -3092,7 +3314,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3108,7 +3330,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3124,7 +3346,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3140,22 +3362,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "16h42",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr se déplace',
-        result: "",
+        "time": "16h42",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr se déplace",
+        "result": ""
       },
-    ],
+      {
+        "time": "16h43",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr attaque <img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -37 PV"
+      },
+      {
+        "time": "16h43",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr attaque <img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon",
+        "result": "-30 PV"
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -3170,7 +3402,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -3186,7 +3418,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3202,7 +3434,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3218,7 +3450,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -3234,7 +3466,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3250,7 +3482,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3266,7 +3498,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3282,7 +3514,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3298,7 +3530,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -3314,7 +3546,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -3330,7 +3562,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3346,7 +3578,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3362,7 +3594,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3378,37 +3610,27 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "16h43",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result: '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -37 PV',
+        "time": "16h44",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal utilise Exécuter sur <img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon",
+        "result": "-31 PV <svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M480 491.4C538.5 447.4 576 379.8 576 304C576 171.5 461.4 64 320 64C178.6 64 64 171.5 64 304C64 379.8 101.5 447.4 160 491.4L160 528C160 554.5 181.5 576 208 576L240 576L240 536C240 522.7 250.7 512 264 512C277.3 512 288 522.7 288 536L288 576L352 576L352 536C352 522.7 362.7 512 376 512C389.3 512 400 522.7 400 536L400 576L432 576C458.5 576 480 554.5 480 528zM160 320C160 284.7 188.7 256 224 256C259.3 256 288 284.7 288 320C288 355.3 259.3 384 224 384C188.7 384 160 355.3 160 320zM416 256C451.3 256 480 284.7 480 320C480 355.3 451.3 384 416 384C380.7 384 352 355.3 352 320C352 284.7 380.7 256 416 256z\"/></svg>"
       },
       {
-        time: "16h43",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result: "-30 PV",
-      },
-      {
-        time: "16h44",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result: '-31 PV <img alt="death.svg" src="death.svg" class="icon">',
-      },
-      {
-        time: "17h03",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr échange ses armes',
-        result: "",
-      },
-    ],
+        "time": "17h03",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr échange ses armes",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -3423,7 +3645,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -3439,7 +3661,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3455,7 +3677,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3471,7 +3693,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -3487,7 +3709,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3503,7 +3725,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3519,7 +3741,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3535,7 +3757,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3551,7 +3773,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -3567,7 +3789,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -3583,7 +3805,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3599,7 +3821,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3615,7 +3837,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3631,32 +3853,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "17h26",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise Bond athlétique',
-        result: "",
+        "time": "17h26",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane utilise Bond athlétique",
+        "result": ""
       },
       {
-        time: "17h27",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result: "-37 PV",
+        "time": "17h27",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane attaque (main gauche) <img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon",
+        "result": "-37 PV"
       },
       {
-        time: "17h29",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result: "-30 PV",
-      },
-    ],
+        "time": "17h29",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane attaque <img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon",
+        "result": "-30 PV"
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -3671,7 +3893,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -3687,7 +3909,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3703,7 +3925,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3719,7 +3941,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -3735,7 +3957,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3751,7 +3973,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3767,7 +3989,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3783,7 +4005,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3799,7 +4021,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -3815,7 +4037,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -3831,7 +4053,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3847,7 +4069,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3863,7 +4085,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3879,29 +4101,27 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "17h51",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Fiélon" src="https://www.kigard.fr/images/vue/monstre/80.gif"> Fiélon',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -42 PV <img alt="death.svg" src="death.svg" class="icon">',
+        "time": "17h51",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane attaque (main gauche) <img alt=\"Fiélon\" src=\"https://www.kigard.fr/images/vue/monstre/80.gif\"> Fiélon",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -42 PV <svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M480 491.4C538.5 447.4 576 379.8 576 304C576 171.5 461.4 64 320 64C178.6 64 64 171.5 64 304C64 379.8 101.5 447.4 160 491.4L160 528C160 554.5 181.5 576 208 576L240 576L240 536C240 522.7 250.7 512 264 512C277.3 512 288 522.7 288 536L288 576L352 576L352 536C352 522.7 362.7 512 376 512C389.3 512 400 522.7 400 536L400 576L432 576C458.5 576 480 554.5 480 528zM160 320C160 284.7 188.7 256 224 256C259.3 256 288 284.7 288 320C288 355.3 259.3 384 224 384C188.7 384 160 355.3 160 320zM416 256C451.3 256 480 284.7 480 320C480 355.3 451.3 384 416 384C380.7 384 352 355.3 352 320C352 284.7 380.7 256 416 256z\"/></svg>"
       },
       {
-        time: "17h54",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque hypnotiquement <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !',
-      },
-    ],
+        "time": "17h54",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka attaque hypnotiquement <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage !"
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 1",
-    grid: [
+    "date": "Mardi 3 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 1",
+    "grid": [
       [
         null,
         null,
@@ -3916,7 +4136,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -3932,7 +4152,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3948,7 +4168,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3964,7 +4184,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -3980,7 +4200,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -3996,7 +4216,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4012,7 +4232,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4028,7 +4248,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4044,7 +4264,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -4060,7 +4280,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -4076,7 +4296,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4092,7 +4312,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4108,7 +4328,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4124,58 +4344,57 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "18h55",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif"> [CIC] Noxx trotte sur sa monture <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif"> Cheval',
-        result: "",
+        "time": "18h55",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif\"> [CIC] Noxx trotte sur sa monture <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif\"> Cheval",
+        "result": ""
       },
       {
-        time: "19h13",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
-        result: "",
+        "time": "19h13",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian",
+        "result": ""
       },
       {
-        time: "19h13",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
-        result: "",
+        "time": "19h13",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz",
+        "result": ""
       },
       {
-        time: "19h13",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif"> [CIC] Noxx',
-        result: "",
+        "time": "19h13",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif\"> [CIC] Noxx",
+        "result": ""
       },
       {
-        time: "19h13",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius',
-        result: "",
+        "time": "19h13",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius",
+        "result": ""
       },
       {
-        time: "19h13",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy',
-        result: "",
+        "time": "19h13",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy",
+        "result": ""
       },
       {
-        time: "19h13",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result: "",
+        "time": "19h13",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": ""
       },
       {
-        time: "19h57",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '-23 PV +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" class="icon" title="Saignement" alt="Saignement">',
-      },
-    ],
+        "time": "19h57",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal attaque <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "-23 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04\" class=\"icon\" title=\"Saignement\" alt=\"Saignement\">"
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026 - Mecredi 4 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 2",
-    grid: [
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
       [
         null,
         null,
@@ -4190,7 +4409,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -4206,7 +4425,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4222,7 +4441,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4238,7 +4457,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -4254,7 +4473,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4270,7 +4489,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4286,7 +4505,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4302,7 +4521,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4318,7 +4537,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -4334,7 +4553,265 @@ const TURNS = [
         null,
         null,
         null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/day/horse/Noxx.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        null,
+        null,
         "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "21h02",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz active son tour",
+        "result": "-10 PV"
+      },
+      {
+        "time": "21h02",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant active son tour",
+        "result": ""
+      },
+      {
+        "time": "21h02",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal active son tour",
+        "result": ""
+      },
+      {
+        "time": "21h03",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz se repose auprès du feu",
+        "result": ""
+      },
+      {
+        "time": "21h15",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr active son tour",
+        "result": "+2 PV"
+      }
+    ]
+  },
+  {
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/72.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/lieu/11.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -4350,7 +4827,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4366,7 +4843,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4382,7 +4859,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4398,62 +4875,37 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "21h02",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz active son tour',
-        result: "-10 PV",
+        "time": "21h18",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx descend de son <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif\"> Cheval",
+        "result": ""
       },
       {
-        time: "21h02",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
-        result: "",
+        "time": "21h48",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian n'arrive pas à examiner <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": ""
       },
       {
-        time: "21h02",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal active son tour',
-        result: "",
+        "time": "21h49",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy soutient <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx",
+        "result": ""
       },
       {
-        time: "21h03",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz se repose auprès du feu',
-        result: "",
-      },
-      {
-        time: "21h15",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr active son tour',
-        result: "+2 PV",
-      },
-      {
-        time: "21h18",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx descend de son <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/horse/Noxx.gif"> Cheval',
-        result: "",
-      },
-      {
-        time: "21h48",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "",
-      },
-      {
-        time: "21h49",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy soutient <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
-        result: "",
-      },
-      {
-        time: "21h50",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy active son tour',
-        result: "",
-      },
-    ],
+        "time": "21h50",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy active son tour",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026 - Mecredi 4 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 2",
-    grid: [
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
       [
         null,
         null,
@@ -4468,7 +4920,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -4484,7 +4936,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4500,7 +4952,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4516,7 +4968,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -4532,7 +4984,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4548,7 +5000,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4564,7 +5016,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4580,7 +5032,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4596,7 +5048,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -4612,7 +5064,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -4628,7 +5080,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4644,7 +5096,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4660,7 +5112,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4676,73 +5128,72 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "21h53",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius construit une barricade',
-        result: "",
+        "time": "21h53",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius construit une barricade",
+        "result": ""
       },
       {
-        time: "22h01",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu active son tour',
-        result: "",
+        "time": "22h01",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu active son tour",
+        "result": ""
       },
       {
-        time: "22h01",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian active son tour',
-        result: "",
+        "time": "22h01",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian active son tour",
+        "result": ""
       },
       {
-        time: "22h01",
-        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
-        result: "",
+        "time": "22h01",
+        "text": "<img alt=\"Mulet\" src=\"https://www.kigard.fr/images/vue/monstre/37.gif\"> Mulet active son tour",
+        "result": ""
       },
       {
-        time: "22h03",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Défense obstinée',
-        result: "",
+        "time": "22h03",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr utilise Défense obstinée",
+        "result": ""
       },
       {
-        time: "22h04",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius active son tour',
-        result: "-14 PV",
+        "time": "22h04",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius active son tour",
+        "result": "-14 PV"
       },
       {
-        time: "22h04",
-        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
-        result: "",
+        "time": "22h04",
+        "text": "<img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme active son tour",
+        "result": ""
       },
       {
-        time: "22h05",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu lance le sort Exaltation sur <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu',
-        result:
-          '+4 <img src="https://www.kigard.fr/images/modificateur/30.gif?v=2.15.04" title="Exalté" alt="Exalté">',
+        "time": "22h05",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu lance le sort Exaltation sur <img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu",
+        "result": "+4 <img src=\"https://www.kigard.fr/images/modificateur/30.gif?v=2.15.04\" title=\"Exalté\" alt=\"Exalté\">"
       },
       {
-        time: "22h05",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu échange ses armes',
-        result: "",
+        "time": "22h05",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu échange ses armes",
+        "result": ""
       },
       {
-        time: "22h07",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour.',
-        result: "+8 PV",
+        "time": "22h07",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka active son tour.",
+        "result": "+8 PV"
       },
       {
-        time: "22h17",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian utilise Soutien dévoué sur <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu',
-        result: "",
-      },
-    ],
+        "time": "22h17",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian utilise Soutien dévoué sur <img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026 - Mecredi 4 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 2",
-    grid: [
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
       [
         null,
         null,
@@ -4757,7 +5208,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -4773,7 +5224,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4789,7 +5240,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4805,7 +5256,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -4821,7 +5272,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4837,7 +5288,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4853,7 +5304,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4869,7 +5320,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4885,7 +5336,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -4901,7 +5352,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -4917,7 +5368,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4933,7 +5384,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4949,7 +5400,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -4965,28 +5416,27 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "22h19",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu se déplace',
-        result: "",
+        "time": "22h19",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu se déplace",
+        "result": ""
       },
       {
-        time: "22h25",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '+2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
-      },
-    ],
+        "time": "22h25",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Coup de bouclier sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "+2 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026 - Mecredi 4 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 2",
-    grid: [
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
       [
         null,
         null,
@@ -5001,7 +5451,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -5017,7 +5467,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5033,7 +5483,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5049,7 +5499,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -5065,7 +5515,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5081,7 +5531,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5097,7 +5547,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5113,7 +5563,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5129,245 +5579,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-      ],
-      [
-        "https://www.kigard.fr/images/vue/monstre/37.gif",
-        null,
-        "https://www.kigard.fr/images/vue/monstre/29.gif",
-        "https://www.kigard.fr/images/vue/monstre/72.gif",
-        "https://www.kigard.fr/images/vue/lieu/11.gif",
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-      ],
-      [
-        null,
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/97.gif",
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
-        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
-      ],
-    ],
-    history: [
-      {
-        time: "22h26",
-        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme se déplace',
-        result: "",
-      },
-    ],
-  },
-  {
-    date: "Mardi 3 février 2026 - Mecredi 4 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 2",
-    grid: [
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/monstre/82.gif",
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/monstre/81.gif",
-        "https://www.kigard.fr/images/vue/monstre/79.gif",
-        "https://www.kigard.fr/images/vue/monstre/81.gif",
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/133.gif",
-        "https://www.kigard.fr/images/vue/monstre/79.gif",
-        null,
-        null,
-      ],
-      [
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/monstre/82.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/13.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
-        "https://www.kigard.fr/images/vue/monstre/83.gif",
-        "https://www.kigard.fr/images/vue/lieu/13.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -5383,7 +5595,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -5399,7 +5611,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5408,30 +5620,30 @@ const TURNS = [
         null,
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
         null,
         null,
         null,
         null,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        null
       ],
       [
         null,
@@ -5447,22 +5659,22 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "22h27",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy se déplace',
-        result: "",
-      },
-    ],
+        "time": "22h26",
+        "text": "<img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme se déplace",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026 - Mecredi 4 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 2",
-    grid: [
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
       [
         null,
         null,
@@ -5477,7 +5689,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -5493,7 +5705,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5509,7 +5721,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5525,7 +5737,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -5541,7 +5753,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5557,7 +5769,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5573,7 +5785,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5589,7 +5801,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5605,7 +5817,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -5621,7 +5833,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -5631,13 +5843,13 @@ const TURNS = [
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
         "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
-        "https://www.kigard.fr/images/vue/lieu/97.gif",
         null,
         null,
         null,
         null,
         null,
         null,
+        null
       ],
       [
         null,
@@ -5653,7 +5865,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5669,7 +5881,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5685,39 +5897,22 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "22h28",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy construit une barricade',
-        result: "",
-      },
-      {
-        time: "22h33",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane active son tour',
-        result: "",
-      },
-      {
-        time: "22h37",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '+2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
-      },
-      {
-        time: "22h38",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -34 PV',
-      },
-    ],
+        "time": "22h27",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy se déplace",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026 - Mecredi 4 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 2",
-    grid: [
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
       [
         null,
         null,
@@ -5732,7 +5927,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -5748,7 +5943,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5764,7 +5959,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5780,7 +5975,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -5796,7 +5991,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5812,7 +6007,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5820,6 +6015,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
         null,
@@ -5827,8 +6023,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
-        null,
+        null
       ],
       [
         null,
@@ -5844,7 +6039,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5854,13 +6049,13 @@ const TURNS = [
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
         "https://www.kigard.fr/images/vue/monstre/83.gif",
         "https://www.kigard.fr/images/vue/lieu/13.gif",
-        "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -5876,7 +6071,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -5892,7 +6087,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5908,7 +6103,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5924,7 +6119,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -5940,150 +6135,37 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "22h47",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
-        result: "",
+        "time": "22h28",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy construit une barricade",
+        "result": ""
       },
       {
-        time: "22h47",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
-        result:
-          '<img src="block.svg" class="icon" title="Blocage" alt="Blocage"> Blocage ! -11 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "22h33",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane active son tour",
+        "result": ""
       },
       {
-        time: "22h47",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
-        result:
-          '-23 PV +3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "22h37",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr utilise Coup de bouclier sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "+2 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
       },
       {
-        time: "22h50",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active une capacité',
-        result: "",
-      },
-      {
-        time: "23h08",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx active son tour',
-        result: "",
-      },
-      {
-        time: "23h08",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx échange ses armes',
-        result: "",
-      },
-      {
-        time: "23h14",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal soutient <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
-        result: "",
-      },
-      {
-        time: "23h15",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Instinct sur <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+8 <img src="https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04" title="Habile" alt="Habile">',
-      },
-      {
-        time: "23h16",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
-        result: "",
-      },
-      {
-        time: "23h17",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx se cache',
-        result:
-          '+4 <img src="https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04" title="Furtivité" alt="Furtivité">',
-      },
-      {
-        time: "23h17",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '-9 PV +1 <img src="https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04" title="Cécité" alt="Cécité">',
-      },
-      {
-        time: "23h17",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -16 PV +2 <img src="https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04" title="Cécité" alt="Cécité">',
-      },
-      {
-        time: "23h17",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx utilise Attaque précise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -16 PV +2 <img src="https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04" title="Cécité" alt="Cécité">',
-      },
-      {
-        time: "23h20",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Réflexes sur <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal',
-        result:
-          '+6 <img src="https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04" title="Vivace" alt="Vivace">',
-      },
-      {
-        time: "23h20",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Guérison sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! +29 PV',
-      },
-      {
-        time: "23h20",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque hypnotiquement <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -30 PV',
-      },
-      {
-        time: "23h24",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "",
-      },
-      {
-        time: "23h26",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise Attaque précise sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -22 PV',
-      },
-      {
-        time: "23h26",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result: "-17 PV",
-      },
-      {
-        time: "23h27",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "",
-      },
-      {
-        time: "23h32",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy soutient <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
-        result: "",
-      },
-      {
-        time: "23h33",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise Attaque puissante sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -43 PV',
-      },
-      {
-        time: "23h37",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -31 PV +2 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
-      },
-      {
-        time: "23h39",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal se défend',
-        result: "",
-      },
-    ],
+        "time": "22h38",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr utilise Attaque sournoise sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -34 PV"
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026 - Mecredi 4 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 2",
-    grid: [
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
       [
         null,
         null,
@@ -6098,7 +6180,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -6114,7 +6196,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6126,11 +6208,11 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6140,13 +6222,13 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
         null,
         null,
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -6162,7 +6244,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6178,7 +6260,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6194,7 +6276,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6210,7 +6292,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6226,7 +6308,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -6242,7 +6324,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -6258,7 +6340,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6274,7 +6356,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6290,7 +6372,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6306,37 +6388,37 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "00h26",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
-        result: "",
+        "time": "22h47",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée réalise un bond",
+        "result": ""
       },
       {
-        time: "00h26",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent utilise Recherche intuitive',
-        result: "",
+        "time": "22h47",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -11 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "00h26",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
-        result: "",
+        "time": "22h47",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane",
+        "result": "-23 PV +3 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "00h26",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
-        result: "",
-      },
-    ],
+        "time": "22h50",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka active une capacité",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026 - Mecredi 4 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 2",
-    grid: [
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
       [
         null,
         null,
@@ -6351,7 +6433,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -6367,7 +6449,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6379,11 +6461,11 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6393,29 +6475,29 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
         null,
         null,
         "https://www.kigard.fr/images/vue/lieu/133.gif",
-        null,
-        null,
-        null,
-      ],
-      [
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -6431,7 +6513,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6447,7 +6529,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6463,7 +6545,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6479,7 +6561,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         "https://www.kigard.fr/images/vue/monstre/37.gif",
@@ -6495,7 +6577,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -6511,7 +6593,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6527,7 +6609,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6543,7 +6625,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6559,57 +6641,67 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "00h43",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
-        result: "",
+        "time": "23h08",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx active son tour",
+        "result": ""
       },
       {
-        time: "00h43",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade réalise un bond',
-        result: "",
+        "time": "23h08",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx échange ses armes",
+        "result": ""
       },
       {
-        time: "00h43",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
-        result: "",
+        "time": "23h14",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal soutient <img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz",
+        "result": ""
       },
       {
-        time: "01h47",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
-        result: "",
+        "time": "23h15",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Instinct sur <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+8 <img src=\"https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04\" title=\"Habile\" alt=\"Habile\">"
       },
       {
-        time: "01h47",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque puissante sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
+        "time": "23h16",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy utilise Soutien dévoué sur <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx",
+        "result": ""
       },
       {
-        time: "01h47",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
+        "time": "23h17",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx se cache",
+        "result": "+4 <img src=\"https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04\" title=\"Furtivité\" alt=\"Furtivité\">"
       },
       {
-        time: "01h47",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge attaque <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
+        "time": "23h17",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-9 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04\" title=\"Cécité\" alt=\"Cécité\">"
       },
       {
-        time: "01h47",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge attend',
-        result: "",
+        "time": "23h17",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -16 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04\" title=\"Cécité\" alt=\"Cécité\">"
       },
-    ],
+      {
+        "time": "23h17",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx utilise Attaque précise sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -16 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04\" title=\"Cécité\" alt=\"Cécité\">"
+      },
+      {
+        "time": "23h20",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Réflexes sur <img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal",
+        "result": "+6 <img src=\"https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04\" title=\"Vivace\" alt=\"Vivace\">"
+      }
+    ]
   },
   {
-    date: "Mardi 3 février 2026 - Mecredi 4 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 2",
-    grid: [
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
       [
         null,
         null,
@@ -6624,7 +6716,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -6640,7 +6732,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6652,11 +6744,11 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6666,29 +6758,29 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
         null,
         null,
         "https://www.kigard.fr/images/vue/lieu/133.gif",
-        null,
-        null,
-        null,
-      ],
-      [
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -6704,7 +6796,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6720,7 +6812,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6736,7 +6828,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6752,7 +6844,816 @@ const TURNS = [
         null,
         null,
         null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://www.kigard.fr/images/vue/monstre/72.gif",
+        "https://www.kigard.fr/images/vue/lieu/11.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
         "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "23h20",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy lance le sort Guérison sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! +29 PV"
+      },
+      {
+        "time": "23h20",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka attaque hypnotiquement <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -30 PV"
+      },
+      {
+        "time": "23h24",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka n'arrive pas à examiner <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": ""
+      },
+      {
+        "time": "23h26",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane utilise Attaque précise sur <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -22 PV"
+      },
+      {
+        "time": "23h26",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane attaque (main gauche) <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "-17 PV"
+      },
+      {
+        "time": "23h27",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius n'arrive pas à examiner <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": ""
+      },
+      {
+        "time": "23h32",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy soutient <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane",
+        "result": ""
+      },
+      {
+        "time": "23h33",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane utilise Attaque puissante sur <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -43 PV"
+      },
+      {
+        "time": "23h37",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal attaque <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -31 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04\" title=\"Saignement\" alt=\"Saignement\">"
+      },
+      {
+        "time": "23h39",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal se défend",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://www.kigard.fr/images/vue/monstre/72.gif",
+        "https://www.kigard.fr/images/vue/lieu/11.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "00h26",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent active son tour",
+        "result": ""
+      },
+      {
+        "time": "00h26",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent utilise Recherche intuitive",
+        "result": ""
+      },
+      {
+        "time": "00h26",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent se déplace",
+        "result": ""
+      },
+      {
+        "time": "00h26",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent se déplace",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://www.kigard.fr/images/vue/monstre/72.gif",
+        "https://www.kigard.fr/images/vue/lieu/11.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "00h43",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade active son tour",
+        "result": ""
+      },
+      {
+        "time": "00h43",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade réalise un bond",
+        "result": ""
+      },
+      {
+        "time": "00h43",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade se déplace",
+        "result": ""
+      },
+      {
+        "time": "01h47",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge active son tour",
+        "result": ""
+      },
+      {
+        "time": "01h47",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge utilise Attaque puissante sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64z\"/></svg> Esquive !"
+      },
+      {
+        "time": "01h47",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge utilise Attaque défensive sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64z\"/></svg> Esquive !"
+      },
+      {
+        "time": "01h47",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge attaque <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64z\"/></svg> Esquive !"
+      },
+      {
+        "time": "01h47",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge attend",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Mardi 3 février 2026 - Mecredi 4 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 2",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -6768,7 +7669,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -6784,7 +7685,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6800,7 +7701,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6816,7 +7717,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6832,32 +7733,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "07h14",
-        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet réalise un bond',
-        result: "",
+        "time": "07h14",
+        "text": "<img alt=\"Mulet\" src=\"https://www.kigard.fr/images/vue/monstre/37.gif\"> Mulet réalise un bond",
+        "result": ""
       },
       {
-        time: "07h14",
-        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet se déplace',
-        result: "",
+        "time": "07h14",
+        "text": "<img alt=\"Mulet\" src=\"https://www.kigard.fr/images/vue/monstre/37.gif\"> Mulet se déplace",
+        "result": ""
       },
       {
-        time: "07h14",
-        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet se défend',
-        result: "",
-      },
-    ],
+        "time": "07h14",
+        "text": "<img alt=\"Mulet\" src=\"https://www.kigard.fr/images/vue/monstre/37.gif\"> Mulet se défend",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 3",
-    grid: [
+    "date": "Mecredi 4 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 3",
+    "grid": [
       [
         null,
         null,
@@ -6872,7 +7773,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -6888,7 +7789,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6904,7 +7805,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6920,7 +7821,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -6936,7 +7837,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6952,7 +7853,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6968,7 +7869,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -6984,7 +7885,265 @@ const TURNS = [
         null,
         null,
         null,
+        null
+      ],
+      [
         null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://www.kigard.fr/images/vue/monstre/72.gif",
+        "https://www.kigard.fr/images/vue/lieu/11.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "08h00",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius utilise Incanter",
+        "result": ""
+      },
+      {
+        "time": "08h45",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64z\"/></svg> Esquive !"
+      },
+      {
+        "time": "08h45",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -13 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
+      },
+      {
+        "time": "09h01",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz active son tour",
+        "result": "+12 PV"
+      },
+      {
+        "time": "09h01",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant active son tour",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Mecredi 4 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 3",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -7000,7 +8159,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -7016,7 +8175,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -7032,7 +8191,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7048,7 +8207,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7064,7 +8223,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7080,139 +8239,57 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "08h00",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius utilise Incanter',
-        result: "",
+        "time": "09h01",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant se déplace",
+        "result": ""
       },
       {
-        time: "08h45",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
+        "time": "09h01",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant se défend",
+        "result": ""
       },
       {
-        time: "08h45",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -13 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "09h02",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Piqûre sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-20 PV"
       },
       {
-        time: "09h01",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz active son tour',
-        result: "+12 PV",
+        "time": "09h03",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal active son tour",
+        "result": ""
       },
       {
-        time: "09h01",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
-        result: "",
+        "time": "09h54",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy active son tour",
+        "result": ""
       },
       {
-        time: "09h01",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se déplace',
-        result: "",
+        "time": "09h57",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius active son tour",
+        "result": "-12 PV"
       },
       {
-        time: "09h01",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se défend',
-        result: "",
+        "time": "09h57",
+        "text": "<img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme active son tour",
+        "result": ""
       },
       {
-        time: "09h02",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-20 PV",
-      },
-      {
-        time: "09h03",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal active son tour',
-        result: "",
-      },
-      {
-        time: "09h54",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy active son tour',
-        result: "",
-      },
-      {
-        time: "09h57",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius active son tour',
-        result: "-12 PV",
-      },
-      {
-        time: "09h57",
-        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
-        result: "",
-      },
-      {
-        time: "10h05",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr active son tour',
-        result: "-2 PV",
-      },
-      {
-        time: "10h06",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu active son tour',
-        result: "",
-      },
-      {
-        time: "10h06",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '+2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
-      },
-      {
-        time: "10h06",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "",
-      },
-      {
-        time: "10h06",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "",
-      },
-      {
-        time: "10h07",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "",
-      },
-      {
-        time: "10h11",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise un objet',
-        result: "",
-      },
-      {
-        time: "10h20",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Défense obstinée',
-        result: "",
-      },
-      {
-        time: "10h45",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
-        result: "+8 PV",
-      },
-      {
-        time: "10h45",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane active son tour',
-        result: "-4 PV",
-      },
-      {
-        time: "11h21",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal se défend',
-        result: "",
-      },
-      {
-        time: "11h27",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx active son tour',
-        result: "",
-      },
-    ],
+        "time": "10h05",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr active son tour",
+        "result": "-2 PV"
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 3",
-    grid: [
+    "date": "Mecredi 4 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 3",
+    "grid": [
       [
         null,
         null,
@@ -7227,7 +8304,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -7243,7 +8320,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7259,7 +8336,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7269,13 +8346,13 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
         null,
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -7291,7 +8368,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7307,7 +8384,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7323,13 +8400,13 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
         null,
         null,
         null,
@@ -7339,7 +8416,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7355,7 +8432,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -7371,7 +8448,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -7387,7 +8464,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7403,7 +8480,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7419,7 +8496,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7435,55 +8512,72 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "11h30",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
-        result: "",
+        "time": "10h06",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu active son tour",
+        "result": ""
       },
       {
-        time: "11h30",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
-        result: "",
+        "time": "10h06",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Coup de bouclier sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "+2 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
       },
       {
-        time: "11h30",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
-        result: "",
+        "time": "10h06",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Enchaîner sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": ""
       },
       {
-        time: "11h35",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -36 PV',
+        "time": "10h06",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Enchaîner sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": ""
       },
       {
-        time: "11h35",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result: "-29 PV",
+        "time": "10h07",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu n'arrive pas à examiner <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": ""
       },
       {
-        time: "11h35",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '+2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
+        "time": "10h11",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane utilise un objet",
+        "result": ""
       },
       {
-        time: "11h35",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -24 PV',
+        "time": "10h20",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr utilise Défense obstinée",
+        "result": ""
       },
-    ],
+      {
+        "time": "10h45",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka active son tour",
+        "result": "+8 PV"
+      },
+      {
+        "time": "10h45",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane active son tour",
+        "result": "-4 PV"
+      },
+      {
+        "time": "11h21",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal se défend",
+        "result": ""
+      },
+      {
+        "time": "11h27",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx active son tour",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 3",
-    grid: [
+    "date": "Mecredi 4 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 3",
+    "grid": [
       [
         null,
         null,
@@ -7498,7 +8592,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -7514,7 +8608,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7530,7 +8624,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7546,7 +8640,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -7554,37 +8648,6 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
         null,
         null,
         null,
@@ -7593,8 +8656,39 @@ const TURNS = [
         null,
         null,
         null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -7610,7 +8704,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7626,7 +8720,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -7642,7 +8736,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -7658,7 +8752,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7674,7 +8768,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7690,7 +8784,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7706,48 +8800,52 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "11h36",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
-        result: "",
+        "time": "11h30",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent active son tour",
+        "result": ""
       },
       {
-        time: "11h36",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade réalise un bond',
-        result: "",
+        "time": "11h30",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent réalise un bond",
+        "result": ""
       },
       {
-        time: "11h39",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -31 PV',
+        "time": "11h30",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent réalise un bond",
+        "result": ""
       },
       {
-        time: "11h40",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-23 PV",
+        "time": "11h35",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka attaque <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -36 PV"
       },
       {
-        time: "11h41",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz examine l\'état de <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result: "",
+        "time": "11h35",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka attaque <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "-29 PV"
       },
       {
-        time: "11h45",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz utilise un objet',
-        result: "",
+        "time": "11h35",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr utilise Coup de bouclier sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "+2 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
       },
-    ],
+      {
+        "time": "11h35",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr utilise Attaque sournoise sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -24 PV"
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 3",
-    grid: [
+    "date": "Mecredi 4 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 3",
+    "grid": [
       [
         null,
         null,
@@ -7762,7 +8860,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -7775,10 +8873,10 @@ const TURNS = [
         null,
         null,
         null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
-        null,
-        null,
+        null
       ],
       [
         null,
@@ -7794,7 +8892,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7810,7 +8908,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -7821,12 +8919,12 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
         null,
         null,
         null,
+        null
       ],
       [
         null,
@@ -7842,7 +8940,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7858,7 +8956,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7874,7 +8972,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7890,7 +8988,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -7906,7 +9004,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -7922,7 +9020,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7938,7 +9036,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7954,7 +9052,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -7970,37 +9068,47 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "12h02",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
-        result: "",
+        "time": "11h36",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade active son tour",
+        "result": ""
       },
       {
-        time: "12h02",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
-        result: "",
+        "time": "11h36",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade réalise un bond",
+        "result": ""
       },
       {
-        time: "12h02",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
-        result: "",
+        "time": "11h39",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Piqûre sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -31 PV"
       },
       {
-        time: "12h02",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
-        result: "",
+        "time": "11h40",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Piqûre sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-23 PV"
       },
-    ],
+      {
+        "time": "11h41",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz examine l'état de <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": ""
+      },
+      {
+        "time": "11h45",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz utilise un objet",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 3",
-    grid: [
+    "date": "Mecredi 4 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 3",
+    "grid": [
       [
         null,
         null,
@@ -8015,7 +9123,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -8031,7 +9139,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8047,7 +9155,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8063,7 +9171,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -8079,7 +9187,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8095,7 +9203,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8111,7 +9219,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8127,7 +9235,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8137,13 +9245,13 @@ const TURNS = [
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
         "https://www.kigard.fr/images/vue/monstre/83.gif",
         "https://www.kigard.fr/images/vue/lieu/13.gif",
-        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
         null,
         null,
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -8159,7 +9267,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -8175,7 +9283,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8191,7 +9299,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8207,7 +9315,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8223,81 +9331,42 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "12h05",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise Attaque précise sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result: "-16 PV",
+        "time": "12h02",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée active son tour",
+        "result": ""
       },
       {
-        time: "12h28",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -27 PV <img alt="death.svg" src="death.svg" class="icon">',
+        "time": "12h02",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée se déplace",
+        "result": ""
       },
       {
-        time: "12h35",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result:
-          '-27 PV +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
+        "time": "12h02",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée se déplace",
+        "result": ""
       },
       {
-        time: "12h53",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "",
+        "time": "12h02",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée se déplace",
+        "result": ""
       },
       {
-        time: "14h14",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx se cache',
-        result:
-          '+4 <img src="https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04" title="Furtivité" alt="Furtivité">',
-      },
-      {
-        time: "14h14",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -16 PV +2 <img src="https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04" title="Cécité" alt="Cécité">',
-      },
-      {
-        time: "16h34",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
-        result: "",
-      },
-      {
-        time: "16h34",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
-      },
-      {
-        time: "16h34",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque puissante sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
-      },
-      {
-        time: "16h34",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge attend',
-        result: "",
-      },
-      {
-        time: "17h39",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian active son tour',
-        result: "",
-      },
-      {
-        time: "17h39",
-        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
-        result: "",
-      },
-    ],
+        "time": "12h05",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane utilise Attaque précise sur <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "-16 PV"
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 3",
-    grid: [
+    "date": "Mecredi 4 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 3",
+    "grid": [
       [
         null,
         null,
@@ -8312,7 +9381,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -8328,7 +9397,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8344,7 +9413,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8360,7 +9429,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -8376,7 +9445,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8392,7 +9461,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8408,7 +9477,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8424,7 +9493,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8440,7 +9509,528 @@ const TURNS = [
         null,
         null,
         null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/72.gif",
+        "https://www.kigard.fr/images/vue/lieu/11.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
         "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "12h28",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal utilise Exécuter sur <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -27 PV <svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M480 491.4C538.5 447.4 576 379.8 576 304C576 171.5 461.4 64 320 64C178.6 64 64 171.5 64 304C64 379.8 101.5 447.4 160 491.4L160 528C160 554.5 181.5 576 208 576L240 576L240 536C240 522.7 250.7 512 264 512C277.3 512 288 522.7 288 536L288 576L352 576L352 536C352 522.7 362.7 512 376 512C389.3 512 400 522.7 400 536L400 576L432 576C458.5 576 480 554.5 480 528zM160 320C160 284.7 188.7 256 224 256C259.3 256 288 284.7 288 320C288 355.3 259.3 384 224 384C188.7 384 160 355.3 160 320zM416 256C451.3 256 480 284.7 480 320C480 355.3 451.3 384 416 384C380.7 384 352 355.3 352 320C352 284.7 380.7 256 416 256z\"/></svg>"
+      },
+      {
+        "time": "12h35",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal attaque <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "-27 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04\" title=\"Saignement\" alt=\"Saignement\">"
+      },
+      {
+        "time": "12h53",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane n'arrive pas à examiner <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": ""
+      },
+      {
+        "time": "14h14",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx se cache",
+        "result": "+4 <img src=\"https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04\" title=\"Furtivité\" alt=\"Furtivité\">"
+      },
+      {
+        "time": "14h14",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -16 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04\" title=\"Cécité\" alt=\"Cécité\">"
+      }
+    ]
+  },
+  {
+    "date": "Mecredi 4 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 3",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/72.gif",
+        "https://www.kigard.fr/images/vue/lieu/11.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "16h34",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge active son tour",
+        "result": ""
+      },
+      {
+        "time": "16h34",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge utilise Attaque défensive sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64z\"/></svg> Esquive !"
+      },
+      {
+        "time": "16h34",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge utilise Attaque puissante sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64z\"/></svg> Esquive !"
+      },
+      {
+        "time": "16h34",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge attend",
+        "result": ""
+      },
+      {
+        "time": "17h39",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian active son tour",
+        "result": ""
+      },
+      {
+        "time": "17h39",
+        "text": "<img alt=\"Mulet\" src=\"https://www.kigard.fr/images/vue/monstre/37.gif\"> Mulet active son tour",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Mecredi 4 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 3",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -8456,7 +10046,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -8472,7 +10062,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8488,7 +10078,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8504,7 +10094,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8520,32 +10110,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "18h11",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal détruit un campement',
-        result: "",
+        "time": "18h11",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal détruit un campement",
+        "result": ""
       },
       {
-        time: "19h46",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result: "",
+        "time": "19h46",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy utilise Soutien dévoué sur <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": ""
       },
       {
-        time: "19h46",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy soutient <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
-        result: "",
-      },
-    ],
+        "time": "19h46",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy soutient <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026 - Jeudi 5 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 4",
-    grid: [
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
       [
         null,
         null,
@@ -8560,7 +10150,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -8576,7 +10166,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8592,7 +10182,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8608,7 +10198,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -8624,7 +10214,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8640,7 +10230,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8656,7 +10246,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8672,7 +10262,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8688,7 +10278,285 @@ const TURNS = [
         null,
         null,
         null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/72.gif",
+        "https://www.kigard.fr/images/vue/lieu/41.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
         "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "20h17",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -6 PV"
+      },
+      {
+        "time": "20h28",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Exaltation sur <img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme",
+        "result": "+4 <img src=\"https://www.kigard.fr/images/modificateur/30.gif?v=2.15.04\" title=\"Exalté\" alt=\"Exalté\">"
+      },
+      {
+        "time": "20h28",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Réflexes sur <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": "+5 <img src=\"https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04\" title=\"Vivace\" alt=\"Vivace\">"
+      },
+      {
+        "time": "21h01",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka attaque <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "-28 PV"
+      },
+      {
+        "time": "21h03",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz active son tour",
+        "result": "+12 PV"
+      },
+      {
+        "time": "21h03",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant active son tour",
+        "result": ""
+      },
+      {
+        "time": "21h04",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal active son tour",
+        "result": ""
+      },
+      {
+        "time": "21h05",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant utilise Attaque puissante sur <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -16 PV"
+      },
+      {
+        "time": "21h05",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant attaque <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "-21 PV"
+      }
+    ]
+  },
+  {
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -8704,7 +10572,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -8720,7 +10588,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8736,7 +10604,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8752,7 +10620,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8768,112 +10636,62 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "20h17",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -6 PV',
+        "time": "21h09",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka ramasse des débris",
+        "result": ""
       },
       {
-        time: "20h28",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Exaltation sur <img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
-        result:
-          '+4 <img src="https://www.kigard.fr/images/modificateur/30.gif?v=2.15.04" title="Exalté" alt="Exalté">',
+        "time": "21h23",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy médite",
+        "result": ""
       },
       {
-        time: "20h28",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Réflexes sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result:
-          '+5 <img src="https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04" title="Vivace" alt="Vivace">',
+        "time": "21h24",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Piqûre sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -30 PV"
       },
       {
-        time: "21h01",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result: "-28 PV",
+        "time": "21h27",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian",
+        "result": ""
       },
       {
-        time: "21h03",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz active son tour',
-        result: "+12 PV",
+        "time": "21h27",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy",
+        "result": ""
       },
       {
-        time: "21h03",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
-        result: "",
+        "time": "21h27",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz",
+        "result": ""
       },
       {
-        time: "21h04",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal active son tour',
-        result: "",
+        "time": "21h27",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius",
+        "result": ""
       },
       {
-        time: "21h05",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -16 PV',
+        "time": "21h27",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx",
+        "result": ""
       },
       {
-        time: "21h05",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result: "-21 PV",
-      },
-      {
-        time: "21h09",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka ramasse des débris',
-        result: "",
-      },
-      {
-        time: "21h23",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy médite',
-        result: "",
-      },
-      {
-        time: "21h24",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -30 PV',
-      },
-      {
-        time: "21h27",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
-        result: "",
-      },
-      {
-        time: "21h27",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy',
-        result: "",
-      },
-      {
-        time: "21h27",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
-        result: "",
-      },
-      {
-        time: "21h27",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius',
-        result: "",
-      },
-      {
-        time: "21h27",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
-        result: "",
-      },
-      {
-        time: "21h27",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result: "",
-      },
-    ],
+        "time": "21h27",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026 - Jeudi 5 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 4",
-    grid: [
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
       [
         null,
         null,
@@ -8888,7 +10706,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -8904,7 +10722,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8920,7 +10738,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8936,7 +10754,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -8952,7 +10770,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8968,7 +10786,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -8984,7 +10802,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9000,7 +10818,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9016,7 +10834,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9032,7 +10850,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9048,7 +10866,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9064,7 +10882,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9080,7 +10898,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9096,33 +10914,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "21h28",
-        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme se déplace',
-        result: "",
+        "time": "21h28",
+        "text": "<img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme se déplace",
+        "result": ""
       },
       {
-        time: "21h28",
-        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Vol de magie sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !',
+        "time": "21h28",
+        "text": "<img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme utilise Vol de magie sur <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage !"
       },
       {
-        time: "21h30",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr active son tour',
-        result: "-2 PV",
-      },
-    ],
+        "time": "21h30",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr active son tour",
+        "result": "-2 PV"
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026 - Jeudi 5 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 4",
-    grid: [
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
       [
         null,
         null,
@@ -9137,7 +10954,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9153,7 +10970,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9169,7 +10986,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9185,7 +11002,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -9201,7 +11018,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9217,7 +11034,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9233,7 +11050,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9249,7 +11066,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9265,7 +11082,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9281,7 +11098,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9297,7 +11114,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9313,7 +11130,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9329,7 +11146,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9345,65 +11162,62 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "21h30",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius utilise Bond athlétique',
-        result: "",
+        "time": "21h30",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius utilise Bond athlétique",
+        "result": ""
       },
       {
-        time: "21h31",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Défense obstinée',
-        result: "",
+        "time": "21h31",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr utilise Défense obstinée",
+        "result": ""
       },
       {
-        time: "21h33",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Dévotion sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+8 <img src="https://www.kigard.fr/images/modificateur/8.gif?v=2.15.04" title="Vigueur" alt="Vigueur">',
+        "time": "21h33",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Dévotion sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+8 <img src=\"https://www.kigard.fr/images/modificateur/8.gif?v=2.15.04\" title=\"Vigueur\" alt=\"Vigueur\">"
       },
       {
-        time: "21h34",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -35 PV',
+        "time": "21h34",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Piqûre sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -35 PV"
       },
       {
-        time: "21h41",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz utilise un objet',
-        result: "",
+        "time": "21h41",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz utilise un objet",
+        "result": ""
       },
       {
-        time: "21h51",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy active son tour',
-        result: "",
+        "time": "21h51",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy active son tour",
+        "result": ""
       },
       {
-        time: "21h51",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Instinct sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+6 <img src="https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04" title="Habile" alt="https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04">',
+        "time": "21h51",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy lance le sort Instinct sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+6 <img src=\"https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04\" title=\"Habile\" alt=\"https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04\">"
       },
       {
-        time: "21h52",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian active son tour',
-        result: "",
+        "time": "21h52",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian active son tour",
+        "result": ""
       },
       {
-        time: "21h52",
-        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
-        result: "",
-      },
-    ],
+        "time": "21h52",
+        "text": "<img alt=\"Mulet\" src=\"https://www.kigard.fr/images/vue/monstre/37.gif\"> Mulet active son tour",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026 - Jeudi 5 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 4",
-    grid: [
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
       [
         null,
         null,
@@ -9418,7 +11232,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9434,7 +11248,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9450,7 +11264,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9466,7 +11280,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -9482,7 +11296,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9498,7 +11312,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9514,7 +11328,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9530,7 +11344,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9546,7 +11360,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9562,7 +11376,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9578,7 +11392,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9594,7 +11408,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9610,7 +11424,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9626,44 +11440,57 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "21h55",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius active son tour',
-        result: "-10 PV",
+        "time": "21h55",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius active son tour",
+        "result": "-10 PV"
       },
       {
-        time: "21h55",
-        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme active son tour',
-        result: "",
+        "time": "21h55",
+        "text": "<img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme active son tour",
+        "result": ""
       },
       {
-        time: "21h56",
-        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Vol de magie sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !',
+        "time": "21h56",
+        "text": "<img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme utilise Vol de magie sur <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage !"
       },
       {
-        time: "21h56",
-        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme réalise un bond',
-        result: "",
+        "time": "21h56",
+        "text": "<img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme réalise un bond",
+        "result": ""
       },
       {
-        time: "21h56",
-        text: '<img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme utilise Siphonner sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -7 PV',
+        "time": "21h56",
+        "text": "<img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme utilise Siphonner sur <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -7 PV"
       },
-    ],
+      {
+        "time": "22h02",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu active son tour",
+        "result": ""
+      },
+      {
+        "time": "22h03",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius soutient <img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu",
+        "result": ""
+      },
+      {
+        "time": "22h04",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu attaque <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -27 PV"
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026 - Jeudi 5 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 4",
-    grid: [
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
       [
         null,
         null,
@@ -9678,7 +11505,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9694,7 +11521,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9710,7 +11537,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9726,7 +11553,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -9742,7 +11569,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9758,7 +11585,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9774,7 +11601,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9790,7 +11617,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9806,7 +11633,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9822,7 +11649,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9838,7 +11665,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9854,7 +11681,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9870,7 +11697,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9886,49 +11713,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "22h02",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu active son tour',
-        result: "",
+        "time": "22h04",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Exécuter sur <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -30 PV <svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M480 491.4C538.5 447.4 576 379.8 576 304C576 171.5 461.4 64 320 64C178.6 64 64 171.5 64 304C64 379.8 101.5 447.4 160 491.4L160 528C160 554.5 181.5 576 208 576L240 576L240 536C240 522.7 250.7 512 264 512C277.3 512 288 522.7 288 536L288 576L352 576L352 536C352 522.7 362.7 512 376 512C389.3 512 400 522.7 400 536L400 576L432 576C458.5 576 480 554.5 480 528zM160 320C160 284.7 188.7 256 224 256C259.3 256 288 284.7 288 320C288 355.3 259.3 384 224 384C188.7 384 160 355.3 160 320zM416 256C451.3 256 480 284.7 480 320C480 355.3 451.3 384 416 384C380.7 384 352 355.3 352 320C352 284.7 380.7 256 416 256z\"/></svg>"
       },
       {
-        time: "22h03",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius soutient <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu',
-        result: "",
+        "time": "22h08",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka active son tour",
+        "result": "+8 PV"
       },
       {
-        time: "22h04",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -27 PV',
-      },
-      {
-        time: "22h04",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Exécuter sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -30 PV <img alt="death.svg" src="death.svg" class="icon">',
-      },
-      {
-        time: "22h08",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
-        result: "+8 PV",
-      },
-      {
-        time: "22h08",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius utilise Incanter',
-        result: "",
-      },
-    ],
+        "time": "22h08",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius utilise Incanter",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026 - Jeudi 5 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 4",
-    grid: [
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
       [
         null,
         null,
@@ -9943,7 +11753,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -9959,7 +11769,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9975,7 +11785,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -9991,7 +11801,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -10007,7 +11817,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10023,7 +11833,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10039,7 +11849,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10055,7 +11865,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10071,7 +11881,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -10087,7 +11897,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -10103,7 +11913,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10119,7 +11929,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10135,7 +11945,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10151,45 +11961,42 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "22h11",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane utilise Bond athlétique',
-        result: "",
+        "time": "22h11",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane utilise Bond athlétique",
+        "result": ""
       },
       {
-        time: "22h11",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque (main gauche) <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -21 PV',
+        "time": "22h11",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane attaque (main gauche) <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -21 PV"
       },
       {
-        time: "22h11",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif">[CIC] Kane attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -41 PV',
+        "time": "22h11",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\">[CIC] Kane attaque <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -41 PV"
       },
       {
-        time: "22h16",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -34 PV',
+        "time": "22h16",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Piqûre sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -34 PV"
       },
       {
-        time: "22h17",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result: "",
-      },
-    ],
+        "time": "22h17",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy utilise Soutien dévoué sur <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026 - Jeudi 5 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 4",
-    grid: [
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
       [
         null,
         null,
@@ -10204,7 +12011,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -10220,7 +12027,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10236,7 +12043,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10252,7 +12059,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -10268,7 +12075,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10284,7 +12091,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10300,7 +12107,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10316,7 +12123,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10332,7 +12139,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -10348,7 +12155,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -10364,7 +12171,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10380,7 +12187,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10396,7 +12203,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10412,56 +12219,52 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "22h18",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka échange ses armes',
-        result: "",
+        "time": "22h18",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka échange ses armes",
+        "result": ""
       },
       {
-        time: "22h18",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka se déplace',
-        result: "",
+        "time": "22h18",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka se déplace",
+        "result": ""
       },
       {
-        time: "22h19",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -34 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
+        "time": "22h19",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka utilise Attaque sournoise sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -34 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04\" title=\"Faille\" alt=\"Faille\">"
       },
       {
-        time: "22h19",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -1 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
+        "time": "22h19",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -1 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04\" title=\"Faille\" alt=\"Faille\">"
       },
       {
-        time: "22h20",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -11 PV',
+        "time": "22h20",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Enchaîner sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -11 PV"
       },
       {
-        time: "22h20",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-1 PV",
+        "time": "22h20",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Enchaîner sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-1 PV"
       },
       {
-        time: "22h21",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -11 PV +3 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Faille" alt="Faille">',
-      },
-    ],
+        "time": "22h21",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Coup de bouclier sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -11 PV +3 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Faille\" alt=\"Faille\">"
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026 - Jeudi 5 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 4",
-    grid: [
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
       [
         null,
         null,
@@ -10476,7 +12279,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -10492,7 +12295,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10508,7 +12311,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10524,7 +12327,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -10540,7 +12343,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10556,7 +12359,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10572,7 +12375,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10588,7 +12391,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10604,7 +12407,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -10620,7 +12423,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -10636,7 +12439,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10652,7 +12455,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10668,7 +12471,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10684,74 +12487,72 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "22h24",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian se déplace',
-        result: "",
+        "time": "22h24",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian se déplace",
+        "result": ""
       },
       {
-        time: "22h27",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Réflexes sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+8 <img src="https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04" title="Vivace" alt="Vivace">',
+        "time": "22h27",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Réflexes sur <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+8 <img src=\"https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04\" title=\"Vivace\" alt=\"Vivace\">"
       },
       {
-        time: "22h28",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius utilise un objet',
-        result: "",
+        "time": "22h28",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius utilise un objet",
+        "result": ""
       },
       {
-        time: "22h28",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
-        result: "",
+        "time": "22h28",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian",
+        "result": ""
       },
       {
-        time: "22h28",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy',
-        result: "",
+        "time": "22h28",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy",
+        "result": ""
       },
       {
-        time: "22h28",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
-        result: "",
+        "time": "22h28",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx",
+        "result": ""
       },
       {
-        time: "22h28",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
-        result: "",
+        "time": "22h28",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz",
+        "result": ""
       },
       {
-        time: "22h28",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian inspire <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result: "",
+        "time": "22h28",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian inspire <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": ""
       },
       {
-        time: "22h29",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -12 PV',
+        "time": "22h29",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -12 PV"
       },
       {
-        time: "22h30",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx active son tour',
-        result: "",
+        "time": "22h30",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx active son tour",
+        "result": ""
       },
       {
-        time: "22h32",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian se défend',
-        result: "",
-      },
-    ],
+        "time": "22h32",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian se défend",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026 - Jeudi 5 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 4",
-    grid: [
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
       [
         null,
         null,
@@ -10766,7 +12567,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -10782,7 +12583,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10798,7 +12599,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10814,7 +12615,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -10830,7 +12631,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10846,7 +12647,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10856,13 +12657,13 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
         null,
         null,
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10878,7 +12679,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10894,7 +12695,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -10910,7 +12711,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -10926,7 +12727,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10942,7 +12743,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10958,7 +12759,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -10974,87 +12775,47 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "22h33",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane active son tour',
-        result: "-4 PV",
+        "time": "22h33",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane active son tour",
+        "result": "-4 PV"
       },
       {
-        time: "22h34",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -17 PV',
+        "time": "22h34",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane attaque (main gauche) <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -17 PV"
       },
       {
-        time: "22h34",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result: "-29 PV",
+        "time": "22h34",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane attaque <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "-29 PV"
       },
       {
-        time: "22h35",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result: "-30 PV",
+        "time": "22h35",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane attaque (main gauche) <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "-30 PV"
       },
       {
-        time: "22h35",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -30 PV',
+        "time": "22h35",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr utilise Attaque sournoise sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -30 PV"
       },
       {
-        time: "22h35",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-19 PV",
-      },
-      {
-        time: "22h36",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Exécuter sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result: '-30 PV <img alt="death.svg" src="death.svg" class="icon">',
-      },
-      {
-        time: "22h39",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal échange ses armes',
-        result: "",
-      },
-      {
-        time: "22h42",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal utilise Attaque sacrée sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -8 PV',
-      },
-      {
-        time: "22h46",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -12 PV +3 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Faille" alt="Faille">',
-      },
-      {
-        time: "22h49",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "",
-      },
-      {
-        time: "23h11",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise un objet',
-        result: "",
-      },
-      {
-        time: "00h24",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -26 PV +2 <img src="https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04" title="Cécité" alt="Cécité">',
-      },
-    ],
+        "time": "22h35",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Piqûre sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-19 PV"
+      }
+    ]
   },
   {
-    date: "Mecredi 4 février 2026 - Jeudi 5 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 4",
-    grid: [
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
       [
         null,
         null,
@@ -11069,7 +12830,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -11085,7 +12846,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11101,7 +12862,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11117,55 +12878,55 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-      ],
-      [
-        null,
-        null,
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
         null,
         "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
         "https://www.kigard.fr/images/vue/lieu/13.gif",
         null,
         null,
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11181,7 +12942,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11197,7 +12958,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -11213,7 +12974,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -11229,7 +12990,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11245,7 +13006,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11261,7 +13022,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11277,54 +13038,52 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "01h45",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
-        result: "",
+        "time": "22h36",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal utilise Exécuter sur <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "-30 PV <svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M480 491.4C538.5 447.4 576 379.8 576 304C576 171.5 461.4 64 320 64C178.6 64 64 171.5 64 304C64 379.8 101.5 447.4 160 491.4L160 528C160 554.5 181.5 576 208 576L240 576L240 536C240 522.7 250.7 512 264 512C277.3 512 288 522.7 288 536L288 576L352 576L352 536C352 522.7 362.7 512 376 512C389.3 512 400 522.7 400 536L400 576L432 576C458.5 576 480 554.5 480 528zM160 320C160 284.7 188.7 256 224 256C259.3 256 288 284.7 288 320C288 355.3 259.3 384 224 384C188.7 384 160 355.3 160 320zM416 256C451.3 256 480 284.7 480 320C480 355.3 451.3 384 416 384C380.7 384 352 355.3 352 320C352 284.7 380.7 256 416 256z\"/></svg>"
       },
       {
-        time: "01h45",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée réalise un bond',
-        result: "",
+        "time": "22h39",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal échange ses armes",
+        "result": ""
       },
       {
-        time: "01h45",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result:
-          '-18 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
+        "time": "22h42",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal utilise Attaque sacrée sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -8 PV"
       },
       {
-        time: "01h45",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result:
-          '-20 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
+        "time": "22h46",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr utilise Coup de bouclier sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -12 PV +3 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Faille\" alt=\"Faille\">"
       },
       {
-        time: "05h37",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
-        result: "",
+        "time": "22h49",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr n'arrive pas à examiner <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": ""
       },
       {
-        time: "05h37",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
+        "time": "23h11",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane utilise un objet",
+        "result": ""
       },
       {
-        time: "05h37",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
-        result: "",
-      },
-    ],
+        "time": "00h24",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -26 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/38.gif?v=2.15.04\" title=\"Cécité\" alt=\"Cécité\">"
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 5",
-    grid: [
+    "date": "Mecredi 4 février 2026 - Jeudi 5 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 4",
+    "grid": [
       [
         null,
         null,
@@ -11339,7 +13098,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -11355,7 +13114,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11371,7 +13130,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11387,7 +13146,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -11403,7 +13162,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11419,7 +13178,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11435,7 +13194,275 @@ const TURNS = [
         null,
         null,
         null,
+        null
+      ],
+      [
         null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/72.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "01h45",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée active son tour",
+        "result": ""
+      },
+      {
+        "time": "01h45",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée réalise un bond",
+        "result": ""
+      },
+      {
+        "time": "01h45",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": "-18 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\"> +1 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
+      },
+      {
+        "time": "01h45",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": "-20 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\"> +1 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
+      },
+      {
+        "time": "05h37",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge active son tour",
+        "result": ""
+      },
+      {
+        "time": "05h37",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge utilise Attaque défensive sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64z\"/></svg> Esquive !"
+      },
+      {
+        "time": "05h37",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge se défend",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Jeudi 5 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 5",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -11451,7 +13478,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11467,7 +13494,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -11483,7 +13510,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -11499,7 +13526,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11515,7 +13542,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11531,7 +13558,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11547,57 +13574,52 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
-      { time: "09h01", text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Karz.gif"> [CIC] Karz active son tour', result: "+12 PV" },
-      { time: "09h01", text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour', result: "" },
-      { time: "09h02", text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Eressëa%20Sirthaal.gif"> Eressëa Sirthaal active son tour', result: "" },
-      { time: "09h02", text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se déplace', result: "" },
+    "history": [
       {
-        time: "09h02",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !',
-      },
-      { time: "09h02", text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge', result: "-5 PV" },
-      { time: "09h02", text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attend', result: "" },
-      { time: "09h55", text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Sephy.gif"> [CIC] Sephy active son tour', result: "" },
-      {
-        time: "10h03",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !',
-      },
-      { time: "10h04", text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx échange ses armes', result: "" },
-      { time: "10h06", text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Gatsu.gif"> [CIC] Gatsu active son tour', result: "" },
-      {
-        time: "10h18",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Ixiorius.gif"> [CIC] Ixiorius active son tour',
-        result: "-4 PV",
+        "time": "09h01",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Karz.gif\"> [CIC] Karz active son tour",
+        "result": "+12 PV"
       },
       {
-        time: "10h34",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Ixiorius.gif"> [CIC] Ixiorius lance le sort Réflexes sur <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Gatsu.gif"> [CIC] Gatsu',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+7 <img src="https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04" title="Vivace" alt=""Vivace>',
+        "time": "09h01",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant active son tour",
+        "result": ""
       },
-      { time: "10h34", text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Kane.gif"> [CIC] Kane active son tour', result: "-12 PV" },
-      { time: "10h35", text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Karz.gif"> [CIC] Karz échange ses armes', result: "" },
       {
-        time: "10h35",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Karz.gif"> [CIC] Karz lance le sort Guérison sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Kane.gif"> [CIC] Kane',
-        result: "+30 PV",
+        "time": "09h02",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Eressëa%20Sirthaal.gif\"> Eressëa Sirthaal active son tour",
+        "result": ""
       },
-      { time: "10h35", text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx active son tour', result: "" },
-    ],
+      {
+        "time": "09h02",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant se déplace",
+        "result": ""
+      },
+      {
+        "time": "09h02",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant utilise Attaque puissante sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage !"
+      },
+      {
+        "time": "09h02",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-5 PV"
+      },
+      {
+        "time": "09h02",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant attend",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 5",
-    grid: [
+    "date": "Jeudi 5 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 5",
+    "grid": [
       [
         null,
         null,
@@ -11612,7 +13634,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -11628,7 +13650,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11644,7 +13666,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11660,7 +13682,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -11676,7 +13698,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11692,7 +13714,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11708,7 +13730,290 @@ const TURNS = [
         null,
         null,
         null,
+        null
+      ],
+      [
         null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        null,
+        "https://www.kigard.fr/images/vue/monstre/72.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "09h55",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Sephy.gif\"> [CIC] Sephy active son tour",
+        "result": ""
+      },
+      {
+        "time": "10h03",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage !"
+      },
+      {
+        "time": "10h04",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx échange ses armes",
+        "result": ""
+      },
+      {
+        "time": "10h06",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Gatsu.gif\"> [CIC] Gatsu active son tour",
+        "result": ""
+      },
+      {
+        "time": "10h18",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Ixiorius.gif\"> [CIC] Ixiorius active son tour",
+        "result": "-4 PV"
+      },
+      {
+        "time": "10h34",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Réflexes sur <img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Gatsu.gif\"> [CIC] Gatsu",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+7 <img src=\"https://www.kigard.fr/images/modificateur/23.gif?v=2.15.04\" title=\"Vivace\" alt=\"\"Vivace>"
+      },
+      {
+        "time": "10h34",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Kane.gif\"> [CIC] Kane active son tour",
+        "result": "-12 PV"
+      },
+      {
+        "time": "10h35",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Karz.gif\"> [CIC] Karz échange ses armes",
+        "result": ""
+      },
+      {
+        "time": "10h35",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Karz.gif\"> [CIC] Karz lance le sort Guérison sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/day/Kane.gif\"> [CIC] Kane",
+        "result": "+30 PV"
+      },
+      {
+        "time": "10h35",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx active son tour",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Jeudi 5 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 5",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -11724,7 +14029,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11740,7 +14045,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -11756,7 +14061,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -11772,7 +14077,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11788,7 +14093,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11804,7 +14109,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11820,28 +14125,27 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "10h40",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane ramasse une dépouille',
-        result: "",
+        "time": "10h40",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane ramasse une dépouille",
+        "result": ""
       },
       {
-        time: "10h40",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -22 PV',
-      },
-    ],
+        "time": "10h40",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane attaque (main gauche) <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -22 PV"
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 5",
-    grid: [
+    "date": "Jeudi 5 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 5",
+    "grid": [
       [
         null,
         null,
@@ -11856,7 +14160,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -11872,7 +14176,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11888,7 +14192,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/monstre/79.gif",
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11904,7 +14208,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -11920,7 +14224,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11936,7 +14240,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11952,7 +14256,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11968,7 +14272,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -11984,7 +14288,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -12000,7 +14304,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -12016,7 +14320,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12032,7 +14336,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12048,7 +14352,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12064,61 +14368,57 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "10h41",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Bond athlétique.',
-        result: "",
+        "time": "10h41",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane utilise Bond athlétique.",
+        "result": ""
       },
       {
-        time: "10h41",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane réalise un bond.',
-        result: "",
+        "time": "10h41",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane réalise un bond.",
+        "result": ""
       },
       {
-        time: "10h45",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
-        result: "+8 PV",
+        "time": "10h45",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka active son tour",
+        "result": "+8 PV"
       },
       {
-        time: "10h51",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz utilise un objet',
-        result: "",
+        "time": "10h51",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz utilise un objet",
+        "result": ""
       },
       {
-        time: "10h51",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -31 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
+        "time": "10h51",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka utilise Attaque sournoise sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -31 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04\" title=\"Faille\" alt=\"Faille\">"
       },
       {
-        time: "10h51",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -2 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
+        "time": "10h51",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -2 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04\" title=\"Faille\" alt=\"Faille\">"
       },
       {
-        time: "10h57",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -41 PV',
+        "time": "10h57",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal utilise Attaque sournoise sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -41 PV"
       },
       {
-        time: "10h58",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sacrée sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -10 PV',
-      },
-    ],
+        "time": "10h58",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal utilise Attaque sacrée sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -10 PV"
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 5",
-    grid: [
+    "date": "Jeudi 5 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 5",
+    "grid": [
       [
         null,
         null,
@@ -12133,7 +14433,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -12149,7 +14449,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12165,7 +14465,7 @@ const TURNS = [
         null,
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12181,7 +14481,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -12197,7 +14497,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12213,7 +14513,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12229,7 +14529,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12245,7 +14545,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12261,7 +14561,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -12277,7 +14577,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -12293,7 +14593,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12309,7 +14609,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12325,7 +14625,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12341,58 +14641,72 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "11h48",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
-        result: "",
+        "time": "11h48",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade active son tour",
+        "result": ""
       },
       {
-        time: "11h48",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
-        result: "",
+        "time": "11h48",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade se déplace",
+        "result": ""
       },
       {
-        time: "11h48",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
-        result: "",
+        "time": "11h48",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade se déplace",
+        "result": ""
       },
       {
-        time: "11h48",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
-        result: "",
+        "time": "11h48",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade se déplace",
+        "result": ""
       },
       {
-        time: "11h50",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy soigne <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! +32 PV',
+        "time": "11h50",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy soigne <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! +32 PV"
       },
       {
-        time: "13h32",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius se défend',
-        result: "",
+        "time": "13h32",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius se défend",
+        "result": ""
       },
       {
-        time: "13h32",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius utilise un objet',
-        result: "",
+        "time": "13h32",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius utilise un objet",
+        "result": ""
       },
       {
-        time: "13h32",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius utilise Incanter',
-        result: "",
+        "time": "13h32",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius utilise Incanter",
+        "result": ""
       },
-    ],
+      {
+        "time": "14h08",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée active son tour",
+        "result": ""
+      },
+      {
+        "time": "14h08",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Attaque défensive sur <img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme",
+        "result": "-24 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\"> +1 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
+      },
+      {
+        "time": "14h08",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -38 PV +3 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\"> +2 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 5",
-    grid: [
+    "date": "Jeudi 5 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 5",
+    "grid": [
       [
         null,
         null,
@@ -12407,7 +14721,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -12423,7 +14737,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12439,7 +14753,7 @@ const TURNS = [
         null,
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12455,7 +14769,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -12471,7 +14785,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12487,7 +14801,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12503,7 +14817,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12519,7 +14833,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12535,7 +14849,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -12551,7 +14865,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -12567,7 +14881,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12583,7 +14897,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12599,7 +14913,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12615,108 +14929,47 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "14h08",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
-        result: "",
+        "time": "14h08",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Fantôme\" src=\"https://www.kigard.fr/images/vue/monstre/72.gif\"> Fantôme",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -33 PV <svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M480 491.4C538.5 447.4 576 379.8 576 304C576 171.5 461.4 64 320 64C178.6 64 64 171.5 64 304C64 379.8 101.5 447.4 160 491.4L160 528C160 554.5 181.5 576 208 576L240 576L240 536C240 522.7 250.7 512 264 512C277.3 512 288 522.7 288 536L288 576L352 576L352 536C352 522.7 362.7 512 376 512C389.3 512 400 522.7 400 536L400 576L432 576C458.5 576 480 554.5 480 528zM160 320C160 284.7 188.7 256 224 256C259.3 256 288 284.7 288 320C288 355.3 259.3 384 224 384C188.7 384 160 355.3 160 320zM416 256C451.3 256 480 284.7 480 320C480 355.3 451.3 384 416 384C380.7 384 352 355.3 352 320C352 284.7 380.7 256 416 256z\"/></svg>"
       },
       {
-        time: "14h08",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
-        result:
-          '-24 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
+        "time": "14h08",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée se défend",
+        "result": ""
       },
       {
-        time: "14h08",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -38 PV +3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
+        "time": "14h08",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius voit son invocation se dissiper et redevenir un élément inerte",
+        "result": ""
       },
       {
-        time: "14h08",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Fantôme" src="https://www.kigard.fr/images/vue/monstre/72.gif"> Fantôme',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -33 PV <img alt="death.svg" src="death.svg" class="icon">',
+        "time": "14h50",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal n'arrive pas à examiner <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": ""
       },
       {
-        time: "14h08",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se défend',
-        result: "",
+        "time": "14h51",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal se défend",
+        "result": ""
       },
       {
-        time: "14h08",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius voit son invocation se dissiper et redevenir un élément inerte',
-        result: "",
-      },
-      {
-        time: "14h50",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal n\'arrive pas à examiner <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "",
-      },
-      {
-        time: "14h51",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal se défend',
-        result: "",
-      },
-      {
-        time: "14h56",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz médite',
-        result: "",
-      },
-      {
-        time: "16h02",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  active son tour',
-        result: "",
-      },
-      {
-        time: "16h18",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-6 PV",
-      },
-      {
-        time: "16h18",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -19 PV',
-      },
-      {
-        time: "16h18",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -23 PV',
-      },
-      {
-        time: "16h21",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Défense obstinée',
-        result: "",
-      },
-      {
-        time: "16h21",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Coup de bouclier sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '-4 PV +2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
-      },
-      {
-        time: "16h41",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian active son tour',
-        result: "",
-      },
-      {
-        time: "16h41",
-        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
-        result: "",
-      },
-    ],
+        "time": "14h56",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz médite",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 5",
-    grid: [
+    "date": "Jeudi 5 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 5",
+    "grid": [
       [
         null,
         null,
@@ -12731,7 +14984,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -12747,7 +15000,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12763,7 +15016,7 @@ const TURNS = [
         null,
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12779,7 +15032,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -12795,7 +15048,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12811,7 +15064,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12827,7 +15080,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12843,7 +15096,280 @@ const TURNS = [
         null,
         null,
         null,
+        null
+      ],
+      [
         null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "16h02",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  active son tour",
+        "result": ""
+      },
+      {
+        "time": "16h18",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Enchaîner sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-6 PV"
+      },
+      {
+        "time": "16h18",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Enchaîner sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -19 PV"
+      },
+      {
+        "time": "16h18",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -23 PV"
+      },
+      {
+        "time": "16h21",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  utilise Défense obstinée",
+        "result": ""
+      },
+      {
+        "time": "16h21",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  utilise Coup de bouclier sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-4 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
+      },
+      {
+        "time": "16h41",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian active son tour",
+        "result": ""
+      },
+      {
+        "time": "16h41",
+        "text": "<img alt=\"Mulet\" src=\"https://www.kigard.fr/images/vue/monstre/37.gif\"> Mulet active son tour",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Jeudi 5 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 5",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -12859,7 +15385,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -12875,7 +15401,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -12891,7 +15417,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12907,7 +15433,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12923,7 +15449,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -12939,103 +15465,72 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "17h50",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius construit une barricade',
-        result: "",
+        "time": "17h50",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius construit une barricade",
+        "result": ""
       },
       {
-        time: "17h52",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu soutient <img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius',
-        result: "",
+        "time": "17h52",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu soutient <img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius",
+        "result": ""
       },
       {
-        time: "18h36",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-6 PV",
+        "time": "18h36",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-6 PV"
       },
       {
-        time: "18h48",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Boule de feu sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !+1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "18h48",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy lance le sort Boule de feu sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage !+1 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "18h59",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
-        result: "",
+        "time": "18h59",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy utilise Soutien dévoué sur <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx",
+        "result": ""
       },
       {
-        time: "19h02",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius échange ses armes',
-        result: "",
+        "time": "19h02",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius échange ses armes",
+        "result": ""
       },
       {
-        time: "19h02",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx utilise un objet',
-        result: "",
+        "time": "19h02",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx utilise un objet",
+        "result": ""
       },
       {
-        time: "19h02",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx se cache',
-        result:
-          '+6 <img src="https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04" title="Furtivité" alt="Furtivité">',
+        "time": "19h02",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx se cache",
+        "result": "+6 <img src=\"https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04\" title=\"Furtivité\" alt=\"Furtivité\">"
       },
       {
-        time: "19h02",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -18 PV',
+        "time": "19h02",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -18 PV"
       },
       {
-        time: "19h02",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -24 PV',
+        "time": "19h02",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -24 PV"
       },
       {
-        time: "19h03",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -26 PV',
-      },
-      {
-        time: "19h33",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge active son tour',
-        result: "-1 PV",
-      },
-      {
-        time: "19h33",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque puissante sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -32 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
-      },
-      {
-        time: "19h33",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
-      },
-      {
-        time: "19h33",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
-        result: "",
-      },
-      {
-        time: "19h33",
-        text: '<img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge se défend',
-        result: "",
-      },
-    ],
+        "time": "19h03",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -26 PV"
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026 - Vendredi 6 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 6",
-    grid: [
+    "date": "Jeudi 5 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 5",
+    "grid": [
       [
         null,
         null,
@@ -13050,7 +15545,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -13066,7 +15561,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13082,7 +15577,7 @@ const TURNS = [
         null,
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13098,7 +15593,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -13114,7 +15609,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13130,7 +15625,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13146,7 +15641,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13162,7 +15657,548 @@ const TURNS = [
         null,
         null,
         null,
+        null
+      ],
+      [
         null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "19h33",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge active son tour",
+        "result": "-1 PV"
+      },
+      {
+        "time": "19h33",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge utilise Attaque puissante sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -32 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\"> +1 <img src=\"https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04\" title=\"Saignement\" alt=\"Saignement\">"
+      },
+      {
+        "time": "19h33",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge utilise Attaque défensive sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64z\"/></svg> Esquive !"
+      },
+      {
+        "time": "19h33",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge se défend",
+        "result": ""
+      },
+      {
+        "time": "19h33",
+        "text": "<img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge se défend",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Jeudi 5 février 2026 - Vendredi 6 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 6",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "21h00",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal active son tour",
+        "result": ""
+      },
+      {
+        "time": "21h01",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz active son tour",
+        "result": "+12 PV"
+      },
+      {
+        "time": "21h01",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant active son tour",
+        "result": ""
+      },
+      {
+        "time": "21h01",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant utilise Attaque puissante sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-18 PV"
+      },
+      {
+        "time": "21h01",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-6 PV"
+      },
+      {
+        "time": "21h04",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  active son tour",
+        "result": ""
+      },
+      {
+        "time": "21h31",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian utilise Soutien dévoué sur <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": ""
+      },
+      {
+        "time": "21h32",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-3 PV"
+      },
+      {
+        "time": "21h33",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -5 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04\" title=\"Faille\" alt=\"Faille\">"
+      },
+      {
+        "time": "21h33",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian n'arrive pas à exposer les faiblesses de <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Jeudi 5 février 2026 - Vendredi 6 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 6",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -13178,7 +16214,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -13194,7 +16230,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -13210,7 +16246,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13226,7 +16262,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13242,7 +16278,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13258,258 +16294,72 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "21h00",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal active son tour',
-        result: "",
+        "time": "21h37",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal ramasse une dépouille",
+        "result": ""
       },
       {
-        time: "21h01",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz active son tour',
-        result: "+12 PV",
+        "time": "21h39",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Guérison sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "+30 PV"
       },
       {
-        time: "21h01",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
-        result: "",
+        "time": "21h51",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy active son tour",
+        "result": ""
       },
       {
-        time: "21h01",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-18 PV",
+        "time": "21h54",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy lance le sort Guérison sur <img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius",
+        "result": "+18 PV"
       },
       {
-        time: "21h01",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-6 PV",
+        "time": "22h05",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian active son tour",
+        "result": ""
       },
       {
-        time: "21h04",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  active son tour',
-        result: "",
+        "time": "22h05",
+        "text": "<img alt=\"Mulet\" src=\"https://www.kigard.fr/images/vue/monstre/37.gif\"> Mulet active son tour",
+        "result": ""
       },
       {
-        time: "21h31",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian utilise Soutien dévoué sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result: "",
+        "time": "22h07",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka active son tour",
+        "result": "+8 PV"
       },
       {
-        time: "21h32",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-3 PV",
+        "time": "22h21",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius active son tour",
+        "result": ""
       },
       {
-        time: "21h33",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -5 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
+        "time": "22h22",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius utilise Surcharge magique",
+        "result": ""
       },
       {
-        time: "21h33",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian n\'arrive pas à exposer les faiblesses de <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "",
+        "time": "22h22",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -14 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04\" title=\"Gel\" alt=\"Gel\">"
       },
       {
-        time: "21h37",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal ramasse une dépouille',
-        result: "",
-      },
-      {
-        time: "21h39",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Guérison sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: "+30 PV",
-      },
-      {
-        time: "21h51",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy active son tour',
-        result: "",
-      },
-      {
-        time: "21h54",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Guérison sur <img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius',
-        result: "+18 PV",
-      },
-      {
-        time: "22h05",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian active son tour',
-        result: "",
-      },
-      {
-        time: "22h05",
-        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
-        result: "",
-      },
-      {
-        time: "22h07",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
-        result: "+8 PV",
-      },
-      {
-        time: "22h21",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius active son tour',
-        result: "",
-      },
-      {
-        time: "22h22",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius utilise Surcharge magique',
-        result: "",
-      },
-      {
-        time: "22h22",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -14 PV +1 <img src="https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04" title="Gel" alt="Gel">',
-      },
-      {
-        time: "22h22",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '-17 PV +2 <img src="https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04" title="Gel" alt="Gel">',
-      },
-      {
-        time: "22h33",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx active son tour',
-        result: "",
-      },
-      {
-        time: "22h40",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane active son tour',
-        result: "-12 PV",
-      },
-      {
-        time: "22h45",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
-        result: "",
-      },
-      {
-        time: "22h46",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy soutient <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result: "",
-      },
-      {
-        time: "22h54",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian utilise Soutien dévoué sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result: "",
-      },
-      {
-        time: "22h55",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -8 PV +1 <img src="https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04" title="Gel" alt="Gel">',
-      },
-      {
-        time: "22h55",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius échange ses armes',
-        result: "",
-      },
-      {
-        time: "23h00",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu active son tour',
-        result: "",
-      },
-      {
-        time: "23h01",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-5 PV",
-      },
-      {
-        time: "23h01",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-5 PV",
-      },
-      {
-        time: "23h01",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-10 PV",
-      },
-      {
-        time: "23h01",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx se cache',
-        result:
-          '+4 <img src="https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04" title="Furtivité" alt="Furtivité">',
-      },
-      {
-        time: "23h01",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -24 PV',
-      },
-      {
-        time: "23h02",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -19 PV',
-      },
-      {
-        time: "23h02",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx utilise Attaque précise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -22 PV',
-      },
-      {
-        time: "23h06",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Défense obstinée',
-        result: "",
-      },
-      {
-        time: "23h07",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-10 PV",
-      },
-      {
-        time: "23h08",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal soutient <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
-        result: "",
-      },
-      {
-        time: "23h13",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Piqûre sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-23 PV",
-      },
-      {
-        time: "23h14",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -35 PV',
-      },
-      {
-        time: "23h16",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz fait un achat à <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result: "",
-      },
-      {
-        time: "23h25",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Instinct sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
-        result:
-          '+5 <img src="https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04" title="Habile" alt="Habile">',
-      },
-      {
-        time: "23h25",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -14 PV',
-      },
-      {
-        time: "23h26",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-5 PV",
-      },
-      {
-        time: "23h28",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy soigne <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result: "+20 PV",
-      },
-    ],
+        "time": "22h22",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-17 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04\" title=\"Gel\" alt=\"Gel\">"
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026 - Vendredi 6 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 6",
-    grid: [
+    "date": "Jeudi 5 février 2026 - Vendredi 6 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 6",
+    "grid": [
       [
         null,
         null,
@@ -13524,7 +16374,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -13540,7 +16390,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13556,7 +16406,7 @@ const TURNS = [
         null,
         "https://www.kigard.fr/images/vue/monstre/81.gif",
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13572,7 +16422,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -13588,7 +16438,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13604,7 +16454,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13620,7 +16470,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13636,7 +16486,831 @@ const TURNS = [
         null,
         null,
         null,
+        null
+      ],
+      [
         null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "22h33",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx active son tour",
+        "result": ""
+      },
+      {
+        "time": "22h40",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane active son tour",
+        "result": "-12 PV"
+      },
+      {
+        "time": "22h45",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy utilise Soutien dévoué sur <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx",
+        "result": ""
+      },
+      {
+        "time": "22h46",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy soutient <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": ""
+      },
+      {
+        "time": "22h54",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian utilise Soutien dévoué sur <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": ""
+      },
+      {
+        "time": "22h55",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Rafale de givre sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -8 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/39.gif?v=2.15.04\" title=\"Gel\" alt=\"Gel\">"
+      },
+      {
+        "time": "22h55",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius échange ses armes",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Jeudi 5 février 2026 - Vendredi 6 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 6",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "23h00",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu active son tour",
+        "result": ""
+      },
+      {
+        "time": "23h01",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Enchaîner sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-5 PV"
+      },
+      {
+        "time": "23h01",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Enchaîner sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-5 PV"
+      },
+      {
+        "time": "23h01",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-10 PV"
+      },
+      {
+        "time": "23h01",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx se cache",
+        "result": "+4 <img src=\"https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04\" title=\"Furtivité\" alt=\"Furtivité\">"
+      },
+      {
+        "time": "23h01",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -24 PV"
+      },
+      {
+        "time": "23h02",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -19 PV"
+      },
+      {
+        "time": "23h02",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx utilise Attaque précise sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -22 PV"
+      },
+      {
+        "time": "23h06",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  utilise Défense obstinée",
+        "result": ""
+      },
+      {
+        "time": "23h07",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  utilise Attaque sournoise sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-10 PV"
+      }
+    ]
+  },
+  {
+    "date": "Jeudi 5 février 2026 - Vendredi 6 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 6",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        "https://www.kigard.fr/images/vue/monstre/83.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "23h08",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal soutient <img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz",
+        "result": ""
+      },
+      {
+        "time": "23h13",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Piqûre sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-23 PV"
+      },
+      {
+        "time": "23h14",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal utilise Attaque sournoise sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -35 PV"
+      },
+      {
+        "time": "23h16",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz fait un achat à <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": ""
+      },
+      {
+        "time": "23h25",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy lance le sort Instinct sur <img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian",
+        "result": "+5 <img src=\"https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04\" title=\"Habile\" alt=\"Habile\">"
+      },
+      {
+        "time": "23h25",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -14 PV"
+      },
+      {
+        "time": "23h26",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-5 PV"
+      },
+      {
+        "time": "23h28",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy soigne <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": "+20 PV"
+      }
+    ]
+  },
+  {
+    "date": "Jeudi 5 février 2026 - Vendredi 6 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 6",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -13652,7 +17326,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -13668,7 +17342,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -13684,7 +17358,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13700,7 +17374,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13716,7 +17390,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13732,48 +17406,47 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "23h29",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Bond athlétique',
-        result: "",
+        "time": "23h29",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane utilise Bond athlétique",
+        "result": ""
       },
       {
-        time: "23h29",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane se déplace',
-        result: "",
+        "time": "23h29",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane se déplace",
+        "result": ""
       },
       {
-        time: "23h30",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-12 PV",
+        "time": "23h30",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane attaque (main gauche) <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-12 PV"
       },
       {
-        time: "23h31",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Attaque puissante sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -33 PV',
+        "time": "23h31",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane utilise Attaque puissante sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -33 PV"
       },
       {
-        time: "23h31",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-6 PV",
+        "time": "23h31",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane attaque (main gauche) <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-6 PV"
       },
       {
-        time: "23h48",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result: "-8 PV",
-      },
-    ],
+        "time": "23h48",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "-8 PV"
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026 - Vendredi 6 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 6",
-    grid: [
+    "date": "Jeudi 5 février 2026 - Vendredi 6 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 6",
+    "grid": [
       [
         null,
         null,
@@ -13788,7 +17461,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -13804,7 +17477,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13820,7 +17493,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13836,7 +17509,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -13852,7 +17525,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13868,7 +17541,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13884,7 +17557,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13900,7 +17573,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13916,7 +17589,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -13932,7 +17605,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -13948,7 +17621,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13964,7 +17637,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13980,7 +17653,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -13996,42 +17669,42 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "00h07",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
-        result: "",
+        "time": "00h07",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent active son tour",
+        "result": ""
       },
       {
-        time: "00h07",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent utilise Recherche intuitive',
-        result: "",
+        "time": "00h07",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent utilise Recherche intuitive",
+        "result": ""
       },
       {
-        time: "00h07",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
-        result: "",
+        "time": "00h07",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent se déplace",
+        "result": ""
       },
       {
-        time: "00h07",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se déplace',
-        result: "",
+        "time": "00h07",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent se déplace",
+        "result": ""
       },
       {
-        time: "00h07",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent attend',
-        result: "",
-      },
-    ],
+        "time": "00h07",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent attend",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026 - Vendredi 6 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 6",
-    grid: [
+    "date": "Jeudi 5 février 2026 - Vendredi 6 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 6",
+    "grid": [
       [
         null,
         null,
@@ -14046,7 +17719,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14062,7 +17735,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14078,7 +17751,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14094,7 +17767,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -14110,7 +17783,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14126,7 +17799,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14142,7 +17815,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14158,7 +17831,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14174,7 +17847,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14190,7 +17863,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14206,7 +17879,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14222,7 +17895,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14238,7 +17911,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14254,23 +17927,22 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "00h35",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Prince Rouge" src="https://www.kigard.fr/images/vue/monstre/83.gif"> Prince Rouge',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -33 PV <img alt="death.svg" src="death.svg" class="icon">',
-      },
-    ],
+        "time": "00h35",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka utilise Attaque sournoise sur <img alt=\"Prince Rouge\" src=\"https://www.kigard.fr/images/vue/monstre/83.gif\"> Prince Rouge",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -33 PV <svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M480 491.4C538.5 447.4 576 379.8 576 304C576 171.5 461.4 64 320 64C178.6 64 64 171.5 64 304C64 379.8 101.5 447.4 160 491.4L160 528C160 554.5 181.5 576 208 576L240 576L240 536C240 522.7 250.7 512 264 512C277.3 512 288 522.7 288 536L288 576L352 576L352 536C352 522.7 362.7 512 376 512C389.3 512 400 522.7 400 536L400 576L432 576C458.5 576 480 554.5 480 528zM160 320C160 284.7 188.7 256 224 256C259.3 256 288 284.7 288 320C288 355.3 259.3 384 224 384C188.7 384 160 355.3 160 320zM416 256C451.3 256 480 284.7 480 320C480 355.3 451.3 384 416 384C380.7 384 352 355.3 352 320C352 284.7 380.7 256 416 256z\"/></svg>"
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026 - Vendredi 6 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 6",
-    grid: [
+    "date": "Jeudi 5 février 2026 - Vendredi 6 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 6",
+    "grid": [
       [
         null,
         null,
@@ -14285,7 +17957,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14301,7 +17973,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14317,7 +17989,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14333,7 +18005,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -14349,7 +18021,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14365,7 +18037,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14381,7 +18053,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14397,7 +18069,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14413,7 +18085,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14429,7 +18101,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14445,7 +18117,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14461,7 +18133,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14477,7 +18149,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14493,52 +18165,52 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "00h35",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka ramasse une dépouille',
-        result: "",
+        "time": "00h35",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka ramasse une dépouille",
+        "result": ""
       },
       {
-        time: "00h37",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane se défend',
-        result: "",
+        "time": "00h37",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane se défend",
+        "result": ""
       },
       {
-        time: "00h37",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane se défend',
-        result: "",
+        "time": "00h37",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane se défend",
+        "result": ""
       },
       {
-        time: "00h44",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius',
-        result: "",
+        "time": "00h44",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka donne un objet à <img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius",
+        "result": ""
       },
       {
-        time: "00h44",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu',
-        result: "",
+        "time": "00h44",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka donne un objet à <img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu",
+        "result": ""
       },
       {
-        time: "00h45",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal',
-        result: "",
+        "time": "00h45",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka donne un objet à <img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal",
+        "result": ""
       },
       {
-        time: "00h46",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka donne un objet à <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
-        result: "",
-      },
-    ],
+        "time": "00h46",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka donne un objet à <img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026 - Vendredi 6 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 6",
-    grid: [
+    "date": "Jeudi 5 février 2026 - Vendredi 6 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 6",
+    "grid": [
       [
         null,
         null,
@@ -14553,7 +18225,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14569,7 +18241,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14585,7 +18257,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14601,7 +18273,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -14617,7 +18289,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14633,7 +18305,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14649,7 +18321,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14665,7 +18337,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14681,7 +18353,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14697,7 +18369,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14713,7 +18385,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14729,7 +18401,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14745,7 +18417,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14761,45 +18433,42 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "01h26",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée active son tour',
-        result: "",
+        "time": "01h26",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée active son tour",
+        "result": ""
       },
       {
-        time: "01h26",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée se déplace',
-        result: "",
+        "time": "01h26",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée se déplace",
+        "result": ""
       },
       {
-        time: "01h26",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "01h26",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Attaque défensive sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -10 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "01h26",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "01h26",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -10 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
       },
       {
-        time: "01h26",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -26 PV +3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
-      },
-    ],
+        "time": "01h26",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -26 PV +3 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\"> +2 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
+      }
+    ]
   },
   {
-    date: "Jeudi 5 février 2026 - Vendredi 6 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 6",
-    grid: [
+    "date": "Jeudi 5 février 2026 - Vendredi 6 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 6",
+    "grid": [
       [
         null,
         null,
@@ -14814,7 +18483,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14830,7 +18499,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14846,7 +18515,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14862,7 +18531,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -14878,7 +18547,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14894,7 +18563,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14910,7 +18579,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14926,7 +18595,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14942,7 +18611,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14958,7 +18627,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -14974,7 +18643,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -14990,7 +18659,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15006,7 +18675,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15022,32 +18691,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "02h47",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
-        result: "",
+        "time": "02h47",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade active son tour",
+        "result": ""
       },
       {
-        time: "02h47",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade réalise un bond',
-        result: "",
+        "time": "02h47",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade réalise un bond",
+        "result": ""
       },
       {
-        time: "02h47",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
-        result: "",
-      },
-    ],
+        "time": "02h47",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade se déplace",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 7",
-    grid: [
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
       [
         null,
         null,
@@ -15062,7 +18731,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -15078,7 +18747,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15094,7 +18763,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15110,7 +18779,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -15126,7 +18795,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15142,7 +18811,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15158,7 +18827,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15174,7 +18843,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15190,7 +18859,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -15206,7 +18875,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -15222,7 +18891,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15238,7 +18907,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15254,7 +18923,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15270,89 +18939,52 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "08h59",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal échange ses armes',
-        result: "",
+        "time": "08h59",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal échange ses armes",
+        "result": ""
       },
       {
-        time: "09h00",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal active son tour',
-        result: "",
+        "time": "09h00",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal active son tour",
+        "result": ""
       },
       {
-        time: "09h00",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz active son tour',
-        result: "",
+        "time": "09h00",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz active son tour",
+        "result": ""
       },
       {
-        time: "09h00",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
-        result: "",
+        "time": "09h00",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant active son tour",
+        "result": ""
       },
       {
-        time: "09h01",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz utilise un objet',
-        result: "",
+        "time": "09h01",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz utilise un objet",
+        "result": ""
       },
       {
-        time: "09h01",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Guérison sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! +44 PV',
+        "time": "09h01",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Guérison sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! +44 PV"
       },
       {
-        time: "09h01",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Purification sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon">Critique !+8 <img src="https://www.kigard.fr/images/modificateur/21.gif?v=2.15.04" title="Immunité" alt="Immunité">',
-      },
-      {
-        time: "09h11",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
-      },
-      {
-        time: "09h11",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant se défend',
-        result: "",
-      },
-      {
-        time: "09h45",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz fait un achat à <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result: "",
-      },
-      {
-        time: "09h46",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  active son tour',
-        result: "-6 PV",
-      },
-      {
-        time: "09h54",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy active son tour',
-        result: "",
-      },
-      {
-        time: "10h02",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius active son tour',
-        result: "",
-      },
-      {
-        time: "10h06",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius utilise Incanter',
-        result: "",
-      },
-    ],
+        "time": "09h01",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Purification sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg>Critique !+8 <img src=\"https://www.kigard.fr/images/modificateur/21.gif?v=2.15.04\" title=\"Immunité\" alt=\"Immunité\">"
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 7",
-    grid: [
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
       [
         null,
         null,
@@ -15367,7 +18999,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -15383,7 +19015,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15399,7 +19031,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15411,11 +19043,11 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -15431,7 +19063,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15447,7 +19079,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15463,7 +19095,275 @@ const TURNS = [
         null,
         null,
         null,
+        null
+      ],
+      [
         null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "09h11",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant utilise Attaque puissante sur <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64z\"/></svg> Esquive !"
+      },
+      {
+        "time": "09h11",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant se défend",
+        "result": ""
+      },
+      {
+        "time": "09h45",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz fait un achat à <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": ""
+      },
+      {
+        "time": "09h46",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  active son tour",
+        "result": "-6 PV"
+      },
+      {
+        "time": "09h54",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy active son tour",
+        "result": ""
+      },
+      {
+        "time": "10h02",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius active son tour",
+        "result": ""
+      },
+      {
+        "time": "10h06",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius utilise Incanter",
+        "result": ""
+      }
+    ]
+  },
+  {
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -15479,7 +19379,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15495,7 +19395,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -15511,7 +19411,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -15527,7 +19427,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15543,7 +19443,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15559,7 +19459,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15575,37 +19475,37 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "10h09",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent active son tour',
-        result: "",
+        "time": "10h09",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent active son tour",
+        "result": ""
       },
       {
-        time: "10h09",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
-        result: "",
+        "time": "10h09",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent réalise un bond",
+        "result": ""
       },
       {
-        time: "10h09",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent réalise un bond',
-        result: "",
+        "time": "10h09",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent réalise un bond",
+        "result": ""
       },
       {
-        time: "10h09",
-        text: '<img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent se défend',
-        result: "",
-      },
-    ],
+        "time": "10h09",
+        "text": "<img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent se défend",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 7",
-    grid: [
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
       [
         null,
         null,
@@ -15620,7 +19520,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -15636,7 +19536,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15652,7 +19552,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15668,7 +19568,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -15684,7 +19584,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15700,7 +19600,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15716,7 +19616,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15732,7 +19632,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15748,7 +19648,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -15764,7 +19664,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -15780,7 +19680,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15796,7 +19696,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15812,7 +19712,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15828,22 +19728,22 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "10h28",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  ramasse une dépouille',
-        result: "",
-      },
-    ],
+        "time": "10h28",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  ramasse une dépouille",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 7",
-    grid: [
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
       [
         null,
         null,
@@ -15858,7 +19758,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -15874,7 +19774,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15890,7 +19790,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15906,7 +19806,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -15922,7 +19822,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15938,7 +19838,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15954,7 +19854,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15970,7 +19870,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -15986,7 +19886,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16002,7 +19902,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16018,7 +19918,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16034,7 +19934,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16050,7 +19950,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16066,76 +19966,72 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "10h29",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  se déplace',
-        result: "",
+        "time": "10h29",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  se déplace",
+        "result": ""
       },
       {
-        time: "10h29",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Attaque sournoise sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="block.svg" src="block.svg" style="width: 16px;" height="16px"> Blocage ! -5 PV',
+        "time": "10h29",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  utilise Attaque sournoise sur <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -5 PV"
       },
       {
-        time: "10h29",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  se défend',
-        result: "",
+        "time": "10h29",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  se défend",
+        "result": ""
       },
       {
-        time: "10h30",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx active son tour',
-        result: "",
+        "time": "10h30",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx active son tour",
+        "result": ""
       },
       {
-        time: "10h33",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane active son tour',
-        result: "",
+        "time": "10h33",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane active son tour",
+        "result": ""
       },
       {
-        time: "10h33",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="block.svg" src="block.svg" style="width: 16px;" height="16px"> Blocage !',
+        "time": "10h33",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane attaque (main gauche) <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage !"
       },
       {
-        time: "10h33",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Attaque puissante sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="block.svg" src="block.svg" style="width: 16px;" height="16px"> Blocage ! -7 PV',
+        "time": "10h33",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane utilise Attaque puissante sur <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -7 PV"
       },
       {
-        time: "10h48",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu active son tour',
-        result: "",
+        "time": "10h48",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu active son tour",
+        "result": ""
       },
       {
-        time: "10h48",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result: "-18 PV",
+        "time": "10h48",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Enchaîner sur <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "-18 PV"
       },
       {
-        time: "10h48",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Enchaîner sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result: "-21 PV",
+        "time": "10h48",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Enchaîner sur <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "-21 PV"
       },
       {
-        time: "10h48",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Coup de bouclier sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result:
-          '-20 PV +2 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
-      },
-    ],
+        "time": "10h48",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Coup de bouclier sur <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "-20 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 7",
-    grid: [
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
       [
         null,
         null,
@@ -16150,7 +20046,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16166,7 +20062,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16182,7 +20078,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16198,7 +20094,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -16214,7 +20110,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16230,7 +20126,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16246,7 +20142,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16262,7 +20158,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16278,7 +20174,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16294,7 +20190,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16310,7 +20206,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16326,7 +20222,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16342,7 +20238,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16358,27 +20254,27 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "10h54",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane se déplace',
-        result: "",
+        "time": "10h54",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane se déplace",
+        "result": ""
       },
       {
-        time: "11h00",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
-        result: "",
-      },
-    ],
+        "time": "11h00",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka active son tour",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 7",
-    grid: [
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
       [
         null,
         null,
@@ -16393,7 +20289,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16409,7 +20305,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16425,7 +20321,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16441,7 +20337,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -16457,7 +20353,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16473,7 +20369,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16489,7 +20385,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16505,7 +20401,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16521,7 +20417,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16537,7 +20433,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16553,7 +20449,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16569,7 +20465,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16585,7 +20481,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16601,85 +20497,42 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "11h08",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Bond athlétique',
-        result: "",
+        "time": "11h08",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka utilise Bond athlétique",
+        "result": ""
       },
       {
-        time: "11h08",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -53 PV +2 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Assomé" alt="Assomé">',
+        "time": "11h08",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka utilise Attaque sournoise sur <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -53 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
       },
       {
-        time: "11h10",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius médite',
-        result: "",
+        "time": "11h10",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius médite",
+        "result": ""
       },
       {
-        time: "11h11",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius échange ses armes',
-        result: "",
+        "time": "11h11",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius échange ses armes",
+        "result": ""
       },
       {
-        time: "11h12",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Discipline sur <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal',
-        result:
-          '+5 <img src="https://www.kigard.fr/images/modificateur/40.gif?v=2.15.04" title="Volonté" alt="Volonté">',
-      },
-      {
-        time: "11h24",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
-      },
-      {
-        time: "11h24",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
-      },
-      {
-        time: "11h24",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
-      },
-      {
-        time: "12h20",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Guérison sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: "+19 PV",
-      },
-      {
-        time: "12h22",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Attaque sacrée sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result:
-          '-28 PV +1 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
-      },
-      {
-        time: "14h23",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx se cache',
-        result:
-          '+4 <img src="https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04" title="Furtivité" alt="Furtivité">',
-      },
-      {
-        time: "14h23",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -41 PV',
-      },
-    ],
+        "time": "11h12",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Discipline sur <img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal",
+        "result": "+5 <img src=\"https://www.kigard.fr/images/modificateur/40.gif?v=2.15.04\" title=\"Volonté\" alt=\"Volonté\">"
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 7",
-    grid: [
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
       [
         null,
         null,
@@ -16694,7 +20547,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16710,7 +20563,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16726,7 +20579,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16742,7 +20595,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -16758,7 +20611,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16774,7 +20627,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16790,7 +20643,275 @@ const TURNS = [
         null,
         null,
         null,
+        null
+      ],
+      [
         null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://www.kigard.fr/images/vue/monstre/81.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        null,
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "11h24",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -10 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
+      },
+      {
+        "time": "11h24",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -10 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
+      },
+      {
+        "time": "11h24",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Attaque défensive sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -10 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
+      },
+      {
+        "time": "12h20",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy lance le sort Guérison sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "+19 PV"
+      },
+      {
+        "time": "12h22",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal utilise Attaque sacrée sur <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "-28 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04\" title=\"Saignement\" alt=\"Saignement\">"
+      },
+      {
+        "time": "14h23",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx se cache",
+        "result": "+4 <img src=\"https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04\" title=\"Furtivité\" alt=\"Furtivité\">"
+      },
+      {
+        "time": "14h23",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -41 PV"
+      }
+    ]
+  },
+  {
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -16806,7 +20927,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16822,7 +20943,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16838,7 +20959,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16854,7 +20975,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16870,7 +20991,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16886,7 +21007,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16902,34 +21023,67 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "14h26",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal utilise Exécuter sur <img alt="Sonneur ardent" src="https://www.kigard.fr/images/vue/monstre/81.gif"> Sonneur ardent',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -38 PV <img alt="death.svg" src="death.svg" class="icon">',
+        "time": "14h26",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal utilise Exécuter sur <img alt=\"Sonneur ardent\" src=\"https://www.kigard.fr/images/vue/monstre/81.gif\"> Sonneur ardent",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -38 PV <svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M480 491.4C538.5 447.4 576 379.8 576 304C576 171.5 461.4 64 320 64C178.6 64 64 171.5 64 304C64 379.8 101.5 447.4 160 491.4L160 528C160 554.5 181.5 576 208 576L240 576L240 536C240 522.7 250.7 512 264 512C277.3 512 288 522.7 288 536L288 576L352 576L352 536C352 522.7 362.7 512 376 512C389.3 512 400 522.7 400 536L400 576L432 576C458.5 576 480 554.5 480 528zM160 320C160 284.7 188.7 256 224 256C259.3 256 288 284.7 288 320C288 355.3 259.3 384 224 384C188.7 384 160 355.3 160 320zM416 256C451.3 256 480 284.7 480 320C480 355.3 451.3 384 416 384C380.7 384 352 355.3 352 320C352 284.7 380.7 256 416 256z\"/></svg>"
       },
       {
-        time: "14h27",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal attaque hypnotiquement <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -21 PV +2 <img src="https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04" title="Saignement" alt="Saignement">',
+        "time": "14h27",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal attaque hypnotiquement <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -21 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/17.gif?v=2.15.04\" title=\"Saignement\" alt=\"Saignement\">"
       },
       {
-        time: "14h28",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result: "-12 PV",
+        "time": "14h28",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "-12 PV"
       },
-    ],
+      {
+        "time": "15h16",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade active son tour",
+        "result": ""
+      },
+      {
+        "time": "15h16",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade lance le sort Incendie sur <img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage !+3 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
+      },
+      {
+        "time": "15h16",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade lance le sort Incendie sur <img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage !+3 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
+      },
+      {
+        "time": "15h16",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade lance le sort Incendie sur <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx",
+        "result": "+5 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
+      },
+      {
+        "time": "15h16",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade lance le sort Incendie sur <img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka",
+        "result": "+5 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
+      },
+      {
+        "time": "15h16",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade lance le sort Incendie sur <img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage !+3 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
+      },
+      {
+        "time": "15h16",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade lance le sort Incendie sur <img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian",
+        "result": "+5 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 7",
-    grid: [
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
       [
         null,
         null,
@@ -16944,7 +21098,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -16960,7 +21114,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16976,7 +21130,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -16992,7 +21146,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -17008,7 +21162,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17024,7 +21178,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17040,7 +21194,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17056,7 +21210,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17072,7 +21226,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -17088,7 +21242,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -17104,7 +21258,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17120,7 +21274,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17136,7 +21290,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17152,88 +21306,47 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "15h16",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade active son tour',
-        result: "",
+        "time": "15h16",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade se déplace",
+        "result": ""
       },
       {
-        time: "15h16",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "15h16",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade se défend",
+        "result": ""
       },
       {
-        time: "15h16",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "15h16",
+        "text": "<img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade attend",
+        "result": ""
       },
       {
-        time: "15h16",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
-        result:
-          '+5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "15h24",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian active son tour",
+        "result": "-10 PV"
       },
       {
-        time: "15h16",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka',
-        result:
-          '+5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
+        "time": "15h24",
+        "text": "<img alt=\"Mulet\" src=\"https://www.kigard.fr/images/vue/monstre/37.gif\"> Mulet active son tour",
+        "result": ""
       },
       {
-        time: "15h16",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !+3 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
-      },
-      {
-        time: "15h16",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade lance le sort Incendie sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
-        result:
-          '+5 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
-      },
-      {
-        time: "15h16",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se déplace',
-        result: "",
-      },
-      {
-        time: "15h16",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade se défend',
-        result: "",
-      },
-      {
-        time: "15h16",
-        text: '<img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade attend',
-        result: "",
-      },
-      {
-        time: "15h24",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian active son tour',
-        result: "-10 PV",
-      },
-      {
-        time: "15h24",
-        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
-        result: "",
-      },
-      {
-        time: "18h50",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian utilise Soutien dévoué sur <img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu',
-        result: "",
-      },
-    ],
+        "time": "18h50",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian utilise Soutien dévoué sur <img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026",
-    time: "08h00 - 19h59",
-    turn: "Tour 7",
-    grid: [
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
       [
         null,
         null,
@@ -17248,7 +21361,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -17264,7 +21377,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17280,7 +21393,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17296,7 +21409,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -17312,7 +21425,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17328,7 +21441,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17344,7 +21457,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17360,7 +21473,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17376,7 +21489,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -17392,7 +21505,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -17408,7 +21521,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17424,7 +21537,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17440,7 +21553,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17456,27 +21569,27 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "18h58",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka ramasse une dépouille',
-        result: "",
+        "time": "18h58",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka ramasse une dépouille",
+        "result": ""
       },
       {
-        time: "19h50",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy donne un objet à <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
-        result: "",
-      },
-    ],
+        "time": "19h50",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy donne un objet à <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026 - Samedi 7 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 8",
-    grid: [
+    "date": "Vendredi 6 février 2026",
+    "time": "08h00 - 19h59",
+    "turn": "Tour 7",
+    "grid": [
       [
         null,
         null,
@@ -17491,7 +21604,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -17507,7 +21620,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17523,7 +21636,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17539,7 +21652,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -17555,7 +21668,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17571,7 +21684,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17587,7 +21700,245 @@ const TURNS = [
         null,
         null,
         null,
+        null
+      ],
+      [
         null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        null,
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "20h24",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy lance le sort Instinct sur <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! +6 <img src=\"https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04\" title=\"Habile\" alt=\"Habile\">"
+      }
+    ]
+  },
+  {
+    "date": "Vendredi 6 février 2026 - Samedi 7 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 8",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -17603,7 +21954,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17619,7 +21970,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -17635,7 +21986,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -17651,7 +22002,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17667,7 +22018,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17683,7 +22034,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17699,86 +22050,37 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "20h24",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Instinct sur <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! +6 <img src="https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04" title="Habile" alt="Habile">',
+        "time": "20h26",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu ramasse une dépouille",
+        "result": ""
       },
       {
-        time: "20h26",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu ramasse une dépouille',
-        result: "",
+        "time": "20h41",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64z\"/></svg> Esquive !"
       },
       {
-        time: "20h41",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
+        "time": "20h41",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Enchaîner sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "-19 PV +2 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\"> +1 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assomé\" alt=\"Assomé\">"
       },
       {
-        time: "20h41",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Enchaîner sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '-19 PV +2 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure"> +1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assomé" alt="Assomé">',
-      },
-      {
-        time: "20h41",
-        text: '<img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée utilise Attaque défensive sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -10 PV +1 <img src="https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04" title="Brûlure" alt="Brûlure">',
-      },
-      {
-        time: "21h01",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz active son tour',
-        result: "",
-      },
-      {
-        time: "21h01",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant active son tour',
-        result: "",
-      },
-      {
-        time: "21h01",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz médite',
-        result: "",
-      },
-      {
-        time: "21h02",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant utilise Attaque puissante sur <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result: '<img alt="dodge.svg" src="dodge.svg" class="icon"> Esquive !',
-      },
-      {
-        time: "21h02",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -18 PV',
-      },
-      {
-        time: "21h02",
-        text: '<img alt="Tréant" src="https://www.kigard.fr/images/vue/monstre/29.gif"> Tréant attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result: "-29 PV",
-      },
-      {
-        time: "21h03",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz médite',
-        result: "",
-      },
-      {
-        time: "21h39",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy examine l\'état de <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result: "",
-      },
-    ],
+        "time": "20h41",
+        "text": "<img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée utilise Attaque défensive sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -10 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/16.gif?v=2.15.04\" title=\"Brûlure\" alt=\"Brûlure\">"
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026 - Samedi 7 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 8",
-    grid: [
+    "date": "Vendredi 6 février 2026 - Samedi 7 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 8",
+    "grid": [
       [
         null,
         null,
@@ -17793,7 +22095,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -17809,7 +22111,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17825,7 +22127,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17841,7 +22143,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -17857,7 +22159,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17873,7 +22175,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17889,7 +22191,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17905,7 +22207,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17921,14 +22223,14 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
         null,
         null,
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
-        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        null,
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
         null,
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
@@ -17937,7 +22239,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -17945,7 +22247,7 @@ const TURNS = [
         null,
         "https://www.kigard.fr/images/vue/lieu/97.gif",
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
-        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
         "https://www.kigard.fr/images/vue/lieu/97.gif",
         null,
@@ -17953,7 +22255,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17969,7 +22271,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -17985,7 +22287,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18001,27 +22303,57 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "21h47",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian se déplace',
-        result: "",
+        "time": "21h01",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz active son tour",
+        "result": ""
       },
       {
-        time: "21h48",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result: "-27 PV",
+        "time": "21h01",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant active son tour",
+        "result": ""
       },
-    ],
+      {
+        "time": "21h01",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz médite",
+        "result": ""
+      },
+      {
+        "time": "21h02",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant utilise Attaque puissante sur <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64z\"/></svg> Esquive !"
+      },
+      {
+        "time": "21h02",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant attaque <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -18 PV"
+      },
+      {
+        "time": "21h02",
+        "text": "<img alt=\"Tréant\" src=\"https://www.kigard.fr/images/vue/monstre/29.gif\"> Tréant attaque <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "-29 PV"
+      },
+      {
+        "time": "21h03",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz médite",
+        "result": ""
+      },
+      {
+        "time": "21h39",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy examine l'état de <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026 - Samedi 7 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 8",
-    grid: [
+    "date": "Vendredi 6 février 2026 - Samedi 7 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 8",
+    "grid": [
       [
         null,
         null,
@@ -18036,7 +22368,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -18052,7 +22384,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18068,7 +22400,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18084,7 +22416,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -18100,7 +22432,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18116,7 +22448,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18132,7 +22464,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18148,7 +22480,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18164,7 +22496,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -18180,15 +22512,15 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
         null,
         null,
         "https://www.kigard.fr/images/vue/lieu/97.gif",
-        null,
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        null,
         "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
         "https://www.kigard.fr/images/vue/lieu/97.gif",
         null,
@@ -18196,7 +22528,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18212,7 +22544,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18228,7 +22560,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18244,131 +22576,27 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "21h48",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz se déplace',
-        result: "",
+        "time": "21h47",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian se déplace",
+        "result": ""
       },
       {
-        time: "21h48",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Purification sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+8 <img src="https://www.kigard.fr/images/modificateur/21.gif?v=2.15.04" title="Immunité" alt="Immunité">',
-      },
-      {
-        time: "21h48",
-        text: '<img alt="Karz" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif"> [CIC] Karz lance le sort Régénération sur <img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+9 <img src="https://www.kigard.fr/images/modificateur/11.gif?v=2.15.04" title="Régénération" alt="Régénération">',
-      },
-      {
-        time: "21h50",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  active son tour',
-        result: "+16 PV",
-      },
-      {
-        time: "21h57",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy active son tour',
-        result: "",
-      },
-      {
-        time: "21h58",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Coup de bouclier sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage !+1 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assommé" alt="Assommé">',
-      },
-      {
-        time: "21h58",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Assommer sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '-5 PV +3 <img src="https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04" title="Assommé" alt="Assommé">',
-      },
-      {
-        time: "21h58",
-        text: '<img alt="Tigrrr" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif"> Tigrrr  utilise Attaque sournoise sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -38 PV',
-      },
-      {
-        time: "22h01",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius active son tour',
-        result: "",
-      },
-      {
-        time: "22h01",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius lance le sort Purification sur <img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+8 <img src="https://www.kigard.fr/images/modificateur/21.gif?v=2.15.04" title="Immunité" alt="Immunité">',
-      },
-      {
-        time: "22h05",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian active son tour',
-        result: "+4 PV",
-      },
-      {
-        time: "22h05",
-        text: '<img alt="Mulet" src="https://www.kigard.fr/images/vue/monstre/37.gif"> Mulet active son tour',
-        result: "",
-      },
-      {
-        time: "22h06",
-        text: '<img alt="Ixiorius" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif"> [CIC] Ixiorius utilise Incanter',
-        result: "",
-      },
-      {
-        time: "22h28",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu active son tour',
-        result: "",
-      },
-      {
-        time: "22h33",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy lance le sort Instinct sur <img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique !+6 <img src="https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04" title="Habile" alt="Habile">',
-      },
-      {
-        time: "22h34",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane active son tour',
-        result: "",
-      },
-      {
-        time: "22h36",
-        text: '<img alt="Eressëa Sirthaal" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif"> \nEressëa Sirthaal active son tour',
-        result: "-6 PV",
-      },
-      {
-        time: "22h37",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka active son tour',
-        result: "-4 PV",
-      },
-      {
-        time: "22h37",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka utilise Attaque sournoise sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '-16 PV +1 <img src="https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04" title="Faille" alt="Faille">',
-      },
-      {
-        time: "22h37",
-        text: '<img alt="Loxka" src="https://www.kigard.fr/images/vue/pj/HalfelinM.gif"> Loxka attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -8 PV',
-      },
-      {
-        time: "22h42",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx active son tour',
-        result: "-10 PV",
-      },
-    ],
+        "time": "21h48",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian attaque <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "-27 PV"
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026 - Samedi 7 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 8",
-    grid: [
+    "date": "Vendredi 6 février 2026 - Samedi 7 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 8",
+    "grid": [
       [
         null,
         null,
@@ -18383,7 +22611,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -18399,7 +22627,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18415,7 +22643,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18431,7 +22659,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -18447,7 +22675,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18463,7 +22691,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18479,7 +22707,578 @@ const TURNS = [
         null,
         null,
         null,
+        null
+      ],
+      [
         null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        null,
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "21h48",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz se déplace",
+        "result": ""
+      },
+      {
+        "time": "21h48",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Purification sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+8 <img src=\"https://www.kigard.fr/images/modificateur/21.gif?v=2.15.04\" title=\"Immunité\" alt=\"Immunité\">"
+      },
+      {
+        "time": "21h48",
+        "text": "<img alt=\"Karz\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif\"> [CIC] Karz lance le sort Régénération sur <img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+9 <img src=\"https://www.kigard.fr/images/modificateur/11.gif?v=2.15.04\" title=\"Régénération\" alt=\"Régénération\">"
+      },
+      {
+        "time": "21h50",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  active son tour",
+        "result": "+16 PV"
+      },
+      {
+        "time": "21h57",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy active son tour",
+        "result": ""
+      },
+      {
+        "time": "21h58",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  utilise Coup de bouclier sur <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage !+1 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assommé\" alt=\"Assommé\">"
+      },
+      {
+        "time": "21h58",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  utilise Assommer sur <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "-5 PV +3 <img src=\"https://www.kigard.fr/images/modificateur/1.gif?v=2.15.04\" title=\"Assommé\" alt=\"Assommé\">"
+      },
+      {
+        "time": "21h58",
+        "text": "<img alt=\"Tigrrr\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif\"> Tigrrr  utilise Attaque sournoise sur <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -38 PV"
+      },
+      {
+        "time": "22h01",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius active son tour",
+        "result": ""
+      },
+      {
+        "time": "22h01",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius lance le sort Purification sur <img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+8 <img src=\"https://www.kigard.fr/images/modificateur/21.gif?v=2.15.04\" title=\"Immunité\" alt=\"Immunité\">"
+      }
+    ]
+  },
+  {
+    "date": "Vendredi 6 février 2026 - Samedi 7 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 8",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/29.gif",
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        "https://www.kigard.fr/images/vue/monstre/82.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/refs/heads/main/night/Gatsu.gif",
+        null,
+        "https://www.kigard.fr/images/vue/pj/HalfelinM.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Tigrrr.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif",
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Karz.gif",
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif",
+        "https://www.kigard.fr/images/vue/lieu/97.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/37.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null
+      ]
+    ],
+    "history": [
+      {
+        "time": "22h05",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian active son tour",
+        "result": "+4 PV"
+      },
+      {
+        "time": "22h05",
+        "text": "<img alt=\"Mulet\" src=\"https://www.kigard.fr/images/vue/monstre/37.gif\"> Mulet active son tour",
+        "result": ""
+      },
+      {
+        "time": "22h06",
+        "text": "<img alt=\"Ixiorius\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Ixiorius.gif\"> [CIC] Ixiorius utilise Incanter",
+        "result": ""
+      },
+      {
+        "time": "22h28",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu active son tour",
+        "result": ""
+      },
+      {
+        "time": "22h33",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy lance le sort Instinct sur <img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique !+6 <img src=\"https://www.kigard.fr/images/modificateur/22.gif?v=2.15.04\" title=\"Habile\" alt=\"Habile\">"
+      },
+      {
+        "time": "22h34",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane active son tour",
+        "result": ""
+      },
+      {
+        "time": "22h36",
+        "text": "<img alt=\"Eressëa Sirthaal\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Eressëa%20Sirthaal.gif\"> \nEressëa Sirthaal active son tour",
+        "result": "-6 PV"
+      },
+      {
+        "time": "22h37",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka active son tour",
+        "result": "-4 PV"
+      },
+      {
+        "time": "22h37",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka utilise Attaque sournoise sur <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "-16 PV +1 <img src=\"https://www.kigard.fr/images/modificateur/3.gif?v=2.15.04\" title=\"Faille\" alt=\"Faille\">"
+      },
+      {
+        "time": "22h37",
+        "text": "<img alt=\"Loxka\" src=\"https://www.kigard.fr/images/vue/pj/HalfelinM.gif\"> Loxka attaque (main gauche) <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -8 PV"
+      },
+      {
+        "time": "22h42",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx active son tour",
+        "result": "-10 PV"
+      }
+    ]
+  },
+  {
+    "date": "Vendredi 6 février 2026 - Samedi 7 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 8",
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/133.gif",
+        null,
+        null,
+        null
+      ],
+      [
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        null,
+        null,
+        "https://www.kigard.fr/images/vue/monstre/79.gif",
+        null,
+        "https://www.kigard.fr/images/vue/lieu/13.gif",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       [
         null,
@@ -18495,7 +23294,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18511,7 +23310,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -18527,7 +23326,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -18543,7 +23342,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18559,7 +23358,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18575,7 +23374,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18591,22 +23390,22 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "22h53",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu utilise Bond athlétique',
-        result: "",
-      },
-    ],
+        "time": "22h53",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu utilise Bond athlétique",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026 - Samedi 7 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 8",
-    grid: [
+    "date": "Vendredi 6 février 2026 - Samedi 7 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 8",
+    "grid": [
       [
         null,
         null,
@@ -18621,7 +23420,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -18637,7 +23436,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18653,7 +23452,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18669,7 +23468,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -18685,7 +23484,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18701,7 +23500,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18717,7 +23516,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18733,7 +23532,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18749,7 +23548,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -18765,7 +23564,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -18781,7 +23580,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18797,7 +23596,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18813,7 +23612,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18829,44 +23628,42 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "22h53",
-        text: '<img alt="Gatsu" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif"> [CIC] Gatsu ramasse une dépouille',
-        result: "",
+        "time": "22h53",
+        "text": "<img alt=\"Gatsu\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Gatsu.gif\"> [CIC] Gatsu ramasse une dépouille",
+        "result": ""
       },
       {
-        time: "23h04",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -17 PV',
+        "time": "23h04",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian attaque <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -17 PV"
       },
       {
-        time: "23h04",
-        text: '<img alt="Melian" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif"> [CIC] Melian attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result:
-          '<img alt="block.svg" src="block.svg" class="icon"> Blocage ! -17 PV',
+        "time": "23h04",
+        "text": "<img alt=\"Melian\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Melian.gif\"> [CIC] Melian attaque <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M320 64C324.6 64 329.2 65 333.4 66.9L521.8 146.8C543.8 156.1 560.2 177.8 560.1 204C559.6 303.2 518.8 484.7 346.5 567.2C329.8 575.2 310.4 575.2 293.7 567.2C121.3 484.7 80.6 303.2 80.1 204C80 177.8 96.4 156.1 118.4 146.8L306.7 66.9C310.9 65 315.4 64 320 64zM320 130.8L320 508.9C458 442.1 495.1 294.1 496 205.5L320 130.9z\"/></svg> Blocage ! -17 PV"
       },
       {
-        time: "23h08",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy utilise Soutien dévoué sur <img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane',
-        result: "",
+        "time": "23h08",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy utilise Soutien dévoué sur <img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane",
+        "result": ""
       },
       {
-        time: "23h09",
-        text: '<img alt="Sephy" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif"> [CIC] Sephy soutient <img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx',
-        result: "",
-      },
-    ],
+        "time": "23h09",
+        "text": "<img alt=\"Sephy\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Sephy.gif\"> [CIC] Sephy soutient <img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx",
+        "result": ""
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026 - Samedi 7 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 8",
-    grid: [
+    "date": "Vendredi 6 février 2026 - Samedi 7 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 8",
+    "grid": [
       [
         null,
         null,
@@ -18881,7 +23678,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -18897,7 +23694,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18913,7 +23710,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18929,7 +23726,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -18945,7 +23742,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18961,7 +23758,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18977,7 +23774,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -18993,7 +23790,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19009,7 +23806,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -19025,7 +23822,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -19041,7 +23838,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19057,7 +23854,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19073,7 +23870,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19089,33 +23886,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "23h10",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane se déplace',
-        result: "",
+        "time": "23h10",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane se déplace",
+        "result": ""
       },
       {
-        time: "23h10",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result: "-11 PV",
+        "time": "23h10",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane attaque (main gauche) <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "-11 PV"
       },
       {
-        time: "23h10",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane utilise Attaque puissante sur <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -41 PV',
-      },
-    ],
+        "time": "23h10",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane utilise Attaque puissante sur <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -41 PV"
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026 - Samedi 7 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 8",
-    grid: [
+    "date": "Vendredi 6 février 2026 - Samedi 7 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 8",
+    "grid": [
       [
         null,
         null,
@@ -19130,7 +23926,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -19146,7 +23942,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19162,7 +23958,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19178,7 +23974,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -19194,7 +23990,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19210,7 +24006,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19226,7 +24022,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19242,7 +24038,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19258,7 +24054,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -19274,7 +24070,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -19290,7 +24086,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19306,7 +24102,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19322,7 +24118,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19338,23 +24134,22 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "23h11",
-        text: '<img alt="Kane" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif"> [CIC] Kane attaque (main gauche) <img alt="Flammeliée" src="https://www.kigard.fr/images/vue/monstre/82.gif"> Flammeliée',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -25 PV <img alt="death.svg" src="death.svg" class="icon">',
-      },
-    ],
+        "time": "23h11",
+        "text": "<img alt=\"Kane\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Kane.gif\"> [CIC] Kane attaque (main gauche) <img alt=\"Flammeliée\" src=\"https://www.kigard.fr/images/vue/monstre/82.gif\"> Flammeliée",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -25 PV <svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M480 491.4C538.5 447.4 576 379.8 576 304C576 171.5 461.4 64 320 64C178.6 64 64 171.5 64 304C64 379.8 101.5 447.4 160 491.4L160 528C160 554.5 181.5 576 208 576L240 576L240 536C240 522.7 250.7 512 264 512C277.3 512 288 522.7 288 536L288 576L352 576L352 536C352 522.7 362.7 512 376 512C389.3 512 400 522.7 400 536L400 576L432 576C458.5 576 480 554.5 480 528zM160 320C160 284.7 188.7 256 224 256C259.3 256 288 284.7 288 320C288 355.3 259.3 384 224 384C188.7 384 160 355.3 160 320zM416 256C451.3 256 480 284.7 480 320C480 355.3 451.3 384 416 384C380.7 384 352 355.3 352 320C352 284.7 380.7 256 416 256z\"/></svg>"
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026 - Samedi 7 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 8",
-    grid: [
+    "date": "Vendredi 6 février 2026 - Samedi 7 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 8",
+    "grid": [
       [
         null,
         null,
@@ -19369,7 +24164,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -19385,7 +24180,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19401,7 +24196,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19417,7 +24212,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -19433,7 +24228,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19449,7 +24244,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19465,7 +24260,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19481,7 +24276,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19497,7 +24292,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -19513,7 +24308,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -19529,7 +24324,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19545,7 +24340,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19561,7 +24356,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19577,22 +24372,32 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "23h11",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx utilise Bond athlétique',
-        result: "",
+        "time": "23h11",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx utilise Bond athlétique",
+        "result": ""
       },
-    ],
+      {
+        "time": "23h12",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx se cache",
+        "result": "+6 <img src=\"https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04\" title=\"Furtivité\" alt=\"Furtivité\">"
+      },
+      {
+        "time": "23h12",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -48 PV"
+      }
+    ]
   },
   {
-    date: "Vendredi 6 février 2026 - Samedi 7 février 2026",
-    time: "20h00 - 07h59",
-    turn: "Tour 8",
-    grid: [
+    "date": "Vendredi 6 février 2026 - Samedi 7 février 2026",
+    "time": "20h00 - 07h59",
+    "turn": "Tour 8",
+    "grid": [
       [
         null,
         null,
@@ -19607,7 +24412,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -19623,7 +24428,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19639,7 +24444,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19655,7 +24460,7 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/133.gif",
         null,
         null,
-        null,
+        null
       ],
       [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
@@ -19671,7 +24476,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19687,7 +24492,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19703,7 +24508,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19719,7 +24524,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19735,7 +24540,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -19751,7 +24556,7 @@ const TURNS = [
         null,
         null,
         null,
-        "https://www.kigard.fr/images/vue/lieu/124.gif",
+        "https://www.kigard.fr/images/vue/lieu/124.gif"
       ],
       [
         null,
@@ -19767,7 +24572,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19783,7 +24588,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19799,7 +24604,7 @@ const TURNS = [
         null,
         null,
         null,
-        null,
+        null
       ],
       [
         null,
@@ -19815,28 +24620,15 @@ const TURNS = [
         "https://www.kigard.fr/images/vue/lieu/124.gif",
         null,
         null,
-        null,
-      ],
+        null
+      ]
     ],
-    history: [
+    "history": [
       {
-        time: "23h12",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx se cache',
-        result:
-          '+6 <img src="https://www.kigard.fr/images/modificateur/13.gif?v=2.15.04" title="Furtivité" alt="Furtivité">',
-      },
-      {
-        time: "23h12",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -48 PV',
-      },
-      {
-        time: "23h12",
-        text: '<img alt="Noxx" src="https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif"> [CIC] Noxx attaque <img alt="Lampade" src="https://www.kigard.fr/images/vue/monstre/79.gif"> Lampade',
-        result:
-          '<img alt="crit.svg" src="crit.svg" class="icon"> Critique ! -43 PV <img alt="death.svg" src="death.svg" class="icon">',
-      },
-    ],
-  },
+        "time": "23h12",
+        "text": "<img alt=\"Noxx\" src=\"https://raw.githubusercontent.com/Ciolfire/kigard-fashion-script/main/night/Noxx.gif\"> [CIC] Noxx attaque <img alt=\"Lampade\" src=\"https://www.kigard.fr/images/vue/monstre/79.gif\"> Lampade",
+        "result": "<svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M101.6 68.2C92 61.7 79.2 62.9 71 71C62.8 79.1 61.7 92 68.2 101.6L180.2 264.9L80.6 297.2C70.7 300.4 64 309.6 64 320C64 330.4 70.7 339.6 80.6 342.8L183.7 376.2L130.8 476.8C125.9 486.1 127.6 497.5 135.1 504.9C142.6 512.3 153.9 514.1 163.2 509.2L263.8 456.3L297.2 559.4C300.4 569.3 309.6 576 320 576C330.4 576 339.6 569.3 342.8 559.4L376.2 456.3L476.8 509.2C486.1 514.1 497.5 512.4 504.9 504.9C512.3 497.4 514.1 486.1 509.2 476.8L456.3 376.2L559.4 342.8C569.3 339.6 576 330.4 576 320C576 309.6 569.3 300.4 559.4 297.2L452.9 262.7L478.6 192.3C481.8 183.5 479.6 173.7 473 167.1C466.4 160.5 456.6 158.3 447.8 161.5L377.4 187.2L342.9 80.7C339.6 70.7 330.4 64 320 64C309.6 64 300.4 70.7 297.2 80.6L264.9 180.2L101.6 68.2z\"/></svg> Critique ! -43 PV <svg style=\"width:16px;height:16px;vertical-align:middle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M480 491.4C538.5 447.4 576 379.8 576 304C576 171.5 461.4 64 320 64C178.6 64 64 171.5 64 304C64 379.8 101.5 447.4 160 491.4L160 528C160 554.5 181.5 576 208 576L240 576L240 536C240 522.7 250.7 512 264 512C277.3 512 288 522.7 288 536L288 576L352 576L352 536C352 522.7 362.7 512 376 512C389.3 512 400 522.7 400 536L400 576L432 576C458.5 576 480 554.5 480 528zM160 320C160 284.7 188.7 256 224 256C259.3 256 288 284.7 288 320C288 355.3 259.3 384 224 384C188.7 384 160 355.3 160 320zM416 256C451.3 256 480 284.7 480 320C480 355.3 451.3 384 416 384C380.7 384 352 355.3 352 320C352 284.7 380.7 256 416 256z\"/></svg>"
+      }
+    ]
+  }
 ];

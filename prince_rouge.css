@@ -270,7 +270,3 @@ td img {
         padding: 20px 0;
     }
 }
-/* Désactive le double-tap-to-zoom sur les éléments interactifs (mobile) */
-*, button, input[type="range"], .navigation, .nav-combats, .nav-combats a {
-    touch-action: manipulation;
-}
