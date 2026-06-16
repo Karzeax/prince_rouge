@@ -273,3 +273,118 @@ td img {
         padding: 20px 0;
     }
 }
+
+/* ============================================
+   BILAN DU COMBAT
+   ============================================ */
+.bilan-wrap {
+    width: 100%;
+    max-width: 540px;
+    box-sizing: border-box;
+}
+
+.bilan {
+    background-color: #f0d994;
+    padding: 14px 14px 18px;
+    box-sizing: border-box;
+    color: #3d2f1c;
+    font-family: serif;
+}
+
+.bilan-head {
+    text-align: center;
+    font-size: 19px;
+    font-weight: 800;
+    border-bottom: 2px solid #60482d;
+    padding-bottom: 6px;
+}
+
+.bilan-sub {
+    text-align: center;
+    font-size: 12px;
+    color: #7a5c3a;
+    margin: 6px 0 14px;
+}
+
+.bilan-mvp {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.bilan-card {
+    background-color: #f2dfb1;
+    border: 1px solid #debf85;
+    border-radius: 6px;
+    padding: 8px 10px;
+    text-align: center;
+}
+
+.bilan-card-label { font-size: 11px; color: #7a5c3a; }
+.bilan-card-row { display: flex; align-items: center; justify-content: center; gap: 5px; margin: 3px 0; }
+.bilan-card-name { font-size: 14px; font-weight: 800; }
+.bilan-card-val { font-size: 13px; color: #993c1d; font-weight: 700; }
+.bilan-card-heal .bilan-card-val { color: #0f6e56; }
+
+.bilan-stitle {
+    font-size: 13px;
+    font-weight: 800;
+    margin: 4px 0 8px;
+    color: #3d2f1c;
+}
+
+.bilan-bars { display: flex; flex-direction: column; gap: 6px; margin-bottom: 16px; }
+.bilan-bar-row { display: flex; align-items: center; gap: 8px; }
+.bilan-bar-name { width: 120px; display: flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 700; }
+.bilan-bar-name span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.bilan-bar-track { flex: 1; background-color: #debf85; border-radius: 4px; height: 20px; overflow: hidden; }
+.bilan-bar-fill { height: 100%; border-radius: 4px; }
+.bilan-bar-fill.r1 { background-color: #c79a3a; }
+.bilan-bar-fill.r2 { background-color: #a8a29a; }
+.bilan-bar-fill.r3 { background-color: #b97a3a; }
+.bilan-bar-fill.rn { background-color: #8a6a44; }
+.bilan-bar-fill.rt { background-color: #6b7a3a; }
+.bilan-bar-val { width: 92px; font-size: 12px; text-align: right; }
+
+.bilan-medal {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 17px; height: 17px; border-radius: 50%;
+    background-color: #60482d; color: #f2dfb1; font-size: 11px; font-weight: 700;
+    flex-shrink: 0;
+}
+.bilan-medal-n { background-color: #b8a47e; color: #3d2f1c; }
+
+.bilan-ava { width: 20px; height: 20px; vertical-align: middle; flex-shrink: 0; }
+.bilan-ava-empty { display: inline-block; background-color: #debf85; border-radius: 3px; }
+
+.bilan-tablewrap { overflow-x: auto; }
+.bilan-heal { color: #0f6e56; }
+.bilan-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.bilan-table th, .bilan-table td { white-space: nowrap; }
+.bilan-table th {
+    text-align: left; font-size: 11px; color: #7a5c3a;
+    border-bottom: 1px solid #60482d; padding: 4px 5px;
+}
+.bilan-table td { padding: 4px 5px; border-bottom: 1px solid #e3cd97; vertical-align: middle; }
+.bilan-table td.bilan-td-name { white-space: normal; }
+.bilan-td-name { display: flex; align-items: center; gap: 6px; }
+.bilan-td-name .bilan-ava { flex-shrink: 0; }
+.bilan-td-name span { min-width: 0; }
+.bilan-tag {
+    font-size: 9px; background-color: #6b7a3a; color: #f0f3e0;
+    border-radius: 3px; padding: 1px 5px; margin-left: 2px;
+}
+.bilan-mut { color: #7a5c3a; font-size: 11px; }
+
+.bilan-note {
+    font-size: 11px; color: #7a5c3a; font-style: italic;
+    margin-top: 12px; border-top: 1px dashed #b8a47e; padding-top: 8px;
+}
+
+@media screen and (max-width: 540px) {
+    .bilan-bar-name { width: 92px; font-size: 11px; }
+    .bilan-bar-val { width: 78px; font-size: 11px; }
+    .bilan-table { font-size: 12px; }
+    .bilan-head { font-size: 16px; }
+}
